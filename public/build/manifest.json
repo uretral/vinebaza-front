@@ -1,0 +1,828 @@
+{
+  "resources/assets/_sk/catalog_03-1.jpg": {
+    "file": "assets/catalog_03-1-002fef48.jpg",
+    "src": "resources/assets/_sk/catalog_03-1.jpg"
+  },
+  "resources/assets/fonts/CoreRhino85Black.ttf": {
+    "file": "assets/CoreRhino85Black-9867cd7b.ttf",
+    "src": "resources/assets/fonts/CoreRhino85Black.ttf"
+  },
+  "resources/assets/fonts/CoreRhino85Black.woff": {
+    "file": "assets/CoreRhino85Black-3da69cd4.woff",
+    "src": "resources/assets/fonts/CoreRhino85Black.woff"
+  },
+  "resources/assets/fonts/CoreRhino85Black.woff2": {
+    "file": "assets/CoreRhino85Black-5c2c21f5.woff2",
+    "src": "resources/assets/fonts/CoreRhino85Black.woff2"
+  },
+  "resources/assets/fonts/SFUIDisplay-Black.eot": {
+    "file": "assets/SFUIDisplay-Black-fe978815.eot",
+    "src": "resources/assets/fonts/SFUIDisplay-Black.eot"
+  },
+  "resources/assets/fonts/SFUIDisplay-Black.ttf": {
+    "file": "assets/SFUIDisplay-Black-969939b2.ttf",
+    "src": "resources/assets/fonts/SFUIDisplay-Black.ttf"
+  },
+  "resources/assets/fonts/SFUIDisplay-Black.woff": {
+    "file": "assets/SFUIDisplay-Black-86980815.woff",
+    "src": "resources/assets/fonts/SFUIDisplay-Black.woff"
+  },
+  "resources/assets/fonts/SFUIDisplay-Black.woff2": {
+    "file": "assets/SFUIDisplay-Black-7834bdca.woff2",
+    "src": "resources/assets/fonts/SFUIDisplay-Black.woff2"
+  },
+  "resources/assets/fonts/SFUIDisplay-Bold.eot": {
+    "file": "assets/SFUIDisplay-Bold-d5817588.eot",
+    "src": "resources/assets/fonts/SFUIDisplay-Bold.eot"
+  },
+  "resources/assets/fonts/SFUIDisplay-Bold.ttf": {
+    "file": "assets/SFUIDisplay-Bold-a09e2515.ttf",
+    "src": "resources/assets/fonts/SFUIDisplay-Bold.ttf"
+  },
+  "resources/assets/fonts/SFUIDisplay-Bold.woff": {
+    "file": "assets/SFUIDisplay-Bold-8a5ff25c.woff",
+    "src": "resources/assets/fonts/SFUIDisplay-Bold.woff"
+  },
+  "resources/assets/fonts/SFUIDisplay-Bold.woff2": {
+    "file": "assets/SFUIDisplay-Bold-310c7ae8.woff2",
+    "src": "resources/assets/fonts/SFUIDisplay-Bold.woff2"
+  },
+  "resources/assets/fonts/SFUIDisplay-Heavy.eot": {
+    "file": "assets/SFUIDisplay-Heavy-6392b8d4.eot",
+    "src": "resources/assets/fonts/SFUIDisplay-Heavy.eot"
+  },
+  "resources/assets/fonts/SFUIDisplay-Heavy.ttf": {
+    "file": "assets/SFUIDisplay-Heavy-40e552c3.ttf",
+    "src": "resources/assets/fonts/SFUIDisplay-Heavy.ttf"
+  },
+  "resources/assets/fonts/SFUIDisplay-Heavy.woff": {
+    "file": "assets/SFUIDisplay-Heavy-4a8c8502.woff",
+    "src": "resources/assets/fonts/SFUIDisplay-Heavy.woff"
+  },
+  "resources/assets/fonts/SFUIDisplay-Heavy.woff2": {
+    "file": "assets/SFUIDisplay-Heavy-2919c91c.woff2",
+    "src": "resources/assets/fonts/SFUIDisplay-Heavy.woff2"
+  },
+  "resources/assets/fonts/SFUIDisplay-Light.eot": {
+    "file": "assets/SFUIDisplay-Light-2bb2c25b.eot",
+    "src": "resources/assets/fonts/SFUIDisplay-Light.eot"
+  },
+  "resources/assets/fonts/SFUIDisplay-Light.ttf": {
+    "file": "assets/SFUIDisplay-Light-bb1597dc.ttf",
+    "src": "resources/assets/fonts/SFUIDisplay-Light.ttf"
+  },
+  "resources/assets/fonts/SFUIDisplay-Light.woff": {
+    "file": "assets/SFUIDisplay-Light-1e41635a.woff",
+    "src": "resources/assets/fonts/SFUIDisplay-Light.woff"
+  },
+  "resources/assets/fonts/SFUIDisplay-Light.woff2": {
+    "file": "assets/SFUIDisplay-Light-2db084c3.woff2",
+    "src": "resources/assets/fonts/SFUIDisplay-Light.woff2"
+  },
+  "resources/assets/fonts/SFUIDisplay-Medium.eot": {
+    "file": "assets/SFUIDisplay-Medium-dd3f2af3.eot",
+    "src": "resources/assets/fonts/SFUIDisplay-Medium.eot"
+  },
+  "resources/assets/fonts/SFUIDisplay-Medium.ttf": {
+    "file": "assets/SFUIDisplay-Medium-4751b1a8.ttf",
+    "src": "resources/assets/fonts/SFUIDisplay-Medium.ttf"
+  },
+  "resources/assets/fonts/SFUIDisplay-Medium.woff": {
+    "file": "assets/SFUIDisplay-Medium-a18adcd3.woff",
+    "src": "resources/assets/fonts/SFUIDisplay-Medium.woff"
+  },
+  "resources/assets/fonts/SFUIDisplay-Medium.woff2": {
+    "file": "assets/SFUIDisplay-Medium-d801fcf9.woff2",
+    "src": "resources/assets/fonts/SFUIDisplay-Medium.woff2"
+  },
+  "resources/assets/fonts/SFUIDisplay-Regular.eot": {
+    "file": "assets/SFUIDisplay-Regular-b4df14c5.eot",
+    "src": "resources/assets/fonts/SFUIDisplay-Regular.eot"
+  },
+  "resources/assets/fonts/SFUIDisplay-Regular.ttf": {
+    "file": "assets/SFUIDisplay-Regular-ce43ea3e.ttf",
+    "src": "resources/assets/fonts/SFUIDisplay-Regular.ttf"
+  },
+  "resources/assets/fonts/SFUIDisplay-Regular.woff": {
+    "file": "assets/SFUIDisplay-Regular-dcc176d0.woff",
+    "src": "resources/assets/fonts/SFUIDisplay-Regular.woff"
+  },
+  "resources/assets/fonts/SFUIDisplay-Regular.woff2": {
+    "file": "assets/SFUIDisplay-Regular-474b4d72.woff2",
+    "src": "resources/assets/fonts/SFUIDisplay-Regular.woff2"
+  },
+  "resources/assets/fonts/SFUIDisplay-Semibold.eot": {
+    "file": "assets/SFUIDisplay-Semibold-e1deb04b.eot",
+    "src": "resources/assets/fonts/SFUIDisplay-Semibold.eot"
+  },
+  "resources/assets/fonts/SFUIDisplay-Semibold.ttf": {
+    "file": "assets/SFUIDisplay-Semibold-9c8cc4fb.ttf",
+    "src": "resources/assets/fonts/SFUIDisplay-Semibold.ttf"
+  },
+  "resources/assets/fonts/SFUIDisplay-Semibold.woff": {
+    "file": "assets/SFUIDisplay-Semibold-a26ca80f.woff",
+    "src": "resources/assets/fonts/SFUIDisplay-Semibold.woff"
+  },
+  "resources/assets/fonts/SFUIDisplay-Semibold.woff2": {
+    "file": "assets/SFUIDisplay-Semibold-734cf6d1.woff2",
+    "src": "resources/assets/fonts/SFUIDisplay-Semibold.woff2"
+  },
+  "resources/assets/fonts/SFUIDisplay-Thin.eot": {
+    "file": "assets/SFUIDisplay-Thin-61c1eb68.eot",
+    "src": "resources/assets/fonts/SFUIDisplay-Thin.eot"
+  },
+  "resources/assets/fonts/SFUIDisplay-Thin.ttf": {
+    "file": "assets/SFUIDisplay-Thin-372a5b02.ttf",
+    "src": "resources/assets/fonts/SFUIDisplay-Thin.ttf"
+  },
+  "resources/assets/fonts/SFUIDisplay-Thin.woff": {
+    "file": "assets/SFUIDisplay-Thin-d9adbc2e.woff",
+    "src": "resources/assets/fonts/SFUIDisplay-Thin.woff"
+  },
+  "resources/assets/fonts/SFUIDisplay-Thin.woff2": {
+    "file": "assets/SFUIDisplay-Thin-8bcbd403.woff2",
+    "src": "resources/assets/fonts/SFUIDisplay-Thin.woff2"
+  },
+  "resources/assets/fonts/SFUIDisplay-Ultralight.eot": {
+    "file": "assets/SFUIDisplay-Ultralight-a5892d58.eot",
+    "src": "resources/assets/fonts/SFUIDisplay-Ultralight.eot"
+  },
+  "resources/assets/fonts/SFUIDisplay-Ultralight.ttf": {
+    "file": "assets/SFUIDisplay-Ultralight-050e7d01.ttf",
+    "src": "resources/assets/fonts/SFUIDisplay-Ultralight.ttf"
+  },
+  "resources/assets/fonts/SFUIDisplay-Ultralight.woff": {
+    "file": "assets/SFUIDisplay-Ultralight-413a7c6e.woff",
+    "src": "resources/assets/fonts/SFUIDisplay-Ultralight.woff"
+  },
+  "resources/assets/fonts/SFUIDisplay-Ultralight.woff2": {
+    "file": "assets/SFUIDisplay-Ultralight-2a73d6e0.woff2",
+    "src": "resources/assets/fonts/SFUIDisplay-Ultralight.woff2"
+  },
+  "resources/assets/fonts/SFUIText-Bold.eot": {
+    "file": "assets/SFUIText-Bold-1ccf1f62.eot",
+    "src": "resources/assets/fonts/SFUIText-Bold.eot"
+  },
+  "resources/assets/fonts/SFUIText-Bold.ttf": {
+    "file": "assets/SFUIText-Bold-2a62a210.ttf",
+    "src": "resources/assets/fonts/SFUIText-Bold.ttf"
+  },
+  "resources/assets/fonts/SFUIText-Bold.woff": {
+    "file": "assets/SFUIText-Bold-3dfa7f4b.woff",
+    "src": "resources/assets/fonts/SFUIText-Bold.woff"
+  },
+  "resources/assets/fonts/SFUIText-Bold.woff2": {
+    "file": "assets/SFUIText-Bold-eeadecf7.woff2",
+    "src": "resources/assets/fonts/SFUIText-Bold.woff2"
+  },
+  "resources/assets/fonts/SFUIText-BoldItalic.eot": {
+    "file": "assets/SFUIText-BoldItalic-f22ea605.eot",
+    "src": "resources/assets/fonts/SFUIText-BoldItalic.eot"
+  },
+  "resources/assets/fonts/SFUIText-BoldItalic.ttf": {
+    "file": "assets/SFUIText-BoldItalic-63e9eddd.ttf",
+    "src": "resources/assets/fonts/SFUIText-BoldItalic.ttf"
+  },
+  "resources/assets/fonts/SFUIText-BoldItalic.woff": {
+    "file": "assets/SFUIText-BoldItalic-98af0dbc.woff",
+    "src": "resources/assets/fonts/SFUIText-BoldItalic.woff"
+  },
+  "resources/assets/fonts/SFUIText-BoldItalic.woff2": {
+    "file": "assets/SFUIText-BoldItalic-a6fa99ce.woff2",
+    "src": "resources/assets/fonts/SFUIText-BoldItalic.woff2"
+  },
+  "resources/assets/fonts/SFUIText-Heavy.eot": {
+    "file": "assets/SFUIText-Heavy-29a14dd6.eot",
+    "src": "resources/assets/fonts/SFUIText-Heavy.eot"
+  },
+  "resources/assets/fonts/SFUIText-Heavy.ttf": {
+    "file": "assets/SFUIText-Heavy-17caaf60.ttf",
+    "src": "resources/assets/fonts/SFUIText-Heavy.ttf"
+  },
+  "resources/assets/fonts/SFUIText-Heavy.woff": {
+    "file": "assets/SFUIText-Heavy-f244aaac.woff",
+    "src": "resources/assets/fonts/SFUIText-Heavy.woff"
+  },
+  "resources/assets/fonts/SFUIText-Heavy.woff2": {
+    "file": "assets/SFUIText-Heavy-1a66ea0b.woff2",
+    "src": "resources/assets/fonts/SFUIText-Heavy.woff2"
+  },
+  "resources/assets/fonts/SFUIText-HeavyItalic.eot": {
+    "file": "assets/SFUIText-HeavyItalic-79999b53.eot",
+    "src": "resources/assets/fonts/SFUIText-HeavyItalic.eot"
+  },
+  "resources/assets/fonts/SFUIText-HeavyItalic.ttf": {
+    "file": "assets/SFUIText-HeavyItalic-47b17388.ttf",
+    "src": "resources/assets/fonts/SFUIText-HeavyItalic.ttf"
+  },
+  "resources/assets/fonts/SFUIText-HeavyItalic.woff": {
+    "file": "assets/SFUIText-HeavyItalic-283378ec.woff",
+    "src": "resources/assets/fonts/SFUIText-HeavyItalic.woff"
+  },
+  "resources/assets/fonts/SFUIText-HeavyItalic.woff2": {
+    "file": "assets/SFUIText-HeavyItalic-96123394.woff2",
+    "src": "resources/assets/fonts/SFUIText-HeavyItalic.woff2"
+  },
+  "resources/assets/fonts/SFUIText-Light.eot": {
+    "file": "assets/SFUIText-Light-9904d292.eot",
+    "src": "resources/assets/fonts/SFUIText-Light.eot"
+  },
+  "resources/assets/fonts/SFUIText-Light.ttf": {
+    "file": "assets/SFUIText-Light-427e27e1.ttf",
+    "src": "resources/assets/fonts/SFUIText-Light.ttf"
+  },
+  "resources/assets/fonts/SFUIText-Light.woff": {
+    "file": "assets/SFUIText-Light-364dafc4.woff",
+    "src": "resources/assets/fonts/SFUIText-Light.woff"
+  },
+  "resources/assets/fonts/SFUIText-Light.woff2": {
+    "file": "assets/SFUIText-Light-e3371e78.woff2",
+    "src": "resources/assets/fonts/SFUIText-Light.woff2"
+  },
+  "resources/assets/fonts/SFUIText-LightItalic.eot": {
+    "file": "assets/SFUIText-LightItalic-d46fe6de.eot",
+    "src": "resources/assets/fonts/SFUIText-LightItalic.eot"
+  },
+  "resources/assets/fonts/SFUIText-LightItalic.ttf": {
+    "file": "assets/SFUIText-LightItalic-18a02d57.ttf",
+    "src": "resources/assets/fonts/SFUIText-LightItalic.ttf"
+  },
+  "resources/assets/fonts/SFUIText-LightItalic.woff": {
+    "file": "assets/SFUIText-LightItalic-650f65be.woff",
+    "src": "resources/assets/fonts/SFUIText-LightItalic.woff"
+  },
+  "resources/assets/fonts/SFUIText-LightItalic.woff2": {
+    "file": "assets/SFUIText-LightItalic-95df6fdd.woff2",
+    "src": "resources/assets/fonts/SFUIText-LightItalic.woff2"
+  },
+  "resources/assets/fonts/SFUIText-Medium.eot": {
+    "file": "assets/SFUIText-Medium-23aaacf3.eot",
+    "src": "resources/assets/fonts/SFUIText-Medium.eot"
+  },
+  "resources/assets/fonts/SFUIText-Medium.ttf": {
+    "file": "assets/SFUIText-Medium-a4caeebc.ttf",
+    "src": "resources/assets/fonts/SFUIText-Medium.ttf"
+  },
+  "resources/assets/fonts/SFUIText-Medium.woff": {
+    "file": "assets/SFUIText-Medium-3326483f.woff",
+    "src": "resources/assets/fonts/SFUIText-Medium.woff"
+  },
+  "resources/assets/fonts/SFUIText-Medium.woff2": {
+    "file": "assets/SFUIText-Medium-ea0715a8.woff2",
+    "src": "resources/assets/fonts/SFUIText-Medium.woff2"
+  },
+  "resources/assets/fonts/SFUIText-MediumItalic.eot": {
+    "file": "assets/SFUIText-MediumItalic-12ec4632.eot",
+    "src": "resources/assets/fonts/SFUIText-MediumItalic.eot"
+  },
+  "resources/assets/fonts/SFUIText-MediumItalic.ttf": {
+    "file": "assets/SFUIText-MediumItalic-dec6bbbd.ttf",
+    "src": "resources/assets/fonts/SFUIText-MediumItalic.ttf"
+  },
+  "resources/assets/fonts/SFUIText-MediumItalic.woff": {
+    "file": "assets/SFUIText-MediumItalic-780e66d5.woff",
+    "src": "resources/assets/fonts/SFUIText-MediumItalic.woff"
+  },
+  "resources/assets/fonts/SFUIText-MediumItalic.woff2": {
+    "file": "assets/SFUIText-MediumItalic-4f3218b1.woff2",
+    "src": "resources/assets/fonts/SFUIText-MediumItalic.woff2"
+  },
+  "resources/assets/fonts/SFUIText-Regular.eot": {
+    "file": "assets/SFUIText-Regular-de2bd951.eot",
+    "src": "resources/assets/fonts/SFUIText-Regular.eot"
+  },
+  "resources/assets/fonts/SFUIText-Regular.ttf": {
+    "file": "assets/SFUIText-Regular-4254030f.ttf",
+    "src": "resources/assets/fonts/SFUIText-Regular.ttf"
+  },
+  "resources/assets/fonts/SFUIText-Regular.woff": {
+    "file": "assets/SFUIText-Regular-d4b68bca.woff",
+    "src": "resources/assets/fonts/SFUIText-Regular.woff"
+  },
+  "resources/assets/fonts/SFUIText-Regular.woff2": {
+    "file": "assets/SFUIText-Regular-3448c83a.woff2",
+    "src": "resources/assets/fonts/SFUIText-Regular.woff2"
+  },
+  "resources/assets/fonts/SFUIText-RegularItalic.eot": {
+    "file": "assets/SFUIText-RegularItalic-e20d613b.eot",
+    "src": "resources/assets/fonts/SFUIText-RegularItalic.eot"
+  },
+  "resources/assets/fonts/SFUIText-RegularItalic.ttf": {
+    "file": "assets/SFUIText-RegularItalic-e533b206.ttf",
+    "src": "resources/assets/fonts/SFUIText-RegularItalic.ttf"
+  },
+  "resources/assets/fonts/SFUIText-RegularItalic.woff": {
+    "file": "assets/SFUIText-RegularItalic-e75894e0.woff",
+    "src": "resources/assets/fonts/SFUIText-RegularItalic.woff"
+  },
+  "resources/assets/fonts/SFUIText-RegularItalic.woff2": {
+    "file": "assets/SFUIText-RegularItalic-d70ee308.woff2",
+    "src": "resources/assets/fonts/SFUIText-RegularItalic.woff2"
+  },
+  "resources/assets/fonts/SFUIText-Semibold.eot": {
+    "file": "assets/SFUIText-Semibold-975a9dea.eot",
+    "src": "resources/assets/fonts/SFUIText-Semibold.eot"
+  },
+  "resources/assets/fonts/SFUIText-Semibold.ttf": {
+    "file": "assets/SFUIText-Semibold-ea7156b8.ttf",
+    "src": "resources/assets/fonts/SFUIText-Semibold.ttf"
+  },
+  "resources/assets/fonts/SFUIText-Semibold.woff": {
+    "file": "assets/SFUIText-Semibold-4044e3f0.woff",
+    "src": "resources/assets/fonts/SFUIText-Semibold.woff"
+  },
+  "resources/assets/fonts/SFUIText-Semibold.woff2": {
+    "file": "assets/SFUIText-Semibold-4312ecab.woff2",
+    "src": "resources/assets/fonts/SFUIText-Semibold.woff2"
+  },
+  "resources/assets/fonts/SFUIText-SemiboldItalic.eot": {
+    "file": "assets/SFUIText-SemiboldItalic-298f8d0a.eot",
+    "src": "resources/assets/fonts/SFUIText-SemiboldItalic.eot"
+  },
+  "resources/assets/fonts/SFUIText-SemiboldItalic.ttf": {
+    "file": "assets/SFUIText-SemiboldItalic-ac47c1ab.ttf",
+    "src": "resources/assets/fonts/SFUIText-SemiboldItalic.ttf"
+  },
+  "resources/assets/fonts/SFUIText-SemiboldItalic.woff": {
+    "file": "assets/SFUIText-SemiboldItalic-612d3704.woff",
+    "src": "resources/assets/fonts/SFUIText-SemiboldItalic.woff"
+  },
+  "resources/assets/fonts/SFUIText-SemiboldItalic.woff2": {
+    "file": "assets/SFUIText-SemiboldItalic-9da95956.woff2",
+    "src": "resources/assets/fonts/SFUIText-SemiboldItalic.woff2"
+  },
+  "resources/assets/img/android.png": {
+    "file": "assets/android-cb1de7de.png",
+    "src": "resources/assets/img/android.png"
+  },
+  "resources/assets/img/b-new.png": {
+    "file": "assets/b-new-793f006c.png",
+    "src": "resources/assets/img/b-new.png"
+  },
+  "resources/assets/img/b-percent.png": {
+    "file": "assets/b-percent-35302b8d.png",
+    "src": "resources/assets/img/b-percent.png"
+  },
+  "resources/assets/img/banner-red.jpg": {
+    "file": "assets/banner-red-e6076b83.jpg",
+    "src": "resources/assets/img/banner-red.jpg"
+  },
+  "resources/assets/img/banner.jpg": {
+    "file": "assets/banner-0f7f4cb1.jpg",
+    "src": "resources/assets/img/banner.jpg"
+  },
+  "resources/assets/img/botle.png": {
+    "file": "assets/botle-6a1f32ac.png",
+    "src": "resources/assets/img/botle.png"
+  },
+  "resources/assets/img/bottle-card.png": {
+    "file": "assets/bottle-card-06d3e4cb.png",
+    "src": "resources/assets/img/bottle-card.png"
+  },
+  "resources/assets/img/bottle-list.png": {
+    "file": "assets/bottle-c506bb82.png",
+    "src": "resources/assets/img/bottle.png"
+  },
+  "resources/assets/img/bottle-search-thumb.png": {
+    "file": "assets/bottle-search-thumb-b56d7c68.png",
+    "src": "resources/assets/img/bottle-search-thumb.png"
+  },
+  "resources/assets/img/bottle.png": {
+    "file": "assets/bottle-c506bb82.png",
+    "src": "resources/assets/img/bottle.png"
+  },
+  "resources/assets/img/brand-1.png": {
+    "file": "assets/brand-1-25b60aa5.png",
+    "src": "resources/assets/img/brand-1.png"
+  },
+  "resources/assets/img/brand-2.png": {
+    "file": "assets/brand-2-5e23e453.png",
+    "src": "resources/assets/img/brand-2.png"
+  },
+  "resources/assets/img/brand-3.png": {
+    "file": "assets/brand-3-4364f3d6.png",
+    "src": "resources/assets/img/brand-3.png"
+  },
+  "resources/assets/img/brand-4.png": {
+    "file": "assets/brand-4-810466cd.png",
+    "src": "resources/assets/img/brand-4.png"
+  },
+  "resources/assets/img/brand-5.png": {
+    "file": "assets/brand-5-a05b3bef.png",
+    "src": "resources/assets/img/brand-5.png"
+  },
+  "resources/assets/img/brand-6.png": {
+    "file": "assets/brand-6-1cfb15eb.png",
+    "src": "resources/assets/img/brand-6.png"
+  },
+  "resources/assets/img/close.png": {
+    "file": "assets/close-67d1679e.png",
+    "src": "resources/assets/img/close.png"
+  },
+  "resources/assets/img/close.svg": {
+    "file": "assets/close-5efc569f.svg",
+    "src": "resources/assets/img/close.svg"
+  },
+  "resources/assets/img/default_user_50x50.png": {
+    "file": "assets/default_user_50x50-8849b7e7.png",
+    "src": "resources/assets/img/default_user_50x50.png"
+  },
+  "resources/assets/img/dish_1.png": {
+    "file": "assets/dish_1-0d07f296.png",
+    "src": "resources/assets/img/dish_1.png"
+  },
+  "resources/assets/img/dish_2.png": {
+    "file": "assets/dish_2-5b61f660.png",
+    "src": "resources/assets/img/dish_2.png"
+  },
+  "resources/assets/img/dish_3.png": {
+    "file": "assets/dish_3-85e4cf1c.png",
+    "src": "resources/assets/img/dish_3.png"
+  },
+  "resources/assets/img/dish_4.png": {
+    "file": "assets/dish_4-6e79a9ba.png",
+    "src": "resources/assets/img/dish_4.png"
+  },
+  "resources/assets/img/dish_5.png": {
+    "file": "assets/dish_5-20773622.png",
+    "src": "resources/assets/img/Слой_671.png"
+  },
+  "resources/assets/img/email.png": {
+    "file": "assets/email-7a38b45d.png",
+    "src": "resources/assets/img/email.png"
+  },
+  "resources/assets/img/empty.png": {
+    "file": "assets/empty-9041f340.png",
+    "src": "resources/assets/img/empty.png"
+  },
+  "resources/assets/img/exp_sign.png": {
+    "file": "assets/exp_sign-4338c0dc.png",
+    "src": "resources/assets/img/exp_sign.png"
+  },
+  "resources/assets/img/favourite.png": {
+    "file": "assets/favourite-7682bed9.png",
+    "src": "resources/assets/img/favourite.png"
+  },
+  "resources/assets/img/flag_ar.svg": {
+    "file": "assets/flag_ar-129dd5db.svg",
+    "src": "resources/assets/img/flag_ar.svg"
+  },
+  "resources/assets/img/ge.svg": {
+    "file": "assets/ge-8ec08083.svg",
+    "src": "resources/assets/img/ge.svg"
+  },
+  "resources/assets/img/georgia.png": {
+    "file": "assets/georgia-d64261ec.png",
+    "src": "resources/assets/img/georgia.png"
+  },
+  "resources/assets/img/grape-poster.png": {
+    "file": "assets/grape-poster-20ce54f7.png",
+    "src": "resources/assets/img/grape-poster.png"
+  },
+  "resources/assets/img/hi-percent.png": {
+    "file": "assets/hi-percent-739b2a4b.png",
+    "src": "resources/assets/img/hi-percent.png"
+  },
+  "resources/assets/img/highlights-1.png": {
+    "file": "assets/highlights-1-552bc2d7.png",
+    "src": "resources/assets/img/highlights-1.png"
+  },
+  "resources/assets/img/highlights-2.png": {
+    "file": "assets/highlights-2-6aa6061f.png",
+    "src": "resources/assets/img/highlights-2.png"
+  },
+  "resources/assets/img/highlights-alcohol.png": {
+    "file": "assets/highlights-alcohol-f5323b11.png",
+    "src": "resources/assets/img/highlights-alcohol.png"
+  },
+  "resources/assets/img/hl-among-best.png": {
+    "file": "assets/hl-among-best-b66d0d63.png",
+    "src": "resources/assets/img/hl-among-best.png"
+  },
+  "resources/assets/img/hl-better-year.png": {
+    "file": "assets/hl-better-year-6e11059d.png",
+    "src": "resources/assets/img/hl-better-year.png"
+  },
+  "resources/assets/img/hl-moneybox.png": {
+    "file": "assets/hl-moneybox-64c2cb77.png",
+    "src": "resources/assets/img/hl-moneybox.png"
+  },
+  "resources/assets/img/hl-more-100.png": {
+    "file": "assets/hl-more-100-3ef3067d.png",
+    "src": "resources/assets/img/hl-more-100.png"
+  },
+  "resources/assets/img/hl-rank.png": {
+    "file": "assets/hl-rank-358dd5e1.png",
+    "src": "resources/assets/img/hl-rank.png"
+  },
+  "resources/assets/img/i-chevron.svg": {
+    "file": "assets/i-chevron-0a3126dd.svg",
+    "src": "resources/assets/img/i-chevron.svg"
+  },
+  "resources/assets/img/i-corner-top.svg": {
+    "file": "assets/i-corner-top-19e1135c.svg",
+    "src": "resources/assets/img/i-corner-top.svg"
+  },
+  "resources/assets/img/i-flavor.svg": {
+    "file": "assets/i-flavor-ee9ce2bd.svg",
+    "src": "resources/assets/img/i-flavor.svg"
+  },
+  "resources/assets/img/i-grapes.svg": {
+    "file": "assets/i-grapes-41c75fbb.svg",
+    "src": "resources/assets/img/i-grapes.svg"
+  },
+  "resources/assets/img/i-left.svg": {
+    "file": "assets/i-left-733122bd.svg",
+    "src": "resources/assets/img/i-left.svg"
+  },
+  "resources/assets/img/i-pairings.svg": {
+    "file": "assets/i-pairings-9e94403a.svg",
+    "src": "resources/assets/img/i-pairings.svg"
+  },
+  "resources/assets/img/i-percent.png": {
+    "file": "assets/i-percent-80521d47.png",
+    "src": "resources/assets/img/i-percent.png"
+  },
+  "resources/assets/img/i-right.svg": {
+    "file": "assets/i-right-f8bda517.svg",
+    "src": "resources/assets/img/i-right.svg"
+  },
+  "resources/assets/img/i-search.svg": {
+    "file": "assets/search-311d9dfa.svg",
+    "src": "resources/assets/img/search.svg"
+  },
+  "resources/assets/img/i-sellor.svg": {
+    "file": "assets/i-sellor-a5fbf09b.svg",
+    "src": "resources/assets/img/i-sellor.svg"
+  },
+  "resources/assets/img/i-top-list-1.png": {
+    "file": "assets/i-top-list-1-f4ea0f6e.png",
+    "src": "resources/assets/img/i-top-list-1.png"
+  },
+  "resources/assets/img/i-top-list-2.png": {
+    "file": "assets/i-top-list-2-12257367.png",
+    "src": "resources/assets/img/i-top-list-2.png"
+  },
+  "resources/assets/img/i-top-list-3.png": {
+    "file": "assets/i-top-list-3-cfbc96a2.png",
+    "src": "resources/assets/img/i-top-list-3.png"
+  },
+  "resources/assets/img/i-top-list-4.png": {
+    "file": "assets/i-top-list-4-d12fc14e.png",
+    "src": "resources/assets/img/i-top-list-4.png"
+  },
+  "resources/assets/img/i-vines.svg": {
+    "file": "assets/i-vines-ef287334.svg",
+    "src": "resources/assets/img/i-vines.svg"
+  },
+  "resources/assets/img/i-wish.png": {
+    "file": "assets/i-wish-af543436.png",
+    "src": "resources/assets/img/i-wish.png"
+  },
+  "resources/assets/img/icon-top-arr.svg": {
+    "file": "assets/icon-top-arr-f4943732.svg",
+    "src": "resources/assets/img/icon-top-arr.svg"
+  },
+  "resources/assets/img/iconed-link-1.jpg": {
+    "file": "assets/iconed-link-1-96e55486.jpg",
+    "src": "resources/assets/img/iconed-link-1.jpg"
+  },
+  "resources/assets/img/iconed-link-2.jpg": {
+    "file": "assets/iconed-link-2-de2d737c.jpg",
+    "src": "resources/assets/img/iconed-link-2.jpg"
+  },
+  "resources/assets/img/item-br-bronze.png": {
+    "file": "assets/item-br-bronze-f3c76a61.png",
+    "src": "resources/assets/img/item-br-bronze.png"
+  },
+  "resources/assets/img/like.png": {
+    "file": "assets/like-cbb90f20.png",
+    "src": "resources/assets/img/like.png"
+  },
+  "resources/assets/img/loading.gif": {
+    "file": "assets/loading-741c9419.gif",
+    "src": "resources/assets/img/loading.gif"
+  },
+  "resources/assets/img/logo.png": {
+    "file": "assets/logo-5b4ca0d9.png",
+    "src": "resources/assets/img/logo.png"
+  },
+  "resources/assets/img/logo.svg": {
+    "file": "assets/logo-571f8254.svg",
+    "src": "resources/assets/img/logo.svg"
+  },
+  "resources/assets/img/loupe.png": {
+    "file": "assets/loupe-41dc6d5e.png",
+    "src": "resources/assets/img/loupe.png"
+  },
+  "resources/assets/img/m-logo.svg": {
+    "file": "assets/user-f2785341.svg",
+    "src": "resources/assets/img/user.svg"
+  },
+  "resources/assets/img/macOS.png": {
+    "file": "assets/macOS-c581e12c.png",
+    "src": "resources/assets/img/macOS.png"
+  },
+  "resources/assets/img/main_page_02.png": {
+    "file": "assets/main_page_02-f87ef289.png",
+    "src": "resources/assets/img/main_page_02.png"
+  },
+  "resources/assets/img/main_page_03.psd.png": {
+    "file": "assets/main_page_03.psd-0057266f.png",
+    "src": "resources/assets/img/main_page_03.psd.png"
+  },
+  "resources/assets/img/map.png": {
+    "file": "assets/map-1041c0e6.png",
+    "src": "resources/assets/img/map.png"
+  },
+  "resources/assets/img/menu-1.png": {
+    "file": "assets/menu-1-796ada15.png",
+    "src": "resources/assets/img/menu-1.png"
+  },
+  "resources/assets/img/menu-2.png": {
+    "file": "assets/menu-2-29e902c0.png",
+    "src": "resources/assets/img/menu-2.png"
+  },
+  "resources/assets/img/menu-3.png": {
+    "file": "assets/menu-3-b9c13d11.png",
+    "src": "resources/assets/img/menu-3.png"
+  },
+  "resources/assets/img/menu-4.png": {
+    "file": "assets/menu-4-3fc12ece.png",
+    "src": "resources/assets/img/menu-4.png"
+  },
+  "resources/assets/img/menu-5.png": {
+    "file": "assets/menu-5-66773ee5.png",
+    "src": "resources/assets/img/menu-5.png"
+  },
+  "resources/assets/img/recommend_bottle.png": {
+    "file": "assets/recommend_bottle-37857cd2.png",
+    "src": "resources/assets/img/recommend_bottle.png"
+  },
+  "resources/assets/img/recommend_by_star.png": {
+    "file": "assets/recommend_by_star-8aa197c1.png",
+    "src": "resources/assets/img/recommend_by_star.png"
+  },
+  "resources/assets/img/recommend_popular.png": {
+    "file": "assets/recommend_popular-71c7225e.png",
+    "src": "resources/assets/img/recommend_popular.png"
+  },
+  "resources/assets/img/recommend_rouble.png": {
+    "file": "assets/recommend_rouble-bf55a5f5.png",
+    "src": "resources/assets/img/recommend_rouble.png"
+  },
+  "resources/assets/img/ru.svg": {
+    "file": "assets/ru-08e0e314.svg",
+    "src": "resources/assets/img/ru.svg"
+  },
+  "resources/assets/img/search-pool.svg": {
+    "file": "assets/search-pool-5a578913.svg",
+    "src": "resources/assets/img/search-pool.svg"
+  },
+  "resources/assets/img/search.svg": {
+    "file": "assets/search-311d9dfa.svg",
+    "src": "resources/assets/img/search.svg"
+  },
+  "resources/assets/img/seller-logo.png": {
+    "file": "assets/seller-logo-f4db5c93.png",
+    "src": "resources/assets/img/seller-logo.png"
+  },
+  "resources/assets/img/seller_1.png": {
+    "file": "assets/seller_1-53728e5b.png",
+    "src": "resources/assets/img/seller_1.png"
+  },
+  "resources/assets/img/seller_2.png": {
+    "file": "assets/seller_2-c08a2361.png",
+    "src": "resources/assets/img/seller_2.png"
+  },
+  "resources/assets/img/seller_3.png": {
+    "file": "assets/seller_3-6720dd64.png",
+    "src": "resources/assets/img/seller_3.png"
+  },
+  "resources/assets/img/shop_(1).png": {
+    "file": "assets/shop_(1)-d86692b9.png",
+    "src": "resources/assets/img/shop_(1).png"
+  },
+  "resources/assets/img/slider-thumb.png": {
+    "file": "assets/slider-thumb-8ca6fabc.png",
+    "src": "resources/assets/img/slider-thumb.png"
+  },
+  "resources/assets/img/soc-facebook.png": {
+    "file": "assets/soc-facebook-0a8c3e4f.png",
+    "src": "resources/assets/img/soc-facebook.png"
+  },
+  "resources/assets/img/soc-instagram.png": {
+    "file": "assets/soc-instagram-75f31e9c.png",
+    "src": "resources/assets/img/soc-instagram.png"
+  },
+  "resources/assets/img/soc-twitter.png": {
+    "file": "assets/soc-twitter-7705ce1a.png",
+    "src": "resources/assets/img/soc-twitter.png"
+  },
+  "resources/assets/img/star-0.svg": {
+    "file": "assets/star-0-f8a8efab.svg",
+    "src": "resources/assets/img/star-0.svg"
+  },
+  "resources/assets/img/star-1.svg": {
+    "file": "assets/star-1-a93e5b64.svg",
+    "src": "resources/assets/img/star-1.svg"
+  },
+  "resources/assets/img/star-2.svg": {
+    "file": "assets/star-2-98a1fb2e.svg",
+    "src": "resources/assets/img/star-2.svg"
+  },
+  "resources/assets/img/star-3.svg": {
+    "file": "assets/star-3-87824127.svg",
+    "src": "resources/assets/img/star-3.svg"
+  },
+  "resources/assets/img/star-4.svg": {
+    "file": "assets/star-4-589a0a03.svg",
+    "src": "resources/assets/img/star-4.svg"
+  },
+  "resources/assets/img/star-5.svg": {
+    "file": "assets/star-5-83f17e54.svg",
+    "src": "resources/assets/img/star-5.svg"
+  },
+  "resources/assets/img/star-6.svg": {
+    "file": "assets/star-6-324e5827.svg",
+    "src": "resources/assets/img/star-6.svg"
+  },
+  "resources/assets/img/star-7.svg": {
+    "file": "assets/star-7-e0450297.svg",
+    "src": "resources/assets/img/star-7.svg"
+  },
+  "resources/assets/img/star-8.svg": {
+    "file": "assets/star-8-f8226725.svg",
+    "src": "resources/assets/img/star-8.svg"
+  },
+  "resources/assets/img/star-9.svg": {
+    "file": "assets/star-9-b4fc2f0a.svg",
+    "src": "resources/assets/img/star-9.svg"
+  },
+  "resources/assets/img/star.svg": {
+    "file": "assets/star-c39c352f.svg",
+    "src": "resources/assets/img/star.svg"
+  },
+  "resources/assets/img/style-bg.jpg": {
+    "file": "assets/style-bg-b76d7a3e.jpg",
+    "src": "resources/assets/img/style-bg.jpg"
+  },
+  "resources/assets/img/style_bg.webp": {
+    "file": "assets/style_bg-95b25d38.webp",
+    "src": "resources/assets/img/style_bg.webp"
+  },
+  "resources/assets/img/trophy.png": {
+    "file": "assets/trophy-5b772b6b.png",
+    "src": "resources/assets/img/trophy.png"
+  },
+  "resources/assets/img/u1.png": {
+    "file": "assets/u1-6e5de0e4.png",
+    "src": "resources/assets/img/u1.png"
+  },
+  "resources/assets/img/u2.png": {
+    "file": "assets/u2-79207606.png",
+    "src": "resources/assets/img/u2.png"
+  },
+  "resources/assets/img/user-item.jpg": {
+    "file": "assets/user-item-25558324.jpg",
+    "src": "resources/assets/img/user-item.jpg"
+  },
+  "resources/assets/img/user-self.png": {
+    "file": "assets/user-self-bdb4e078.png",
+    "src": "resources/assets/img/user-self.png"
+  },
+  "resources/assets/img/user.jpg": {
+    "file": "assets/user-e976d5a0.jpg",
+    "src": "resources/assets/img/user.jpg"
+  },
+  "resources/assets/img/user.svg": {
+    "file": "assets/user-f2785341.svg",
+    "src": "resources/assets/img/user.svg"
+  },
+  "resources/assets/img/winery_cnt.png": {
+    "file": "assets/winery_cnt-b72a696f.png",
+    "src": "resources/assets/img/winery_cnt.png"
+  },
+  "resources/assets/img/winery_score.png": {
+    "file": "assets/winery_score-fdca39c6.png",
+    "src": "resources/assets/img/winery_score.png"
+  },
+  "resources/assets/img/Слой_657.png": {
+    "file": "assets/Слой_657-0c801e95.png",
+    "src": "resources/assets/img/Слой_657.png"
+  },
+  "resources/assets/img/Слой_671.png": {
+    "file": "assets/dish_5-20773622.png",
+    "src": "resources/assets/img/Слой_671.png"
+  },
+  "resources/assets/js/app.js": {
+    "file": "assets/app-3aa80f54.js",
+    "isEntry": true,
+    "src": "resources/assets/js/app.js"
+  },
+  "resources/assets/less/app.less": {
+    "file": "assets/app-4e75e84a.css",
+    "isEntry": true,
+    "src": "resources/assets/less/app.less"
+  }
+}
