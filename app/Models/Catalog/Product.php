@@ -14,6 +14,7 @@ use App\Models\Props\PropSugar;
 use App\Models\Props\PropType;
 use App\Models\System\File;
 use Illuminate\Database\Eloquent\Model;
+use Illuminate\Database\Eloquent\Relations\HasOne;
 use Illuminate\Database\Query\Builder;
 
 
@@ -116,9 +117,9 @@ use Illuminate\Database\Query\Builder;
  */
 class Product extends Model
 {
-    protected $fillable = [
-        'slug','name','translit','articul','code','picture','picture_small','category_id','type_id','color_id','sugar_id','country_id','region_id','sub_region_id','manufacturer_id','stock_id','brand_id','grapes','pairings','tastes','grape_percentage','strength','volume','volume_type','notes_color','notes_taste','notes_aroma','notes_pairing','color_depth','richness','serving_temperature','storage_capacity'.'facts','winestyle_link','status'
-    ];
+    protected $guarded = [];
+
+
 
     public function sluggable()
     {
@@ -128,6 +129,52 @@ class Product extends Model
             ]
         ];
     }
+    protected $casts = [
+        'grapes_sub' => 'array'
+    ];
+
+
+
+
+
+    ///////
+
+    public function vivino(): HasOne
+    {
+        return $this->hasOne(Vivino::class, 'product_id', 'id');
+    }
+
+    public function color(): HasOne
+    {
+        return $this->hasOne(PropColor::class, 'id', 'color_id');
+    }
+
+    public function brand(): HasOne
+    {
+        return $this->hasOne(PropBrand::class, 'id', 'brand_id');
+    }
+
+    public function country(): HasOne
+    {
+        return $this->hasOne(PropCountry::class, 'id', 'country_id');
+    }
+
+    public function region(): HasOne
+    {
+        return $this->hasOne(PropRegion::class, 'id', 'region_id');
+    }
+
+    public function subRegion(): HasOne
+    {
+        return $this->hasOne(PropSubRegion::class, 'id', 'sub_region_id');
+    }
+
+    public function winery(): HasOne
+    {
+        return $this->hasOne(PropManufacturers::class, 'id', 'manufacturer_id');
+    }
+
+    ///
 
     public function getGrapesAttribute($value)
     {
@@ -156,59 +203,56 @@ class Product extends Model
         $this->attributes['tastes'] = implode(',', $tastes);
     }
 
-    public function srcWinestyle(){
-        return $this->hasOne(File::class,'product_id','id')->where('from','winestyle');
+    public function srcWinestyle()
+    {
+        return $this->hasOne(File::class, 'product_id', 'id')->where('from', 'winestyle');
     }
-    public function srcVivino(){
-        return $this->hasOne(File::class,'product_id','id')->where('from','vivino');
+
+    public function srcVivino()
+    {
+        return $this->hasOne(File::class, 'product_id', 'id')->where('from', 'vivino');
     }
-    public function vivino(){
-        return $this->hasOne(Vivino::class,'product_id','id');
-    }
+
 //    // type_id
 //    public function type(){
 //        return $this->hasOne(PropType::class,'id','type_id');
 //    }
     //color_id
-    public function color(){
-        return $this->hasOne(PropColor::class,'id','color_id');
-    }
+
+
     //sugar_id
-    public function sugar(){
-        return $this->hasOne(PropType::class,'id','sugar_id');
+    public function sugar()
+    {
+        return $this->hasOne(PropType::class, 'id', 'sugar_id');
     }
-    //country_id
-    public function country(){
-        return $this->hasOne(PropCountry::class,'id','country_id');
-    }
-    //region_id
-    public function region(){
-        return $this->hasOne(PropRegion::class,'id','region_id');
-    }
-    //sub_region_id
-    public function subRegion(){
-        return $this->hasOne(PropSubRegion::class,'id','sub_region_id');
-    }
-    //manufacturer_id
-    public function winery(){
-        return $this->hasOne(PropManufacturers::class,'id','manufacturer_id');
-    }
+
+
+
+
+
+
+
+
+
+
     //stock_id
-    public function stock(){
-        return $this->hasOne(PropStock::class,'id','stock_id');
+    public function stock()
+    {
+        return $this->hasOne(PropStock::class, 'id', 'stock_id');
     }
-    //brand_id
-    public function brand(){
-        return $this->hasOne(PropBrand::class,'id','brand_id');
-    }
-    public function ratingVivino(){
-        return $this->hasOne(PropExpertsRating::class,'product_id','id')->where('name','Vivino');
+
+
+
+
+    public function ratingVivino()
+    {
+        return $this->hasOne(PropExpertsRating::class, 'product_id', 'id')->where('name', 'Vivino');
     }
 
     public function scopePriceBetween($query, $prices)
     {
 //        dump($prices);
-        return $query->whereBetween('vivino.price', [20,600]);
+        return $query->whereBetween('vivino.price', [20, 600]);
     }
 
 //    public function food(){
@@ -216,53 +260,10 @@ class Product extends Model
 //    }
 
 
-
-
 }
 
 
 
-/*
-
-status
-slug
-name
-translit
-articul
-code
-picture
-picture_small
-category_id
-
-
-
-
-
-
-
-
-                 winery
-
-
-grapes
-pairings
-tastes
-grape_percentage
-strength
-volume
-volume_type
-notes_color
-notes_taste
-notes_aroma
-notes_pairing
-color_depth
-richness
-serving_temperature
-storage_capacity
-facts
-winestyle_link
-created_at
-updated_at*/
 
 
 

@@ -16,6 +16,7 @@
             </a>
         </div>
         <div class="item-desc">
+
             <div class="item-desc-header">
 
                 <div class="item-desc-header_desc">
@@ -27,88 +28,85 @@
                             <a href="{{$item->winery_url}}">{{$item->winery_name}}</a>
                         @endisset
                     </div>
-                    <div class="item-desc-vintage">
+                </div>
 
-                            <a href="/products/{{$item->product_slug}}" style="max-width: 300px; display: block;">
-                                @if($item->product_name)
-                                    {{$item->product_name}}
-                                @else
-                                    {{$item->product_translit}}
-                                @endif
+                <div class="item-desc-vintage">
 
-                            </a>
+                    <a href="/products/{{$item->product_slug}}" style="max-width: 300px; display: block;">
+                        @if($item->product_name)
+                            {{$item->product_name}}
+                        @else
+                            {{$item->product_translit}}
+                        @endif
 
-                    </div>
+                    </a>
 
-                    <div class="item-desc-sugar">
-                        @isset($item->color_name_ru)
-                            <a href="{{$item->color_url}}">{{$item->color_name_ru}}</a>
+                </div>
+
+                <div class="item-desc-sugar">
+                    @isset($item->color_name_ru)
+                        <a href="{{$item->color_url}}">{{$item->color_name_ru}}</a>
+                    @endisset
+
+                </div>
+
+                <div class="item-desc-country">
+                    <i class="round">
+                        <img src="{{$const->flagSrc}}{{$item->country_id}}.webp" alt="flag"/>
+                    </i>
+                    @isset($item->country_name_ru)
+                        <a href="{{$item->country_url}}" class="item-desc-countryName">{{$item->country_name_ru}}</a>
+                    @endisset
+                    @isset($item->region_name_ru)
+                        <span class="item-desc-countryDot">·</span>
+                        <a href="{{$item->region_url}}" class="item-desc-countryRegion">{{$item->region_name_ru}}</a>
+                    @endisset
+                    @isset($item->sub_region_name_ru)
+                        <span class="item-desc-countryDot">·</span>
+                        <a href="{{$item->sub_region_url}}"
+                           class="item-desc-countryRegion">{{$item->sub_region_name_ru}}</a>
+                    @endisset
+
+
+                </div>
+
+            </div>
+
+            @isset($item->review_note)
+                <div class="item-review">
+                    @if($item->review_note_ru)
+                        <p>“{{Str::limit($item->review_note_ru, 150)}}”</p>
+                    @else
+                        <p>“{{Str::limit($item->review_note, 150)}}”</p>
+                    @endif
+
+                    <div class="item-review_user">
+
+                        @isset($item->avatar)
+                            <div class="item-review_userAvatar">
+                                <img src="{{ $const->baseSite.str_replace('public','storage',$item->avatar) }}"
+                                     alt="user"/>
+                            </div>
                         @endisset
 
-                    </div>
+                        <div class="item-review_userRate">
+                            @include('components.rating', ['average' => $item->review_rating,'size' => 16,'color' => 'red'])
 
-
-                    <div class="item-desc-country">
-                        <i class="round">
-                            <img src="{{$const->flagSrc}}{{$item->country_id}}.webp" alt="flag"/>
-                        </i>
-                        @isset($item->country_name_ru)
-                            <a href="{{$item->country_url}}" class="item-desc-countryName">{{$item->country_name_ru}}</a>
-                        @endisset
-                        @isset($item->region_name_ru)
-                            <span class="item-desc-countryDot">·</span>
-                            <a href="{{$item->region_url}}" class="item-desc-countryRegion">{{$item->region_name_ru}}</a>
-                        @endisset
-                        @isset($item->sub_region_name_ru)
-                            <span class="item-desc-countryDot">·</span>
-                            <a href="{{$item->sub_region_url}}"
-                               class="item-desc-countryRegion">{{$item->sub_region_name_ru}}</a>
-                        @endisset
-
+                            @isset($item->alias)
+                                <div class="item-review_userName">{{$item->alias}}</div>
+                            @endisset
+                        </div>
 
                     </div>
 
                 </div>
-
-                @isset($item->review_note)
-                    <div class="item-review">
-                        @if($item->review_note_ru)
-                            <p>“{{Str::limit($item->review_note_ru, 150)}}”</p>
-                        @else
-                            <p>“{{Str::limit($item->review_note, 150)}}”</p>
-                        @endif
-
-                        <div class="item-review_user">
-
-                            @isset($item->avatar)
-                                <div class="item-review_userAvatar">
-                                    <img src="{{ $const->baseSite.str_replace('public','storage',$item->avatar) }}" alt="user"/>
-                                </div>
-                            @endisset
-
-                            <div class="item-review_userRate">
-                                @include('components.rating', ['average' => $item->review_rating,'size' => 16,'color' => 'red'])
-
-                                @isset($item->alias)
-                                <div class="item-review_userName">{{$item->alias}}</div>
-                                @endisset
-                            </div>
-
-                        </div>
-
-                    </div>
-                @endisset
-
-
-
-            </div>
+            @endisset
 
             <div class="item-desc-footer">
 
 
-
-                    <div class="item-desc-rating rating-block">
-                        @if(isset($item->ratings_average) && $item->ratings_average)
+                <div class="item-desc-rating rating-block">
+                    @if(isset($item->ratings_average) && $item->ratings_average)
 
                         <div class="rate">
                             <span>{{$item->ratings_average ? number_format($item->ratings_average,1,'.','') : 0}}</span>
@@ -122,36 +120,34 @@
                             @endisset
 
                         </div>
-                        @endif
-                    </div>
-
+                    @endif
+                </div>
 
 
                 <a href="javascript:" rel="seller" class="item-desc-sellersBtn">
                     <span>Показать магазины</span>
                 </a>
-                    @isset($item->price)
-                        <div class="item-desc-price">
-                            <p>{{number_format($item->price,0,'',' ')}} Р</p>
-                            <span>Средняя цена</span>
-                        </div>
+                @isset($item->price)
+                    <div class="item-desc-price">
+                        <p>{{number_format($item->price,0,'',' ')}} Р</p>
+                        <span>Средняя цена</span>
+                    </div>
 
-                        <div class="item-desc-sellersList">
-                            <ul>
-                                <li><a href="javascript:">
-                                        <img src="assets/img/seller_1.png" alt="seller logo"/>
-                                    </a></li>
-                                <li><a href="javascript:">
-                                        <img src="assets/img/seller_2.png" alt="seller logo"/>
-                                    </a></li>
-                                <li><a href="javascript:">
-                                        <img src="assets/img/seller_3.png" alt="seller logo"/>
-                                    </a></li>
-                            </ul>
-                            <a href="javascript:">и еще в + 3</a>
-                        </div>
-                    @endisset
-
+                    <div class="item-desc-sellersList">
+                        <ul>
+                            <li><a href="javascript:">
+                                    <img src="assets/img/seller_1.png" alt="seller logo"/>
+                                </a></li>
+                            <li><a href="javascript:">
+                                    <img src="assets/img/seller_2.png" alt="seller logo"/>
+                                </a></li>
+                            <li><a href="javascript:">
+                                    <img src="assets/img/seller_3.png" alt="seller logo"/>
+                                </a></li>
+                        </ul>
+                        <a href="javascript:">и еще в + 3</a>
+                    </div>
+                @endisset
 
 
             </div>

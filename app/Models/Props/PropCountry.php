@@ -53,5 +53,5 @@ use Illuminate\Database\Eloquent\Model;
 class PropCountry extends Model
 {
     protected $table = 'prop_countries';
-    protected $fillable = ['name_ru','name_en','img','flag','url','text','passed','log_id'];
+    protected $guarded = [];
 }

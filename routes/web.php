@@ -18,6 +18,8 @@ use Illuminate\Support\Facades\Route;
 });*/
 
 Route::get('/', fn() => view('index'))->name('home');
+Route::get('/wines', fn() => view('catalog'))->name('catalog');
+Route::get('/wines', fn() => view('catalog'))->name('catalog');
 
 /*[
     'as' => 'home', 'uses' => '\App\Http\Controllers\Index\IndexController@index'

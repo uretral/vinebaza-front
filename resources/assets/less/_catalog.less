@@ -1,0 +1,130 @@
+@import "smart-grid";
+@import "variables";
+
+
+.catalog {
+    background-color: #fafafa;
+
+    &-row {
+        justify-content: space-between;
+    }
+
+    &-filter {
+        .col();
+        .size(16);
+
+        > em {
+            display: block;
+            text-align: right;
+            margin: 26px 0 8px;
+        }
+
+        fieldset {
+            margin-bottom: 50px;
+
+        }
+
+        legend {
+            font-size: 22px;
+            color: @black;
+            .bold;
+            margin-bottom: 24px;
+        }
+    }
+
+    &-items {
+        .col();
+        .size(31.6);
+        padding-top: 26px;
+    }
+}
+
+.searchResult {
+    padding: 37px 0 14px;
+    background-color: #fafafa;
+    &-frame {
+        .col();
+        .size(48);
+        display: flex;
+        flex-wrap: nowrap;
+    }
+    &-informer {
+        font-size: 22px;
+        font-weight: 700;
+    }
+    &-data {
+        max-width: 66%;
+        min-width: 66%;
+    }
+
+    &-prices {
+        padding-top: 5px;
+        font-size: 18px;
+    }
+
+    &-props {
+        font-size: 14px;
+        margin-top: 26px;
+
+    }
+
+    &-count {
+        color: #c3c5c7;
+        font-size: 16px;
+        font-weight: 400;
+        padding-top: 7px;
+        width: auto;
+        b {
+            color: #c22529;
+        }
+    }
+}
+
+
+.sort {
+    background-color: #fafafa;
+    &-row {
+        justify-content: space-between;
+    }
+
+    &-props {
+        .col();
+        .size(34);
+        button {
+            border-radius: 3px;
+            background-color: #ba1628;
+            color: #fafafa;
+            font-size: 13px;
+            font-weight: 400;
+            margin-right: 10px;
+            height: 34px;
+            padding: 0 30px 1px 13px;
+            position: relative;
+            pointer-events: none;
+            margin-bottom: 20px;
+            &:after {
+                content: '';
+                display: block;
+                background: url(../img/close.png) no-repeat center;
+                position: absolute;
+                top: 0;
+                right: 0;
+                bottom: 0;
+                pointer-events: all;
+                z-index: 22;
+                width: 32px;
+                cursor: pointer;
+                &:hover {
+                    cursor: pointer;
+                }
+            }
+        }
+    }
+
+    &-block {
+        .col();
+        .size(13);
+        display: flex;
+        justify-content: flex-end;
+    }
+}

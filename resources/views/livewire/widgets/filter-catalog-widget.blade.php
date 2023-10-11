@@ -1,27 +1,65 @@
-<form action="javascript:" id="filterCatalog" data-method="post">
-    <section class="filter" x-data="">
-        <div>
-            <div class="filter-vine" x-data="{ color: '', price: '', rating: '' }">
+{{--<form action="javascript:" id="filterCatalog" data-method="post">--}}
+<section class="filter">
 
-                <div class="filter-vine_type">
+    <div>
+        <div class="filter-vine">
 
-                    <x-forms.select :list="$colors" :title="$colorName" model="color" lang="name_ru"/>
+            <div class="filter-vine_type">
+
+                <x-forms.select :list="$colors" :title="$colorName" model="color" lang="name_ru"/>
+
+            </div>
+            <div class="filter-vine_price">
+
+                <div class="filter-vine-slider">
+
+                    <div class="filter-vine-slider_title">
+                        <span>Выберите стоимость</span>
+                    </div>
+
+                    <x-forms.range-slider
+                        min="priceMin"
+                        max="priceMax"
+                        icon="₽"
+                        :static-min="$priceMinStatic"
+                        :static-max="$priceMaxStatic"
+                        :dynamic-min="$priceMin"
+                        :dynamic-max="$priceMax"
+                        :step="100"
+                        :gap="1000"
+                    />
 
                 </div>
-                <div class="filter-vine_price">
 
-                    {{--                        @include('components.rangeSlider', ['data' => $filters->price, 'name' => 'price', 'heading' => 'Цена','icon' => '₽'])--}}
+            </div>
+            <div class="filter-vine_rating">
+                <div class="filter-vine-slider">
+
+                    <div class="filter-vine-slider_title">
+                        <span>Рейтинг</span>
+                    </div>
+
+                    <x-forms.range-slider
+                        min="ratingMin"
+                        max="ratingMax"
+                        icon=""
+                        :static-min="0"
+                        :static-max="5"
+                        :dynamic-min="$ratingMin"
+                        :dynamic-max="$ratingMax"
+                        :step="0.5"
+                        :gap="1"
+                    />
+
                 </div>
-                <div class="filter-vine_rating">
-                    {{--                        @include('components.rangeSlider', ['data' => $filters->rating, 'name' => 'rating', 'heading' => 'Рейтинг', 'icon' => ''])--}}
-                </div>
-                <div class="filter-vine_show">
-                    <button onclick="window.location = window.uLink">Показать</button>
-                    {{--                        <button @click="alert(itemName)">Показать</button>--}}
-                </div>
+
+            </div>
+            <div class="filter-vine_show">
+                <button wire:click="submitRedirect">Показать</button>
             </div>
         </div>
-    </section>
+    </div>
+</section>
 
 
-</form>
+{{--</form>--}}

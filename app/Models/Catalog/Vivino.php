@@ -7,6 +7,7 @@ namespace App\Models\Catalog;
 use App\Models\Props\VivinoReview;
 use App\Models\Props\VivinoUser;
 use Illuminate\Database\Eloquent\Model;
+use Illuminate\Database\Eloquent\Relations\HasOne;
 
 /**
  * App\Models\Catalog\Vivino
@@ -63,31 +64,25 @@ use Illuminate\Database\Eloquent\Model;
 class Vivino extends Model
 {
     protected $table = 'vivino';
-    protected $fillable = [
-        'product_id',
-        'product_code',
-        'vintage_id',
-        'wine_id',
-        'info',
-        'tastes',
-        'tastesReview',
-        'scoredReview',
-        'image',
-        'json_path',
-    ];
+    protected $guarded = [];
 
-    public function products(){
-        return $this->belongsTo(Product::class,'product_id','id');
+    public function products()
+    {
+        return $this->belongsTo(Product::class, 'product_id', 'id');
     }
 
-    public function user(){
-        return $this->hasOne(VivinoUser::class,'vivino_id','review_user_id');
-    }
-    public function itemReview(){
-        return $this->hasOne(VivinoReview::class,'id','review_id');
+    public function user(): HasOne
+    {
+        return $this->hasOne(VivinoUser::class, 'vivino_id', 'review_user_id');
     }
 
-    public function scopePriceBetween($query,$arg){
+    public function review(): HasOne
+    {
+        return $this->hasOne(VivinoReview::class, 'wine_id', 'wine_id');
+    }
+
+    public function scopePriceBetween($query, $arg)
+    {
         return $query->whereBetween('price', $arg);
     }
 }

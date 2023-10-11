@@ -9,8 +9,7 @@
                 <p>
                     <span>Выбирайте среди миллионов рейтингов</span>
                     <a href="{{url('wines')}}">Вино</a>,
-                    <a href="javascript:">Крепкий</a>,
-                    <a href="javascript:">алкоголь</a>,
+                    <a href="javascript:">Крепкий алкоголь</a>,
                     <a href="javascript:">Пиво</a>
 
                     <span>по отличным ценам в магазинах Москвы!</span>
@@ -20,7 +19,7 @@
                 @foreach($stores as $store)
                     <a href="javascript:" class="stores-item">
                         <div class="stores-item-header">
-                            <img src="{{ vite::asset('resources/assets/img/'.$store->img) }}" alt="store"/>
+                            <img src="{{asset('storage/stores/'.$store->img)}}" alt="store"/>
                         </div>
                         <div class="stores-item-footer">
                             <span><b>{{$store->d}}</b>{{$store->offer}}</span>
@@ -34,7 +33,7 @@
                 @endforeach
                 <a href="javascript:" class="stores-more">
                     <span>
-                        Еще 36 магазинов
+                        Еще 36 <br/> магазинов
                     </span>
                 </a>
 
