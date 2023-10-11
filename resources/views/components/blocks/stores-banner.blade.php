@@ -31,6 +31,8 @@
 
                     </a>
                 @endforeach
+
+
                 <a href="javascript:" class="stores-more">
                     <span>
                         Еще 36 <br/> магазинов
