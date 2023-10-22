@@ -21,7 +21,6 @@ use Illuminate\Database\Eloquent\Model;
  * @method static \Illuminate\Database\Eloquent\Builder|\App\Models\Props\PropManufacturers whereName($value)
  * @method static \Illuminate\Database\Eloquent\Builder|\App\Models\Props\PropManufacturers whereSite($value)
  * @method static \Illuminate\Database\Eloquent\Builder|\App\Models\Props\PropManufacturers whereUpdatedAt($value)
- * @mixin \Eloquent
  * @property string|null $img
  * @property int|null $country_id
  * @property int|null $region_id
@@ -41,6 +40,7 @@ use Illuminate\Database\Eloquent\Model;
  * @method static \Illuminate\Database\Eloquent\Builder|\App\Models\Props\PropManufacturers whereUrl($value)
  * @property int|null $vivino_id
  * @method static \Illuminate\Database\Eloquent\Builder|\App\Models\Props\PropManufacturers whereVivinoId($value)
+ * @mixin \Eloquent
  */
 class PropManufacturers extends Model
 {

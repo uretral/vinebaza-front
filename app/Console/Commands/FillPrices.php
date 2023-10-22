@@ -4,7 +4,12 @@ namespace App\Console\Commands;
 
 use App\Models\Catalog\Product;
 use App\Models\Catalog\Vivino;
+use App\Models\Props\PropBrand;
+use App\Models\Props\PropColor;
 use App\Models\Props\PropCountry;
+use App\Models\Props\PropManufacturers;
+use App\Models\Props\PropRegion;
+use App\Models\Props\PropSubRegion;
 use Illuminate\Console\Command;
 
 class FillPrices extends Command
@@ -40,10 +45,31 @@ class FillPrices extends Command
             dump($propCountry->flag);
         });*/
 
-        Product::all()->each(function (Product $product) {
+/*        Product::all()->each(function (Product $product) {
             $product->grapes_sub = $product->grapes;
             $product->save();
             dump($product->id);
-        });
+        });*/
+
+/*        PropColor::all()->each(function ($prop) {
+            $r = explode('/', $prop->url);
+            $prop->slug = $r[2];
+            $prop->save();
+        });*/
+
+//        $output = '';
+//        $return_var = null;
+//        shell_exec('export OPENSSL_CONF=/dev/null');
+//        exec('export OPENSSL_CONF=/dev/null && casperjs /home/murin/_dev/_Denis/vinobaza/vinobaza-front/resources/assets/casper/casper-script.js https://winestyle.ru/wine/all/?page=3 html.txt --ssl-protocol=any -–cookies-file=/home/murin/_dev/_Denis/vinobaza/vinobaza-front/resources/assets/casper/cookie.txt', $output, $return_var);
+//        print_r($output);
+//        print_r($return_var);
+
+//        $output = shell_exec("export OPENSSL_CONF=/dev/null && PHANTOMJS_EXECUTABLE=/usr/local/bin/phantomjs /usr/local/bin/casperjs /home/murin/_dev/_Denis/vinobaza/vinobaza-front/resources/assets/casper/casper-script.js --ssl-protocol=any --cookies-file=/home/murin/_dev/_Denis/vinobaza/vinobaza-front/resources/assets/casper/cookie.txt   https://winestyle.ru/wine/all/?page=5");
+//
+//
+//        $this->info($output);
+
+
+
     }
 }

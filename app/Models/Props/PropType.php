@@ -21,7 +21,6 @@ use Illuminate\Database\Eloquent\Model;
  * @method static \Illuminate\Database\Eloquent\Builder|\App\Models\Props\PropType whereNameEn($value)
  * @method static \Illuminate\Database\Eloquent\Builder|\App\Models\Props\PropType whereNameRu($value)
  * @method static \Illuminate\Database\Eloquent\Builder|\App\Models\Props\PropType whereUpdatedAt($value)
- * @mixin \Eloquent
  * @method static \Illuminate\Database\Eloquent\Builder|\App\Models\Props\PropType whereUrl($value)
  * @property string|null $img
  * @property string|null $text
@@ -31,6 +30,7 @@ use Illuminate\Database\Eloquent\Model;
  * @method static \Illuminate\Database\Eloquent\Builder|\App\Models\Props\PropType whereLogId($value)
  * @method static \Illuminate\Database\Eloquent\Builder|\App\Models\Props\PropType wherePassed($value)
  * @method static \Illuminate\Database\Eloquent\Builder|\App\Models\Props\PropType whereText($value)
+ * @mixin \Eloquent
  */
 class PropType extends Model
 {

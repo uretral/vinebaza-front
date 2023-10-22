@@ -1,0 +1,88 @@
+.hey {
+    display: flex;
+}
+
+.wrap {
+    flex-wrap: wrap;
+}
+
+.hey .primary {
+    background-color: cadetblue;
+}
+
+.hey label {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-end;
+    padding: 4px 5px;
+    gap: 6px;
+}
+
+.hey label span {
+}
+
+.hey button {
+    height: 30px;
+    display: flex;
+    align-items: center;
+    padding: 0 10px;
+}
+
+.donor_product_created, .donor_price_updated {
+    width: 250px;
+    border: 1px solid red;
+    padding: 10px;
+}
+
+.donor_product_created > div, .donor_price_updated > div {
+    padding: 4px 2px;
+}
+
+.hey-table {
+    width: 100%;
+}
+
+.hey-table thead {
+    background-color: #3c8dbc;
+}
+
+.hey-table thead tr {
+}
+
+.hey-table thead tr th {
+    padding: 3px;
+}
+
+.hey-table tbody {
+}
+
+.hey-table tbody tr {
+    border-bottom: 1px solid green;
+}
+
+.hey-table tbody tr.created {
+    border-bottom: 1px solid red;
+}
+
+.hey-table tbody tr td.indicator {
+    width: 5px;
+    background-color: green;
+}
+
+.hey-table tbody tr.created td.indicator {
+    width: 5px;
+    background-color: red;
+}
+
+.hey-table tbody tr td {
+    padding: 3px;
+}
+
+.hey-message {
+    display: inline-flex;
+    align-items: center;
+    margin-left: auto;
+    padding-right: 24px;
+    font-weight: 600;
+}

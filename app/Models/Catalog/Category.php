@@ -24,14 +24,14 @@ use Illuminate\Database\Eloquent\Model;
  * @method static \Illuminate\Database\Eloquent\Builder|\App\Models\Catalog\Category whereNameRu($value)
  * @method static \Illuminate\Database\Eloquent\Builder|\App\Models\Catalog\Category whereSlug($value)
  * @method static \Illuminate\Database\Eloquent\Builder|\App\Models\Catalog\Category whereUpdatedAt($value)
- * @mixin \Eloquent
  * @method static \Illuminate\Database\Eloquent\Builder|Category withUniqueSlugConstraints(\Illuminate\Database\Eloquent\Model $model, string $attribute, array $config, string $slug)
+ * @mixin \Eloquent
  */
 class Category extends Model
 {
     use Sluggable;
 
-    public function sluggable()
+    public function sluggable(): array
     {
         return [
             'slug' => [

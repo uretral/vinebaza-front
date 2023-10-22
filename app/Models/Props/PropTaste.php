@@ -20,7 +20,6 @@ use Illuminate\Database\Eloquent\Model;
  * @method static \Illuminate\Database\Eloquent\Builder|\App\Models\Props\PropTaste whereNameEn($value)
  * @method static \Illuminate\Database\Eloquent\Builder|\App\Models\Props\PropTaste whereNameRu($value)
  * @method static \Illuminate\Database\Eloquent\Builder|\App\Models\Props\PropTaste whereUpdatedAt($value)
- * @mixin \Eloquent
  * @property string|null $title
  * @property string|null $ico
  * @property string|null $img
@@ -35,6 +34,9 @@ use Illuminate\Database\Eloquent\Model;
  * @method static \Illuminate\Database\Eloquent\Builder|\App\Models\Props\PropTaste whereText($value)
  * @method static \Illuminate\Database\Eloquent\Builder|\App\Models\Props\PropTaste whereTitle($value)
  * @method static \Illuminate\Database\Eloquent\Builder|\App\Models\Props\PropTaste whereUrl($value)
+ * @property int|null $active
+ * @method static \Illuminate\Database\Eloquent\Builder|PropTaste whereActive($value)
+ * @mixin \Eloquent
  */
 class PropTaste extends Model
 {

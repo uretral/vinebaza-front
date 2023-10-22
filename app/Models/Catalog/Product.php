@@ -94,7 +94,6 @@ use Illuminate\Database\Query\Builder;
  * @method static \Illuminate\Database\Eloquent\Builder|\App\Models\Catalog\Product whereUpdatedAt($value)
  * @method static \Illuminate\Database\Eloquent\Builder|\App\Models\Catalog\Product whereVolume($value)
  * @method static \Illuminate\Database\Eloquent\Builder|\App\Models\Catalog\Product whereVolumeType($value)
- * @mixin \Eloquent
  * @property int $status
  * @property string|null $facts
  * @property string|null $winestyle_link
@@ -114,6 +113,9 @@ use Illuminate\Database\Query\Builder;
  * @property-read \App\Models\Catalog\Vivino|null $vivino
  * @property-read PropManufacturers|null $winery
  * @method static \Illuminate\Database\Eloquent\Builder|Product priceBetween($prices)
+ * @property array|null $grapes_sub
+ * @method static \Illuminate\Database\Eloquent\Builder|Product whereGrapesSub($value)
+ * @mixin \Eloquent
  */
 class Product extends Model
 {

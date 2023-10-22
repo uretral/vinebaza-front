@@ -20,7 +20,6 @@ use Illuminate\Database\Eloquent\Model;
  * @method static \Illuminate\Database\Eloquent\Builder|\App\Models\Props\PropGrape whereNameEn($value)
  * @method static \Illuminate\Database\Eloquent\Builder|\App\Models\Props\PropGrape whereNameRu($value)
  * @method static \Illuminate\Database\Eloquent\Builder|\App\Models\Props\PropGrape whereUpdatedAt($value)
- * @mixin \Eloquent
  * @property string|null $img
  * @property string|null $url
  * @property string|null $text
@@ -39,6 +38,9 @@ use Illuminate\Database\Eloquent\Model;
  * @method static \Illuminate\Database\Eloquent\Builder|\App\Models\Props\PropGrape whereSeoName($value)
  * @method static \Illuminate\Database\Eloquent\Builder|\App\Models\Props\PropGrape whereVivinoId($value)
  * @method static \Illuminate\Database\Eloquent\Builder|\App\Models\Props\PropGrape whereWinesCount($value)
+ * @property int|null $active
+ * @method static \Illuminate\Database\Eloquent\Builder|PropGrape whereActive($value)
+ * @mixin \Eloquent
  */
 class PropGrape extends Model
 {

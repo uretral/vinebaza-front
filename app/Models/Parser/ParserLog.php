@@ -26,9 +26,9 @@ use Illuminate\Database\Eloquent\Model;
  * @method static \Illuminate\Database\Eloquent\Builder|\App\Models\Parser\ParserLog whereSesId($value)
  * @method static \Illuminate\Database\Eloquent\Builder|\App\Models\Parser\ParserLog whereUpdatedAt($value)
  * @method static \Illuminate\Database\Eloquent\Builder|\App\Models\Parser\ParserLog whereUrl($value)
- * @mixin \Eloquent
  * @property string|null $entity
  * @method static \Illuminate\Database\Eloquent\Builder|\App\Models\Parser\ParserLog whereEntity($value)
+ * @mixin \Eloquent
  */
 class ParserLog extends Model
 {

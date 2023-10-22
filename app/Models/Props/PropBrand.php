@@ -20,7 +20,6 @@ use Illuminate\Database\Eloquent\Model;
  * @method static \Illuminate\Database\Eloquent\Builder|\App\Models\Props\PropBrand whereName($value)
  * @method static \Illuminate\Database\Eloquent\Builder|\App\Models\Props\PropBrand whereSite($value)
  * @method static \Illuminate\Database\Eloquent\Builder|\App\Models\Props\PropBrand whereUpdatedAt($value)
- * @mixin \Eloquent
  * @property string|null $img
  * @property int|null $country_id
  * @property int|null $region_id
@@ -37,6 +36,7 @@ use Illuminate\Database\Eloquent\Model;
  * @method static \Illuminate\Database\Eloquent\Builder|\App\Models\Props\PropBrand whereSubRegionId($value)
  * @method static \Illuminate\Database\Eloquent\Builder|\App\Models\Props\PropBrand whereText($value)
  * @method static \Illuminate\Database\Eloquent\Builder|\App\Models\Props\PropBrand whereUrl($value)
+ * @mixin \Eloquent
  */
 class PropBrand extends Model
 {

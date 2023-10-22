@@ -20,7 +20,6 @@ use Illuminate\Database\Eloquent\Model;
  * @method static \Illuminate\Database\Eloquent\Builder|\App\Models\Props\PropPairing whereNameEn($value)
  * @method static \Illuminate\Database\Eloquent\Builder|\App\Models\Props\PropPairing whereNameRu($value)
  * @method static \Illuminate\Database\Eloquent\Builder|\App\Models\Props\PropPairing whereUpdatedAt($value)
- * @mixin \Eloquent
  * @property string|null $title
  * @property string|null $ico
  * @property string|null $img
@@ -35,6 +34,9 @@ use Illuminate\Database\Eloquent\Model;
  * @method static \Illuminate\Database\Eloquent\Builder|\App\Models\Props\PropPairing whereText($value)
  * @method static \Illuminate\Database\Eloquent\Builder|\App\Models\Props\PropPairing whereTitle($value)
  * @method static \Illuminate\Database\Eloquent\Builder|\App\Models\Props\PropPairing whereUrl($value)
+ * @property int|null $active
+ * @method static \Illuminate\Database\Eloquent\Builder|PropPairing whereActive($value)
+ * @mixin \Eloquent
  */
 class PropPairing extends Model
 {

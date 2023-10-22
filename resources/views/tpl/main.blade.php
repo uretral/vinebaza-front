@@ -13,7 +13,9 @@
 <body @if(request()->has('tpl') && request('tpl')) class="tpl" @endif>
 
 <x-general.header/>
-
+<div id="apps">
+    <test></test>
+</div>
 <div class="modal">
 
     <div class="modal-box">

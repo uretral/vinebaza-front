@@ -5,7 +5,7 @@
             <div class="itemCard-main_item">
 
                 <div class="itemImage">
-                    @include('components.imageOriginal')
+                    @include('components.src.imageOriginal')
                 </div>
 
                 <div class="itemDesc">
@@ -25,16 +25,22 @@
                         </span>
                         @endisset
                         <span class="itemDesc-prop_type">
-                            @isset($product->sugar->name_ru) {{$product->sugar->name_ru}}   @endisset
-                            @isset($product->color->name_ru) {{$product->color->name_ru}}  @endisset
+                            @isset($product->sugar->name_ru)
+                                {{$product->sugar->name_ru}}
+                            @endisset
+                            @isset($product->color->name_ru)
+                                {{$product->color->name_ru}}
+                            @endisset
                         </span>
                         <span class="itemDesc-prop_from">из</span>
-                            @isset($product->region)
-                                <a href="{{$product->region->url}}" class="itemDesc-prop_region">{{$product->region->name_ru}}</a>
-                            @endisset
-                            @isset($product->country)
-                                <a href="{{$product->country->url}}" class="itemDesc-prop_country">{{$product->country->name_ru}}</a>
-                            @endisset
+                        @isset($product->region)
+                            <a href="{{$product->region->url}}"
+                               class="itemDesc-prop_region">{{$product->region->name_ru}}</a>
+                        @endisset
+                        @isset($product->country)
+                            <a href="{{$product->country->url}}"
+                               class="itemDesc-prop_country">{{$product->country->name_ru}}</a>
+                        @endisset
                     </h2>
 
                     @isset($v_statistics->ratings_average)
@@ -46,7 +52,6 @@
                     @endisset
 
 
-
                     <div class="itemDesc-wish">
                         <a href="javascript:">Добавить в избранное</a>
                     </div>
@@ -54,7 +59,8 @@
                     @isset($v_highlights)
                         @foreach($v_highlights as $item)
                             <div class="itemDesc-highlights">
-                                <img src="{{$const->baseSite.str_replace('public','storage',$item->icon)}}" alt="{{$item->type}}">
+                                <img src="{{$const->baseSite.str_replace('public','storage',$item->icon)}}"
+                                     alt="{{$item->type}}">
                                 {{$item->name_ru}}
                             </div>
                         @endforeach

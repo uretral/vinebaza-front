@@ -41,7 +41,6 @@ use Illuminate\Database\Eloquent\Relations\HasOne;
  * @method static \Illuminate\Database\Eloquent\Builder|\App\Models\Catalog\Vivino whereUpdatedAt($value)
  * @method static \Illuminate\Database\Eloquent\Builder|\App\Models\Catalog\Vivino whereVintageId($value)
  * @method static \Illuminate\Database\Eloquent\Builder|\App\Models\Catalog\Vivino whereWineId($value)
- * @mixin \Eloquent
  * @property string|null $name
  * @method static \Illuminate\Database\Eloquent\Builder|\App\Models\Catalog\Vivino whereName($value)
  * @property int $price
@@ -60,6 +59,8 @@ use Illuminate\Database\Eloquent\Relations\HasOne;
  * @method static \Illuminate\Database\Eloquent\Builder|Vivino whereReviewId($value)
  * @method static \Illuminate\Database\Eloquent\Builder|Vivino whereReviewUserId($value)
  * @method static \Illuminate\Database\Eloquent\Builder|Vivino whereReviewsCount($value)
+ * @property-read VivinoReview|null $review
+ * @mixin \Eloquent
  */
 class Vivino extends Model
 {

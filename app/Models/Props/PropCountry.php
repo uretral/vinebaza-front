@@ -26,7 +26,6 @@ use Illuminate\Database\Eloquent\Model;
  * @method static \Illuminate\Database\Eloquent\Builder|\App\Models\Props\PropCountry whereText($value)
  * @method static \Illuminate\Database\Eloquent\Builder|\App\Models\Props\PropCountry whereUpdatedAt($value)
  * @method static \Illuminate\Database\Eloquent\Builder|\App\Models\Props\PropCountry whereUrl($value)
- * @mixin \Eloquent
  * @property string|null $img
  * @property int|null $passed
  * @property int|null $log_id
@@ -49,6 +48,13 @@ use Illuminate\Database\Eloquent\Model;
  * @method static \Illuminate\Database\Eloquent\Builder|\App\Models\Props\PropCountry whereWinesCount($value)
  * @property int $sort
  * @method static \Illuminate\Database\Eloquent\Builder|PropCountry whereSort($value)
+ * @property int|null $active
+ * @property string|null $name_from_ru
+ * @property string|null $name_from_en
+ * @method static \Illuminate\Database\Eloquent\Builder|PropCountry whereActive($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|PropCountry whereNameFromEn($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|PropCountry whereNameFromRu($value)
+ * @mixin \Eloquent
  */
 class PropCountry extends Model
 {

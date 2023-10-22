@@ -30,7 +30,6 @@ use Illuminate\Database\Eloquent\Model;
  * @method static \Illuminate\Database\Eloquent\Builder|\App\Models\Props\VivinoReview whereUpdatedAt($value)
  * @method static \Illuminate\Database\Eloquent\Builder|\App\Models\Props\VivinoReview whereUser($value)
  * @method static \Illuminate\Database\Eloquent\Builder|\App\Models\Props\VivinoReview whereVivinoId($value)
- * @mixin \Eloquent
  * @property int|null $vintage_id
  * @property int|null $wine_id
  * @method static \Illuminate\Database\Eloquent\Builder|\App\Models\Props\VivinoReview whereVintageId($value)
@@ -40,6 +39,7 @@ use Illuminate\Database\Eloquent\Model;
  * @property string|null $note_ru
  * @method static \Illuminate\Database\Eloquent\Builder|\App\Models\Props\VivinoReview whereNoteRu($value)
  * @property-read \App\Models\Props\VivinoUser|null $userData
+ * @mixin \Eloquent
  */
 class VivinoReview extends Model
 {

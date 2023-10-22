@@ -21,7 +21,6 @@ use Illuminate\Database\Eloquent\Model;
  * @method static \Illuminate\Database\Eloquent\Builder|\App\Models\Props\PropColor whereNameEn($value)
  * @method static \Illuminate\Database\Eloquent\Builder|\App\Models\Props\PropColor whereNameRu($value)
  * @method static \Illuminate\Database\Eloquent\Builder|\App\Models\Props\PropColor whereUpdatedAt($value)
- * @mixin \Eloquent
  * @method static \Illuminate\Database\Eloquent\Builder|\App\Models\Props\PropColor whereUrl($value)
  * @property string|null $img
  * @property string|null $text
@@ -31,6 +30,7 @@ use Illuminate\Database\Eloquent\Model;
  * @method static \Illuminate\Database\Eloquent\Builder|\App\Models\Props\PropColor whereLogId($value)
  * @method static \Illuminate\Database\Eloquent\Builder|\App\Models\Props\PropColor wherePassed($value)
  * @method static \Illuminate\Database\Eloquent\Builder|\App\Models\Props\PropColor whereText($value)
+ * @mixin \Eloquent
  */
 class PropColor extends Model
 {

@@ -26,7 +26,6 @@ use Illuminate\Database\Eloquent\Model;
  * @method static \Illuminate\Database\Eloquent\Builder|\App\Models\Props\PropRegion whereText($value)
  * @method static \Illuminate\Database\Eloquent\Builder|\App\Models\Props\PropRegion whereUpdatedAt($value)
  * @method static \Illuminate\Database\Eloquent\Builder|\App\Models\Props\PropRegion whereUrl($value)
- * @mixin \Eloquent
  * @property string|null $img
  * @property int|null $passed
  * @property int|null $log_id
@@ -41,6 +40,7 @@ use Illuminate\Database\Eloquent\Model;
  * @method static \Illuminate\Database\Eloquent\Builder|\App\Models\Props\PropRegion whereNativeName($value)
  * @method static \Illuminate\Database\Eloquent\Builder|\App\Models\Props\PropRegion whereSeoName($value)
  * @method static \Illuminate\Database\Eloquent\Builder|\App\Models\Props\PropRegion whereVivinoId($value)
+ * @mixin \Eloquent
  */
 class PropRegion extends Model
 {
