@@ -69,6 +69,14 @@ class FillPrices extends Command
 //
 //        $this->info($output);
 
+        $json = file_get_contents(public_path('storage/vivino/info/7549892_2491174.json'));
+        $ar = json_decode($json, true);
+
+        $arr = [2,10,500];
+        $arr = array_merge($arr,collect($ar['wine']['grapes'])->map(fn($el) => $el['id'])->toArray());
+        dump(
+            array_unique($arr)
+        );
 
 
     }

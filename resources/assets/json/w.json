@@ -1,0 +1,2755 @@
+{
+    "vintage": {
+        "id": 14818052,
+        "seo_name": "paddle-creek-sauvignon-blanc-uv",
+        "name": "Paddle Creek Sauvignon Blanc",
+        "statistics": {
+            "status": "Normal",
+            "ratings_count": 16604,
+            "ratings_average": 4.3,
+            "labels_count": 11298,
+            "reviews_count": 1061
+        },
+        "organic_certification_id": null,
+        "certified_biodynamic": null,
+        "image": {
+            "location": "//images.vivino.com/thumbs/2IdCDANuT5-A9W90-AHWYA_pl_480x640.png",
+            "variations": {
+                "bottle_large": "//images.vivino.com/thumbs/2IdCDANuT5-A9W90-AHWYA_pb_x960.png",
+                "bottle_medium": "//images.vivino.com/thumbs/2IdCDANuT5-A9W90-AHWYA_pb_x600.png",
+                "bottle_medium_square": "//images.vivino.com/thumbs/2IdCDANuT5-A9W90-AHWYA_pb_600x600.png",
+                "bottle_small": "//images.vivino.com/thumbs/2IdCDANuT5-A9W90-AHWYA_pb_x300.png",
+                "bottle_small_square": "//images.vivino.com/thumbs/2IdCDANuT5-A9W90-AHWYA_pb_300x300.png",
+                "label": "//images.vivino.com/thumbs/2IdCDANuT5-A9W90-AHWYA_pl_480x640.png",
+                "label_large": "//images.vivino.com/thumbs/2IdCDANuT5-A9W90-AHWYA_pl_375x500.png",
+                "label_medium": "//images.vivino.com/thumbs/2IdCDANuT5-A9W90-AHWYA_pl_150x200.png",
+                "label_medium_square": "//images.vivino.com/thumbs/2IdCDANuT5-A9W90-AHWYA_pl_150x150.png",
+                "label_small_square": "//images.vivino.com/thumbs/2IdCDANuT5-A9W90-AHWYA_pl_80x80.png",
+                "large": "//images.vivino.com/thumbs/2IdCDANuT5-A9W90-AHWYA_pl_375x500.png",
+                "medium": "//images.vivino.com/thumbs/2IdCDANuT5-A9W90-AHWYA_pl_150x200.png",
+                "medium_square": "//images.vivino.com/thumbs/2IdCDANuT5-A9W90-AHWYA_pl_150x150.png",
+                "small_square": "//images.vivino.com/thumbs/2IdCDANuT5-A9W90-AHWYA_pl_80x80.png"
+            }
+        },
+        "wine": {
+            "id": 3052246,
+            "name": "Sauvignon Blanc",
+            "seo_name": "sauvignon-blanc",
+            "type_id": 2,
+            "vintage_type": 0,
+            "is_natural": false,
+            "region": {
+                "id": 732,
+                "name": "Marlborough",
+                "name_en": "",
+                "seo_name": "marlborough",
+                "country": {
+                    "code": "nz",
+                    "name": "New Zealand",
+                    "native_name": "New Zealand",
+                    "seo_name": "new-zealand",
+                    "currency": {
+                        "code": "NZD",
+                        "name": "New Zealand Dollars",
+                        "prefix": "$",
+                        "suffix": null
+                    },
+                    "regions_count": 37,
+                    "users_count": 103631,
+                    "wines_count": 15943,
+                    "wineries_count": 3019,
+                    "most_used_grapes": [
+                        {
+                            "id": 14,
+                            "name": "Pinot Noir",
+                            "seo_name": "pinot-noir",
+                            "has_detailed_info": true,
+                            "wines_count": 572334,
+                            "parent_grape_id": null
+                        },
+                        {
+                            "id": 17,
+                            "name": "Sauvignon Blanc",
+                            "seo_name": "sauvignon-blanc",
+                            "has_detailed_info": true,
+                            "wines_count": 292440,
+                            "parent_grape_id": null
+                        },
+                        {
+                            "id": 5,
+                            "name": "Chardonnay",
+                            "seo_name": "chardonnay",
+                            "has_detailed_info": true,
+                            "wines_count": 604208,
+                            "parent_grape_id": null
+                        }
+                    ]
+                },
+                "parent_id": 667,
+                "background_image": {
+                    "location": "//images.vivino.com/regions/backgrounds/080F8iRZRPer_TBwITPqDw.jpg",
+                    "variations": {
+                        "large": "//thumbs.vivino.com/region_backgrounds/080F8iRZRPer_TBwITPqDw_1280x760.jpg",
+                        "medium": "//thumbs.vivino.com/region_backgrounds/080F8iRZRPer_TBwITPqDw_600x356.jpg"
+                    }
+                },
+                "class": {
+                    "typecast_map": {
+                        "background_image": {},
+                        "class": {}
+                    }
+                },
+                "statistics": {
+                    "wineries_count": 1371,
+                    "wines_count": 5978,
+                    "sub_regions_count": 0,
+                    "parent_regions_count": 1
+                }
+            },
+            "review_status": 2,
+            "winery": {
+                "id": 186663,
+                "name": "Paddle Creek",
+                "seo_name": "paddle-creek",
+                "status": 0,
+                "review_status": "Completed",
+                "background_image": null,
+                "statistics": {
+                    "ratings_count": 17474,
+                    "ratings_average": 4.3,
+                    "labels_count": 83116,
+                    "wines_count": 4
+                },
+                "region": {
+                    "id": 732,
+                    "name": "Marlborough",
+                    "name_en": "",
+                    "seo_name": "marlborough",
+                    "country": {
+                        "code": "nz",
+                        "name": "New Zealand",
+                        "native_name": "New Zealand",
+                        "seo_name": "new-zealand",
+                        "currency": {
+                            "code": "NZD",
+                            "name": "New Zealand Dollars",
+                            "prefix": "$",
+                            "suffix": null
+                        },
+                        "regions_count": 37,
+                        "users_count": 103631,
+                        "wines_count": 15943,
+                        "wineries_count": 3019,
+                        "most_used_grapes": [
+                            {
+                                "id": 14,
+                                "name": "Pinot Noir",
+                                "seo_name": "pinot-noir",
+                                "has_detailed_info": true,
+                                "wines_count": 572334,
+                                "parent_grape_id": null
+                            },
+                            {
+                                "id": 17,
+                                "name": "Sauvignon Blanc",
+                                "seo_name": "sauvignon-blanc",
+                                "has_detailed_info": true,
+                                "wines_count": 292440,
+                                "parent_grape_id": null
+                            },
+                            {
+                                "id": 5,
+                                "name": "Chardonnay",
+                                "seo_name": "chardonnay",
+                                "has_detailed_info": true,
+                                "wines_count": 604208,
+                                "parent_grape_id": null
+                            }
+                        ]
+                    },
+                    "parent_id": 667,
+                    "background_image": {
+                        "location": "//images.vivino.com/regions/backgrounds/080F8iRZRPer_TBwITPqDw.jpg",
+                        "variations": {
+                            "large": "//thumbs.vivino.com/region_backgrounds/080F8iRZRPer_TBwITPqDw_1280x760.jpg",
+                            "medium": "//thumbs.vivino.com/region_backgrounds/080F8iRZRPer_TBwITPqDw_600x356.jpg"
+                        }
+                    },
+                    "class": {
+                        "typecast_map": {
+                            "background_image": {},
+                            "class": {}
+                        }
+                    },
+                    "statistics": {
+                        "wineries_count": 1371,
+                        "wines_count": 5978,
+                        "sub_regions_count": 0,
+                        "parent_regions_count": 1
+                    }
+                },
+                "business_name": "Paddle Creek",
+                "description": "",
+                "specialists_notes": "",
+                "phone": "",
+                "email": "",
+                "facebook": "",
+                "instagram": "",
+                "is_claimed": false,
+                "twitter": "",
+                "website": "",
+                "winemaker": null,
+                "wine_maker": null,
+                "address": {
+                    "title": null,
+                    "name": null,
+                    "street": null,
+                    "street2": null,
+                    "neighborhood": null,
+                    "city": null,
+                    "zip": null,
+                    "state": null,
+                    "country": null,
+                    "company": null,
+                    "phone": null,
+                    "external_id": null,
+                    "residential": null,
+                    "vat_number": null,
+                    "vat_code": null,
+                    "addition": null
+                },
+                "image": null,
+                "location": null,
+                "winery_group": null,
+                "first_wines": [],
+                "sponsored_entity_type": null,
+                "sponsored_entity": null
+            },
+            "statistics": {
+                "status": "Normal",
+                "ratings_count": 16604,
+                "ratings_average": 4.3,
+                "labels_count": 76756,
+                "vintages_count": 39
+            },
+            "rank": {
+                "country": {
+                    "description": "Rank within New Zealand",
+                    "total": 14200,
+                    "rank": 20
+                },
+                "region": {
+                    "description": "Rank within Wine Region",
+                    "total": 5404,
+                    "rank": 8
+                },
+                "winery": {
+                    "description": "Rank within Winery",
+                    "total": 4,
+                    "rank": 1
+                },
+                "wine_type": {
+                    "description": "Rank within all White Wine",
+                    "total": 450900,
+                    "rank": 936
+                },
+                "global": {
+                    "description": "Global Rank",
+                    "total": 1440109,
+                    "rank": 6781
+                }
+            },
+            "hidden": false,
+            "vintages": [
+                {
+                    "id": 173878805,
+                    "seo_name": "paddle-creek-sauvignon-blanc-2023",
+                    "name": "Paddle Creek Sauvignon Blanc 2023",
+                    "statistics": {
+                        "status": "BelowThreshold",
+                        "ratings_count": 1,
+                        "ratings_average": 0,
+                        "labels_count": 22,
+                        "reviews_count": 0
+                    },
+                    "year": 2023,
+                    "grapes": null,
+                    "has_valid_ratings": false
+                },
+                {
+                    "id": 170593976,
+                    "seo_name": "paddle-creek-sauvignon-blanc-2022",
+                    "name": "Paddle Creek Sauvignon Blanc 2022",
+                    "statistics": {
+                        "status": "Normal",
+                        "ratings_count": 1160,
+                        "ratings_average": 4.4,
+                        "labels_count": 9257,
+                        "reviews_count": 308
+                    },
+                    "year": 2022,
+                    "grapes": null,
+                    "has_valid_ratings": true
+                },
+                {
+                    "id": 167104253,
+                    "seo_name": "paddle-creek-sauvignon-blanc-2021",
+                    "name": "Paddle Creek Sauvignon Blanc 2021",
+                    "statistics": {
+                        "status": "Normal",
+                        "ratings_count": 845,
+                        "ratings_average": 4.3,
+                        "labels_count": 5813,
+                        "reviews_count": 270
+                    },
+                    "year": 2021,
+                    "grapes": null,
+                    "has_valid_ratings": true
+                },
+                {
+                    "id": 163435940,
+                    "seo_name": "paddle-creek-sauvignon-blanc-2020",
+                    "name": "Paddle Creek Sauvignon Blanc 2020",
+                    "statistics": {
+                        "status": "Normal",
+                        "ratings_count": 1730,
+                        "ratings_average": 4.3,
+                        "labels_count": 9438,
+                        "reviews_count": 667
+                    },
+                    "year": 2020,
+                    "grapes": null,
+                    "has_valid_ratings": true
+                },
+                {
+                    "id": 159932900,
+                    "seo_name": "paddle-creek-sauvignon-blanc-2019",
+                    "name": "Paddle Creek Sauvignon Blanc 2019",
+                    "statistics": {
+                        "status": "Normal",
+                        "ratings_count": 2600,
+                        "ratings_average": 4.3,
+                        "labels_count": 13628,
+                        "reviews_count": 936
+                    },
+                    "year": 2019,
+                    "grapes": null,
+                    "has_valid_ratings": true
+                },
+                {
+                    "id": 156754121,
+                    "seo_name": "paddle-creek-sauvignon-blanc-2018",
+                    "name": "Paddle Creek Sauvignon Blanc 2018",
+                    "statistics": {
+                        "status": "Normal",
+                        "ratings_count": 3124,
+                        "ratings_average": 4.3,
+                        "labels_count": 14186,
+                        "reviews_count": 1076
+                    },
+                    "year": 2018,
+                    "grapes": null,
+                    "has_valid_ratings": true
+                },
+                {
+                    "id": 152546388,
+                    "seo_name": "paddle-creek-sauvignon-blanc-2017",
+                    "name": "Paddle Creek Sauvignon Blanc 2017",
+                    "statistics": {
+                        "status": "Normal",
+                        "ratings_count": 2196,
+                        "ratings_average": 4.3,
+                        "labels_count": 8243,
+                        "reviews_count": 724
+                    },
+                    "year": 2017,
+                    "grapes": null,
+                    "has_valid_ratings": true
+                },
+                {
+                    "id": 141147816,
+                    "seo_name": "paddle-creek-sauvignon-blanc-2016",
+                    "name": "Paddle Creek Sauvignon Blanc 2016",
+                    "statistics": {
+                        "status": "Normal",
+                        "ratings_count": 937,
+                        "ratings_average": 4,
+                        "labels_count": 2921,
+                        "reviews_count": 275
+                    },
+                    "year": 2016,
+                    "grapes": null,
+                    "has_valid_ratings": true
+                },
+                {
+                    "id": 24339479,
+                    "seo_name": "paddle-creek-sauvignon-blanc-2015",
+                    "name": "Paddle Creek Sauvignon Blanc 2015",
+                    "statistics": {
+                        "status": "Normal",
+                        "ratings_count": 122,
+                        "ratings_average": 3.9,
+                        "labels_count": 420,
+                        "reviews_count": 47
+                    },
+                    "year": 2015,
+                    "grapes": null,
+                    "has_valid_ratings": true
+                },
+                {
+                    "id": 14818027,
+                    "seo_name": "paddle-creek-sauvignon-blanc-2014",
+                    "name": "Paddle Creek Sauvignon Blanc 2014",
+                    "statistics": {
+                        "status": "Normal",
+                        "ratings_count": 158,
+                        "ratings_average": 3.8,
+                        "labels_count": 700,
+                        "reviews_count": 66
+                    },
+                    "year": 2014,
+                    "grapes": null,
+                    "has_valid_ratings": true
+                },
+                {
+                    "id": 54300391,
+                    "seo_name": "paddle-creek-sauvignon-blanc-2013",
+                    "name": "Paddle Creek Sauvignon Blanc 2013",
+                    "statistics": {
+                        "status": "BelowThreshold",
+                        "ratings_count": 4,
+                        "ratings_average": 0,
+                        "labels_count": 16,
+                        "reviews_count": 0
+                    },
+                    "year": 2013,
+                    "grapes": null,
+                    "has_valid_ratings": false
+                },
+                {
+                    "id": 154312360,
+                    "seo_name": "paddle-creek-sauvignon-blanc-2012",
+                    "name": "Paddle Creek Sauvignon Blanc 2012",
+                    "statistics": {
+                        "status": "BelowThreshold",
+                        "ratings_count": 4,
+                        "ratings_average": 0,
+                        "labels_count": 25,
+                        "reviews_count": 1
+                    },
+                    "year": 2012,
+                    "grapes": null,
+                    "has_valid_ratings": false
+                },
+                {
+                    "id": 15400468,
+                    "seo_name": "paddle-creek-sauvignon-blanc-2011",
+                    "name": "Paddle Creek Sauvignon Blanc 2011",
+                    "statistics": {
+                        "status": "BelowThreshold",
+                        "ratings_count": 8,
+                        "ratings_average": 0,
+                        "labels_count": 56,
+                        "reviews_count": 3
+                    },
+                    "year": 2011,
+                    "grapes": null,
+                    "has_valid_ratings": false
+                },
+                {
+                    "id": 150156779,
+                    "seo_name": "paddle-creek-sauvignon-blanc-2010",
+                    "name": "Paddle Creek Sauvignon Blanc 2010",
+                    "statistics": {
+                        "status": "BelowThreshold",
+                        "ratings_count": 6,
+                        "ratings_average": 0,
+                        "labels_count": 58,
+                        "reviews_count": 3
+                    },
+                    "year": 2010,
+                    "grapes": null,
+                    "has_valid_ratings": false
+                },
+                {
+                    "id": 158258739,
+                    "seo_name": "paddle-creek-sauvignon-blanc-2008",
+                    "name": "Paddle Creek Sauvignon Blanc 2008",
+                    "statistics": {
+                        "status": "BelowThreshold",
+                        "ratings_count": 1,
+                        "ratings_average": 0,
+                        "labels_count": 13,
+                        "reviews_count": 1
+                    },
+                    "year": 2008,
+                    "grapes": null,
+                    "has_valid_ratings": false
+                },
+                {
+                    "id": 155661965,
+                    "seo_name": "paddle-creek-sauvignon-blanc-2007",
+                    "name": "Paddle Creek Sauvignon Blanc 2007",
+                    "statistics": {
+                        "status": "BelowThreshold",
+                        "ratings_count": 2,
+                        "ratings_average": 0,
+                        "labels_count": 19,
+                        "reviews_count": 0
+                    },
+                    "year": 2007,
+                    "grapes": null,
+                    "has_valid_ratings": false
+                },
+                {
+                    "id": 159006746,
+                    "seo_name": "paddle-creek-sauvignon-blanc-2006",
+                    "name": "Paddle Creek Sauvignon Blanc 2006",
+                    "statistics": {
+                        "status": "BelowThreshold",
+                        "ratings_count": 21,
+                        "ratings_average": 0,
+                        "labels_count": 168,
+                        "reviews_count": 5
+                    },
+                    "year": 2006,
+                    "grapes": null,
+                    "has_valid_ratings": false
+                },
+                {
+                    "id": 163288100,
+                    "seo_name": "paddle-creek-sauvignon-blanc-2005",
+                    "name": "Paddle Creek Sauvignon Blanc 2005",
+                    "statistics": {
+                        "status": "BelowThreshold",
+                        "ratings_count": 6,
+                        "ratings_average": 0,
+                        "labels_count": 44,
+                        "reviews_count": 2
+                    },
+                    "year": 2005,
+                    "grapes": null,
+                    "has_valid_ratings": false
+                },
+                {
+                    "id": 171393318,
+                    "seo_name": "paddle-creek-sauvignon-blanc-2003",
+                    "name": "Paddle Creek Sauvignon Blanc 2003",
+                    "statistics": {
+                        "status": "BelowThreshold",
+                        "ratings_count": 1,
+                        "ratings_average": 0,
+                        "labels_count": 27,
+                        "reviews_count": 0
+                    },
+                    "year": 2003,
+                    "grapes": null,
+                    "has_valid_ratings": false
+                },
+                {
+                    "id": 169419054,
+                    "seo_name": "paddle-creek-sauvignon-blanc-2002",
+                    "name": "Paddle Creek Sauvignon Blanc 2002",
+                    "statistics": {
+                        "status": "BelowThreshold",
+                        "ratings_count": 5,
+                        "ratings_average": 0,
+                        "labels_count": 31,
+                        "reviews_count": 2
+                    },
+                    "year": 2002,
+                    "grapes": null,
+                    "has_valid_ratings": false
+                },
+                {
+                    "id": 151961681,
+                    "seo_name": "paddle-creek-sauvignon-blanc-2001",
+                    "name": "Paddle Creek Sauvignon Blanc 2001",
+                    "statistics": {
+                        "status": "BelowThreshold",
+                        "ratings_count": 2,
+                        "ratings_average": 0,
+                        "labels_count": 19,
+                        "reviews_count": 0
+                    },
+                    "year": 2001,
+                    "grapes": null,
+                    "has_valid_ratings": false
+                },
+                {
+                    "id": 160840906,
+                    "seo_name": "paddle-creek-sauvignon-blanc-2000",
+                    "name": "Paddle Creek Sauvignon Blanc 2000",
+                    "statistics": {
+                        "status": "BelowThreshold",
+                        "ratings_count": 19,
+                        "ratings_average": 0,
+                        "labels_count": 214,
+                        "reviews_count": 6
+                    },
+                    "year": 2000,
+                    "grapes": null,
+                    "has_valid_ratings": false
+                },
+                {
+                    "id": 172934266,
+                    "seo_name": "paddle-creek-sauvignon-blanc-1992",
+                    "name": "Paddle Creek Sauvignon Blanc 1992",
+                    "statistics": {
+                        "status": "BelowThreshold",
+                        "ratings_count": 1,
+                        "ratings_average": 0,
+                        "labels_count": 1,
+                        "reviews_count": 1
+                    },
+                    "year": 1992,
+                    "grapes": null,
+                    "has_valid_ratings": false
+                },
+                {
+                    "id": 169143942,
+                    "seo_name": "paddle-creek-sauvignon-blanc-1984",
+                    "name": "Paddle Creek Sauvignon Blanc 1984",
+                    "statistics": {
+                        "status": "BelowThreshold",
+                        "ratings_count": 1,
+                        "ratings_average": 0,
+                        "labels_count": 1,
+                        "reviews_count": 0
+                    },
+                    "year": 1984,
+                    "grapes": null,
+                    "has_valid_ratings": false
+                },
+                {
+                    "id": 14818052,
+                    "seo_name": "paddle-creek-sauvignon-blanc-uv",
+                    "name": "Paddle Creek Sauvignon Blanc",
+                    "statistics": {
+                        "status": "Normal",
+                        "ratings_count": 16604,
+                        "ratings_average": 4.3,
+                        "labels_count": 11298,
+                        "reviews_count": 1061
+                    },
+                    "year": 0,
+                    "grapes": null,
+                    "has_valid_ratings": true
+                }
+            ],
+            "description": "",
+            "grapes": [
+                {
+                    "id": 17,
+                    "name": "Sauvignon Blanc",
+                    "seo_name": "sauvignon-blanc",
+                    "has_detailed_info": true,
+                    "wines_count": 292440,
+                    "parent_grape_id": null
+                }
+            ],
+            "foods": [
+                {
+                    "id": 13,
+                    "name": "Shellfish",
+                    "background_image": {
+                        "location": "//images.vivino.com/backgrounds/foods/13_shellfish.png",
+                        "variations": {
+                            "small": "//images.vivino.com/backgrounds/foods/thumbs/13_shellfish_932x810.png"
+                        }
+                    },
+                    "seo_name": "shellfish"
+                },
+                {
+                    "id": 19,
+                    "name": "Vegetarian",
+                    "background_image": {
+                        "location": "//images.vivino.com/backgrounds/foods/19_vegetarian.png",
+                        "variations": {
+                            "small": "//images.vivino.com/backgrounds/foods/thumbs/19_vegetarian_932x810.png"
+                        }
+                    },
+                    "seo_name": "vegetarian"
+                },
+                {
+                    "id": 39,
+                    "name": "Goat cheese",
+                    "background_image": {
+                        "location": "//images.vivino.com/backgrounds/foods/39_goatcheese.png",
+                        "variations": {
+                            "small": "//images.vivino.com/backgrounds/foods/thumbs/39_goatcheese_932x810.png"
+                        }
+                    },
+                    "seo_name": null
+                }
+            ],
+            "non_vintage": false,
+            "alcohol": 13,
+            "sweetness_id": null,
+            "closure": null,
+            "vintage_mask_raw": null,
+            "updated_at": "2022-01-13T19:08:44Z",
+            "created_at": "2015-01-15T00:16:48Z",
+            "is_first_wine": false,
+            "style": {
+                "id": 202,
+                "seo_name": "new-zealand-sauvignon-blanc",
+                "regional_name": "New Zealand",
+                "varietal_name": "Sauvignon Blanc",
+                "name": "New Zealand Sauvignon Blanc",
+                "image": null,
+                "background_image": null,
+                "description": "Sauvignon Blanc is the flagship varietal of New Zealand. Originating from the Bordeaux region of France, the grape now accounts for 62% of all the wine produced in New Zealand.\n\nThe New Zealand Sauvignon Blanc scene started popping in 1970s, with high quality Sauvignon Blancs coming out of the Marlborough region in particular. This illustrated the great potential for grape growing in New Zealand. \n\nSauvignon Blanc tends to be fermented in stainless steel vats, which results in a clean, crisp flavor. These wines tend to be very aromatic with notes of grapefruit, tropical fruit and cut grass.\n\nWhen it comes to pairing, think white meat, shellfish, and try to accentuate the herbaceous qualities of the wine with ingredients like parsley and cilantro.",
+                "blurb": null,
+                "interesting_facts": [
+                    "A commonly used descriptor for Sauvignon Blanc is 'cat pee'! ",
+                    "The name Sauvignon Blanc translates to 'wild white'."
+                ],
+                "body": 2,
+                "body_description": "Light-bodied",
+                "acidity": 3,
+                "acidity_description": "High",
+                "country": {
+                    "code": "nz",
+                    "name": "New Zealand",
+                    "native_name": "New Zealand",
+                    "seo_name": "new-zealand",
+                    "currency": {
+                        "code": "NZD",
+                        "name": "New Zealand Dollars",
+                        "prefix": "$",
+                        "suffix": null
+                    },
+                    "regions_count": 37,
+                    "users_count": 103631,
+                    "wines_count": 15943,
+                    "wineries_count": 3019,
+                    "most_used_grapes": [
+                        {
+                            "id": 14,
+                            "name": "Pinot Noir",
+                            "seo_name": "pinot-noir",
+                            "has_detailed_info": true,
+                            "wines_count": 572334,
+                            "parent_grape_id": null
+                        },
+                        {
+                            "id": 17,
+                            "name": "Sauvignon Blanc",
+                            "seo_name": "sauvignon-blanc",
+                            "has_detailed_info": true,
+                            "wines_count": 292440,
+                            "parent_grape_id": null
+                        },
+                        {
+                            "id": 5,
+                            "name": "Chardonnay",
+                            "seo_name": "chardonnay",
+                            "has_detailed_info": true,
+                            "wines_count": 604208,
+                            "parent_grape_id": null
+                        }
+                    ]
+                },
+                "wine_type_id": 2,
+                "food": [
+                    {
+                        "id": 13,
+                        "name": "Shellfish",
+                        "background_image": {
+                            "location": "//images.vivino.com/backgrounds/foods/13_shellfish.png",
+                            "variations": {
+                                "small": "//images.vivino.com/backgrounds/foods/thumbs/13_shellfish_932x810.png"
+                            }
+                        },
+                        "seo_name": "shellfish"
+                    },
+                    {
+                        "id": 19,
+                        "name": "Vegetarian",
+                        "background_image": {
+                            "location": "//images.vivino.com/backgrounds/foods/19_vegetarian.png",
+                            "variations": {
+                                "small": "//images.vivino.com/backgrounds/foods/thumbs/19_vegetarian_932x810.png"
+                            }
+                        },
+                        "seo_name": "vegetarian"
+                    },
+                    {
+                        "id": 39,
+                        "name": "Goat cheese",
+                        "background_image": {
+                            "location": "//images.vivino.com/backgrounds/foods/39_goatcheese.png",
+                            "variations": {
+                                "small": "//images.vivino.com/backgrounds/foods/thumbs/39_goatcheese_932x810.png"
+                            }
+                        },
+                        "seo_name": null
+                    }
+                ],
+                "grapes": [
+                    {
+                        "id": 17,
+                        "name": "Sauvignon Blanc",
+                        "seo_name": "sauvignon-blanc",
+                        "has_detailed_info": true,
+                        "wines_count": 292440,
+                        "parent_grape_id": null
+                    }
+                ],
+                "region": null,
+                "parent_style_id": 799,
+                "hidden": false,
+                "statistics": {
+                    "wines_count": 3201,
+                    "aggregated_wines_count": 3201
+                },
+                "vintage_mask": null,
+                "baseline_structure": {
+                    "acidity": 4.5,
+                    "fizziness": null,
+                    "intensity": 2.5,
+                    "sweetness": 1,
+                    "tannin": null
+                }
+            },
+            "has_valid_ratings": true
+        },
+        "description": "",
+        "wine_critic_reviews": [],
+        "awards": [],
+        "ratings_distribution": {
+            "1": 48,
+            "2": 186,
+            "3": 2111,
+            "4": 9367,
+            "5": 4892
+        },
+        "ranking": {
+            "country": {
+                "description": "Rank within New Zealand",
+                "total": 108937,
+                "rank": 11
+            },
+            "region": {
+                "description": "Rank within Wine Region",
+                "total": 43941,
+                "rank": 4
+            },
+            "winery": {
+                "description": "Rank within Winery",
+                "total": 40,
+                "rank": 1
+            },
+            "global": {
+                "description": "Global Rank",
+                "total": 10448175,
+                "rank": 8765
+            }
+        },
+        "recommended_drinking_window": null,
+        "wine_facts": {},
+        "winemaker": null,
+        "wine_maker": null,
+        "grape_composition": {},
+        "year": "",
+        "grapes": null,
+        "has_valid_ratings": true
+    },
+    "carts": null,
+    "full_region": null,
+    "tastes": null,
+    "wine": {
+        "id": 3052246,
+        "name": "Sauvignon Blanc",
+        "seo_name": "sauvignon-blanc",
+        "type_id": 2,
+        "vintage_type": 0,
+        "is_natural": false,
+        "region": {
+            "id": 732,
+            "name": "Marlborough",
+            "name_en": "",
+            "seo_name": "marlborough",
+            "country": {
+                "code": "nz",
+                "name": "New Zealand",
+                "native_name": "New Zealand",
+                "seo_name": "new-zealand",
+                "currency": {
+                    "code": "NZD",
+                    "name": "New Zealand Dollars",
+                    "prefix": "$",
+                    "suffix": null
+                },
+                "regions_count": 37,
+                "users_count": 103631,
+                "wines_count": 15943,
+                "wineries_count": 3019,
+                "most_used_grapes": [
+                    {
+                        "id": 14,
+                        "name": "Pinot Noir",
+                        "seo_name": "pinot-noir",
+                        "has_detailed_info": true,
+                        "wines_count": 572334,
+                        "parent_grape_id": null
+                    },
+                    {
+                        "id": 17,
+                        "name": "Sauvignon Blanc",
+                        "seo_name": "sauvignon-blanc",
+                        "has_detailed_info": true,
+                        "wines_count": 292440,
+                        "parent_grape_id": null
+                    },
+                    {
+                        "id": 5,
+                        "name": "Chardonnay",
+                        "seo_name": "chardonnay",
+                        "has_detailed_info": true,
+                        "wines_count": 604208,
+                        "parent_grape_id": null
+                    }
+                ]
+            },
+            "parent_id": 667,
+            "background_image": {
+                "location": "//images.vivino.com/regions/backgrounds/080F8iRZRPer_TBwITPqDw.jpg",
+                "variations": {
+                    "large": "//thumbs.vivino.com/region_backgrounds/080F8iRZRPer_TBwITPqDw_1280x760.jpg",
+                    "medium": "//thumbs.vivino.com/region_backgrounds/080F8iRZRPer_TBwITPqDw_600x356.jpg"
+                }
+            },
+            "class": {
+                "typecast_map": {
+                    "background_image": {},
+                    "class": {}
+                }
+            },
+            "statistics": {
+                "wineries_count": 1371,
+                "wines_count": 5978,
+                "sub_regions_count": 0,
+                "parent_regions_count": 1
+            }
+        },
+        "review_status": 2,
+        "winery": {
+            "id": 186663,
+            "name": "Paddle Creek",
+            "seo_name": "paddle-creek",
+            "status": 0,
+            "review_status": "Completed",
+            "background_image": null,
+            "statistics": {
+                "ratings_count": 17474,
+                "ratings_average": 4.3,
+                "labels_count": 83116,
+                "wines_count": 4
+            },
+            "region": {
+                "id": 732,
+                "name": "Marlborough",
+                "name_en": "",
+                "seo_name": "marlborough",
+                "country": {
+                    "code": "nz",
+                    "name": "New Zealand",
+                    "native_name": "New Zealand",
+                    "seo_name": "new-zealand",
+                    "currency": {
+                        "code": "NZD",
+                        "name": "New Zealand Dollars",
+                        "prefix": "$",
+                        "suffix": null
+                    },
+                    "regions_count": 37,
+                    "users_count": 103631,
+                    "wines_count": 15943,
+                    "wineries_count": 3019,
+                    "most_used_grapes": [
+                        {
+                            "id": 14,
+                            "name": "Pinot Noir",
+                            "seo_name": "pinot-noir",
+                            "has_detailed_info": true,
+                            "wines_count": 572334,
+                            "parent_grape_id": null
+                        },
+                        {
+                            "id": 17,
+                            "name": "Sauvignon Blanc",
+                            "seo_name": "sauvignon-blanc",
+                            "has_detailed_info": true,
+                            "wines_count": 292440,
+                            "parent_grape_id": null
+                        },
+                        {
+                            "id": 5,
+                            "name": "Chardonnay",
+                            "seo_name": "chardonnay",
+                            "has_detailed_info": true,
+                            "wines_count": 604208,
+                            "parent_grape_id": null
+                        }
+                    ]
+                },
+                "parent_id": 667,
+                "background_image": {
+                    "location": "//images.vivino.com/regions/backgrounds/080F8iRZRPer_TBwITPqDw.jpg",
+                    "variations": {
+                        "large": "//thumbs.vivino.com/region_backgrounds/080F8iRZRPer_TBwITPqDw_1280x760.jpg",
+                        "medium": "//thumbs.vivino.com/region_backgrounds/080F8iRZRPer_TBwITPqDw_600x356.jpg"
+                    }
+                },
+                "class": {
+                    "typecast_map": {
+                        "background_image": {},
+                        "class": {}
+                    }
+                },
+                "statistics": {
+                    "wineries_count": 1371,
+                    "wines_count": 5978,
+                    "sub_regions_count": 0,
+                    "parent_regions_count": 1
+                }
+            }
+        },
+        "image": {
+            "location": "//images.vivino.com/thumbs/2IdCDANuT5-A9W90-AHWYA_pl_480x640.png",
+            "variations": {
+                "bottle_large": "//images.vivino.com/thumbs/2IdCDANuT5-A9W90-AHWYA_pb_x960.png",
+                "bottle_medium": "//images.vivino.com/thumbs/2IdCDANuT5-A9W90-AHWYA_pb_x600.png",
+                "bottle_medium_square": "//images.vivino.com/thumbs/2IdCDANuT5-A9W90-AHWYA_pb_600x600.png",
+                "bottle_small": "//images.vivino.com/thumbs/2IdCDANuT5-A9W90-AHWYA_pb_x300.png",
+                "bottle_small_square": "//images.vivino.com/thumbs/2IdCDANuT5-A9W90-AHWYA_pb_300x300.png",
+                "label": "//images.vivino.com/thumbs/2IdCDANuT5-A9W90-AHWYA_pl_480x640.png",
+                "label_large": "//images.vivino.com/thumbs/2IdCDANuT5-A9W90-AHWYA_pl_375x500.png",
+                "label_medium": "//images.vivino.com/thumbs/2IdCDANuT5-A9W90-AHWYA_pl_150x200.png",
+                "label_medium_square": "//images.vivino.com/thumbs/2IdCDANuT5-A9W90-AHWYA_pl_150x150.png",
+                "label_small_square": "//images.vivino.com/thumbs/2IdCDANuT5-A9W90-AHWYA_pl_80x80.png",
+                "large": "//images.vivino.com/thumbs/2IdCDANuT5-A9W90-AHWYA_pl_375x500.png",
+                "medium": "//images.vivino.com/thumbs/2IdCDANuT5-A9W90-AHWYA_pl_150x200.png",
+                "medium_square": "//images.vivino.com/thumbs/2IdCDANuT5-A9W90-AHWYA_pl_150x150.png",
+                "small_square": "//images.vivino.com/thumbs/2IdCDANuT5-A9W90-AHWYA_pl_80x80.png"
+            }
+        },
+        "statistics": {
+            "status": "Normal",
+            "ratings_count": 16604,
+            "ratings_average": 4.3,
+            "labels_count": 76756,
+            "vintages_count": 39
+        },
+        "rank": null,
+        "hidden": false,
+        "vintages": [
+            {
+                "id": 173878805,
+                "seo_name": "paddle-creek-sauvignon-blanc-2023",
+                "name": "Paddle Creek Sauvignon Blanc 2023",
+                "statistics": {
+                    "status": "BelowThreshold",
+                    "ratings_count": 1,
+                    "ratings_average": 0,
+                    "labels_count": 22,
+                    "reviews_count": 0
+                },
+                "year": 2023,
+                "grapes": null,
+                "has_valid_ratings": false
+            },
+            {
+                "id": 170593976,
+                "seo_name": "paddle-creek-sauvignon-blanc-2022",
+                "name": "Paddle Creek Sauvignon Blanc 2022",
+                "statistics": {
+                    "status": "Normal",
+                    "ratings_count": 1160,
+                    "ratings_average": 4.4,
+                    "labels_count": 9257,
+                    "reviews_count": 308
+                },
+                "year": 2022,
+                "grapes": null,
+                "has_valid_ratings": true
+            },
+            {
+                "id": 167104253,
+                "seo_name": "paddle-creek-sauvignon-blanc-2021",
+                "name": "Paddle Creek Sauvignon Blanc 2021",
+                "statistics": {
+                    "status": "Normal",
+                    "ratings_count": 845,
+                    "ratings_average": 4.3,
+                    "labels_count": 5813,
+                    "reviews_count": 270
+                },
+                "year": 2021,
+                "grapes": null,
+                "has_valid_ratings": true
+            },
+            {
+                "id": 163435940,
+                "seo_name": "paddle-creek-sauvignon-blanc-2020",
+                "name": "Paddle Creek Sauvignon Blanc 2020",
+                "statistics": {
+                    "status": "Normal",
+                    "ratings_count": 1730,
+                    "ratings_average": 4.3,
+                    "labels_count": 9438,
+                    "reviews_count": 667
+                },
+                "year": 2020,
+                "grapes": null,
+                "has_valid_ratings": true
+            },
+            {
+                "id": 159932900,
+                "seo_name": "paddle-creek-sauvignon-blanc-2019",
+                "name": "Paddle Creek Sauvignon Blanc 2019",
+                "statistics": {
+                    "status": "Normal",
+                    "ratings_count": 2600,
+                    "ratings_average": 4.3,
+                    "labels_count": 13628,
+                    "reviews_count": 936
+                },
+                "year": 2019,
+                "grapes": null,
+                "has_valid_ratings": true
+            },
+            {
+                "id": 156754121,
+                "seo_name": "paddle-creek-sauvignon-blanc-2018",
+                "name": "Paddle Creek Sauvignon Blanc 2018",
+                "statistics": {
+                    "status": "Normal",
+                    "ratings_count": 3124,
+                    "ratings_average": 4.3,
+                    "labels_count": 14186,
+                    "reviews_count": 1076
+                },
+                "year": 2018,
+                "grapes": null,
+                "has_valid_ratings": true
+            },
+            {
+                "id": 152546388,
+                "seo_name": "paddle-creek-sauvignon-blanc-2017",
+                "name": "Paddle Creek Sauvignon Blanc 2017",
+                "statistics": {
+                    "status": "Normal",
+                    "ratings_count": 2196,
+                    "ratings_average": 4.3,
+                    "labels_count": 8243,
+                    "reviews_count": 724
+                },
+                "year": 2017,
+                "grapes": null,
+                "has_valid_ratings": true
+            },
+            {
+                "id": 141147816,
+                "seo_name": "paddle-creek-sauvignon-blanc-2016",
+                "name": "Paddle Creek Sauvignon Blanc 2016",
+                "statistics": {
+                    "status": "Normal",
+                    "ratings_count": 937,
+                    "ratings_average": 4,
+                    "labels_count": 2921,
+                    "reviews_count": 275
+                },
+                "year": 2016,
+                "grapes": null,
+                "has_valid_ratings": true
+            },
+            {
+                "id": 24339479,
+                "seo_name": "paddle-creek-sauvignon-blanc-2015",
+                "name": "Paddle Creek Sauvignon Blanc 2015",
+                "statistics": {
+                    "status": "Normal",
+                    "ratings_count": 122,
+                    "ratings_average": 3.9,
+                    "labels_count": 420,
+                    "reviews_count": 47
+                },
+                "year": 2015,
+                "grapes": null,
+                "has_valid_ratings": true
+            },
+            {
+                "id": 14818027,
+                "seo_name": "paddle-creek-sauvignon-blanc-2014",
+                "name": "Paddle Creek Sauvignon Blanc 2014",
+                "statistics": {
+                    "status": "Normal",
+                    "ratings_count": 158,
+                    "ratings_average": 3.8,
+                    "labels_count": 700,
+                    "reviews_count": 66
+                },
+                "year": 2014,
+                "grapes": null,
+                "has_valid_ratings": true
+            },
+            {
+                "id": 54300391,
+                "seo_name": "paddle-creek-sauvignon-blanc-2013",
+                "name": "Paddle Creek Sauvignon Blanc 2013",
+                "statistics": {
+                    "status": "BelowThreshold",
+                    "ratings_count": 4,
+                    "ratings_average": 0,
+                    "labels_count": 16,
+                    "reviews_count": 0
+                },
+                "year": 2013,
+                "grapes": null,
+                "has_valid_ratings": false
+            },
+            {
+                "id": 154312360,
+                "seo_name": "paddle-creek-sauvignon-blanc-2012",
+                "name": "Paddle Creek Sauvignon Blanc 2012",
+                "statistics": {
+                    "status": "BelowThreshold",
+                    "ratings_count": 4,
+                    "ratings_average": 0,
+                    "labels_count": 25,
+                    "reviews_count": 1
+                },
+                "year": 2012,
+                "grapes": null,
+                "has_valid_ratings": false
+            },
+            {
+                "id": 15400468,
+                "seo_name": "paddle-creek-sauvignon-blanc-2011",
+                "name": "Paddle Creek Sauvignon Blanc 2011",
+                "statistics": {
+                    "status": "BelowThreshold",
+                    "ratings_count": 8,
+                    "ratings_average": 0,
+                    "labels_count": 56,
+                    "reviews_count": 3
+                },
+                "year": 2011,
+                "grapes": null,
+                "has_valid_ratings": false
+            },
+            {
+                "id": 150156779,
+                "seo_name": "paddle-creek-sauvignon-blanc-2010",
+                "name": "Paddle Creek Sauvignon Blanc 2010",
+                "statistics": {
+                    "status": "BelowThreshold",
+                    "ratings_count": 6,
+                    "ratings_average": 0,
+                    "labels_count": 58,
+                    "reviews_count": 3
+                },
+                "year": 2010,
+                "grapes": null,
+                "has_valid_ratings": false
+            },
+            {
+                "id": 158205072,
+                "seo_name": "paddle-creek-sauvignon-blanc-2009",
+                "name": "Paddle Creek Sauvignon Blanc 2009",
+                "statistics": {
+                    "status": "BelowThreshold",
+                    "ratings_count": 0,
+                    "ratings_average": 0,
+                    "labels_count": 14,
+                    "reviews_count": 0
+                },
+                "year": 2009,
+                "grapes": null,
+                "has_valid_ratings": false
+            },
+            {
+                "id": 158258739,
+                "seo_name": "paddle-creek-sauvignon-blanc-2008",
+                "name": "Paddle Creek Sauvignon Blanc 2008",
+                "statistics": {
+                    "status": "BelowThreshold",
+                    "ratings_count": 1,
+                    "ratings_average": 0,
+                    "labels_count": 13,
+                    "reviews_count": 1
+                },
+                "year": 2008,
+                "grapes": null,
+                "has_valid_ratings": false
+            },
+            {
+                "id": 155661965,
+                "seo_name": "paddle-creek-sauvignon-blanc-2007",
+                "name": "Paddle Creek Sauvignon Blanc 2007",
+                "statistics": {
+                    "status": "BelowThreshold",
+                    "ratings_count": 2,
+                    "ratings_average": 0,
+                    "labels_count": 19,
+                    "reviews_count": 0
+                },
+                "year": 2007,
+                "grapes": null,
+                "has_valid_ratings": false
+            },
+            {
+                "id": 159006746,
+                "seo_name": "paddle-creek-sauvignon-blanc-2006",
+                "name": "Paddle Creek Sauvignon Blanc 2006",
+                "statistics": {
+                    "status": "BelowThreshold",
+                    "ratings_count": 21,
+                    "ratings_average": 0,
+                    "labels_count": 168,
+                    "reviews_count": 5
+                },
+                "year": 2006,
+                "grapes": null,
+                "has_valid_ratings": false
+            },
+            {
+                "id": 163288100,
+                "seo_name": "paddle-creek-sauvignon-blanc-2005",
+                "name": "Paddle Creek Sauvignon Blanc 2005",
+                "statistics": {
+                    "status": "BelowThreshold",
+                    "ratings_count": 6,
+                    "ratings_average": 0,
+                    "labels_count": 44,
+                    "reviews_count": 2
+                },
+                "year": 2005,
+                "grapes": null,
+                "has_valid_ratings": false
+            },
+            {
+                "id": 157803857,
+                "seo_name": "paddle-creek-sauvignon-blanc-2004",
+                "name": "Paddle Creek Sauvignon Blanc 2004",
+                "statistics": {
+                    "status": "BelowThreshold",
+                    "ratings_count": 0,
+                    "ratings_average": 0,
+                    "labels_count": 10,
+                    "reviews_count": 0
+                },
+                "year": 2004,
+                "grapes": null,
+                "has_valid_ratings": false
+            },
+            {
+                "id": 171393318,
+                "seo_name": "paddle-creek-sauvignon-blanc-2003",
+                "name": "Paddle Creek Sauvignon Blanc 2003",
+                "statistics": {
+                    "status": "BelowThreshold",
+                    "ratings_count": 1,
+                    "ratings_average": 0,
+                    "labels_count": 27,
+                    "reviews_count": 0
+                },
+                "year": 2003,
+                "grapes": null,
+                "has_valid_ratings": false
+            },
+            {
+                "id": 169419054,
+                "seo_name": "paddle-creek-sauvignon-blanc-2002",
+                "name": "Paddle Creek Sauvignon Blanc 2002",
+                "statistics": {
+                    "status": "BelowThreshold",
+                    "ratings_count": 5,
+                    "ratings_average": 0,
+                    "labels_count": 31,
+                    "reviews_count": 2
+                },
+                "year": 2002,
+                "grapes": null,
+                "has_valid_ratings": false
+            },
+            {
+                "id": 151961681,
+                "seo_name": "paddle-creek-sauvignon-blanc-2001",
+                "name": "Paddle Creek Sauvignon Blanc 2001",
+                "statistics": {
+                    "status": "BelowThreshold",
+                    "ratings_count": 2,
+                    "ratings_average": 0,
+                    "labels_count": 19,
+                    "reviews_count": 0
+                },
+                "year": 2001,
+                "grapes": null,
+                "has_valid_ratings": false
+            },
+            {
+                "id": 160840906,
+                "seo_name": "paddle-creek-sauvignon-blanc-2000",
+                "name": "Paddle Creek Sauvignon Blanc 2000",
+                "statistics": {
+                    "status": "BelowThreshold",
+                    "ratings_count": 19,
+                    "ratings_average": 0,
+                    "labels_count": 214,
+                    "reviews_count": 6
+                },
+                "year": 2000,
+                "grapes": null,
+                "has_valid_ratings": false
+            },
+            {
+                "id": 172631104,
+                "seo_name": "paddle-creek-sauvignon-blanc-1999",
+                "name": "Paddle Creek Sauvignon Blanc 1999",
+                "statistics": {
+                    "status": "BelowThreshold",
+                    "ratings_count": 0,
+                    "ratings_average": 0,
+                    "labels_count": 1,
+                    "reviews_count": 0
+                },
+                "year": 1999,
+                "grapes": null,
+                "has_valid_ratings": false
+            },
+            {
+                "id": 167872771,
+                "seo_name": "paddle-creek-sauvignon-blanc-1998",
+                "name": "Paddle Creek Sauvignon Blanc 1998",
+                "statistics": {
+                    "status": "BelowThreshold",
+                    "ratings_count": 0,
+                    "ratings_average": 0,
+                    "labels_count": 1,
+                    "reviews_count": 0
+                },
+                "year": 1998,
+                "grapes": null,
+                "has_valid_ratings": false
+            },
+            {
+                "id": 172305722,
+                "seo_name": "paddle-creek-sauvignon-blanc-1996",
+                "name": "Paddle Creek Sauvignon Blanc 1996",
+                "statistics": {
+                    "status": "BelowThreshold",
+                    "ratings_count": 0,
+                    "ratings_average": 0,
+                    "labels_count": 2,
+                    "reviews_count": 0
+                },
+                "year": 1996,
+                "grapes": null,
+                "has_valid_ratings": false
+            },
+            {
+                "id": 170013805,
+                "seo_name": "paddle-creek-sauvignon-blanc-1995",
+                "name": "Paddle Creek Sauvignon Blanc 1995",
+                "statistics": {
+                    "status": "BelowThreshold",
+                    "ratings_count": 0,
+                    "ratings_average": 0,
+                    "labels_count": 1,
+                    "reviews_count": 0
+                },
+                "year": 1995,
+                "grapes": null,
+                "has_valid_ratings": false
+            },
+            {
+                "id": 172934266,
+                "seo_name": "paddle-creek-sauvignon-blanc-1992",
+                "name": "Paddle Creek Sauvignon Blanc 1992",
+                "statistics": {
+                    "status": "BelowThreshold",
+                    "ratings_count": 1,
+                    "ratings_average": 0,
+                    "labels_count": 1,
+                    "reviews_count": 1
+                },
+                "year": 1992,
+                "grapes": null,
+                "has_valid_ratings": false
+            },
+            {
+                "id": 173112343,
+                "seo_name": "paddle-creek-sauvignon-blanc-1991",
+                "name": "Paddle Creek Sauvignon Blanc 1991",
+                "statistics": {
+                    "status": "BelowThreshold",
+                    "ratings_count": 0,
+                    "ratings_average": 0,
+                    "labels_count": 2,
+                    "reviews_count": 0
+                },
+                "year": 1991,
+                "grapes": null,
+                "has_valid_ratings": false
+            },
+            {
+                "id": 171167247,
+                "seo_name": "paddle-creek-sauvignon-blanc-1990",
+                "name": "Paddle Creek Sauvignon Blanc 1990",
+                "statistics": {
+                    "status": "BelowThreshold",
+                    "ratings_count": 0,
+                    "ratings_average": 0,
+                    "labels_count": 9,
+                    "reviews_count": 0
+                },
+                "year": 1990,
+                "grapes": null,
+                "has_valid_ratings": false
+            },
+            {
+                "id": 155736977,
+                "seo_name": "paddle-creek-sauvignon-blanc-1987",
+                "name": "Paddle Creek Sauvignon Blanc 1987",
+                "statistics": {
+                    "status": "BelowThreshold",
+                    "ratings_count": 0,
+                    "ratings_average": 0,
+                    "labels_count": 0,
+                    "reviews_count": 0
+                },
+                "year": 1987,
+                "grapes": null,
+                "has_valid_ratings": false
+            },
+            {
+                "id": 171729270,
+                "seo_name": "paddle-creek-sauvignon-blanc-1986",
+                "name": "Paddle Creek Sauvignon Blanc 1986",
+                "statistics": {
+                    "status": "BelowThreshold",
+                    "ratings_count": 0,
+                    "ratings_average": 0,
+                    "labels_count": 2,
+                    "reviews_count": 0
+                },
+                "year": 1986,
+                "grapes": null,
+                "has_valid_ratings": false
+            },
+            {
+                "id": 169143942,
+                "seo_name": "paddle-creek-sauvignon-blanc-1984",
+                "name": "Paddle Creek Sauvignon Blanc 1984",
+                "statistics": {
+                    "status": "BelowThreshold",
+                    "ratings_count": 1,
+                    "ratings_average": 0,
+                    "labels_count": 1,
+                    "reviews_count": 0
+                },
+                "year": 1984,
+                "grapes": null,
+                "has_valid_ratings": false
+            },
+            {
+                "id": 170117272,
+                "seo_name": "paddle-creek-sauvignon-blanc-1983",
+                "name": "Paddle Creek Sauvignon Blanc 1983",
+                "statistics": {
+                    "status": "BelowThreshold",
+                    "ratings_count": 0,
+                    "ratings_average": 0,
+                    "labels_count": 2,
+                    "reviews_count": 0
+                },
+                "year": 1983,
+                "grapes": null,
+                "has_valid_ratings": false
+            },
+            {
+                "id": 164927430,
+                "seo_name": "paddle-creek-sauvignon-blanc-1982",
+                "name": "Paddle Creek Sauvignon Blanc 1982",
+                "statistics": {
+                    "status": "BelowThreshold",
+                    "ratings_count": 0,
+                    "ratings_average": 0,
+                    "labels_count": 1,
+                    "reviews_count": 0
+                },
+                "year": 1982,
+                "grapes": null,
+                "has_valid_ratings": false
+            },
+            {
+                "id": 172021163,
+                "seo_name": "paddle-creek-sauvignon-blanc-1980",
+                "name": "Paddle Creek Sauvignon Blanc 1980",
+                "statistics": {
+                    "status": "BelowThreshold",
+                    "ratings_count": 0,
+                    "ratings_average": 0,
+                    "labels_count": 2,
+                    "reviews_count": 0
+                },
+                "year": 1980,
+                "grapes": null,
+                "has_valid_ratings": false
+            },
+            {
+                "id": 167511234,
+                "seo_name": "paddle-creek-sauvignon-blanc-1800",
+                "name": "Paddle Creek Sauvignon Blanc 1800",
+                "statistics": {
+                    "status": "BelowThreshold",
+                    "ratings_count": 0,
+                    "ratings_average": 0,
+                    "labels_count": 1,
+                    "reviews_count": 0
+                },
+                "year": 1800,
+                "grapes": null,
+                "has_valid_ratings": false
+            },
+            {
+                "id": 14818052,
+                "seo_name": "paddle-creek-sauvignon-blanc-uv",
+                "name": "Paddle Creek Sauvignon Blanc",
+                "statistics": {
+                    "status": "Normal",
+                    "ratings_count": 16604,
+                    "ratings_average": 4.3,
+                    "labels_count": 11298,
+                    "reviews_count": 1061
+                },
+                "year": 0,
+                "grapes": null,
+                "has_valid_ratings": true
+            }
+        ],
+        "description": "",
+        "grapes": [
+            {
+                "id": 17,
+                "name": "Sauvignon Blanc",
+                "seo_name": "sauvignon-blanc",
+                "has_detailed_info": true,
+                "wines_count": 292440,
+                "parent_grape_id": null
+            }
+        ],
+        "foods": [
+            {
+                "id": 13,
+                "name": "Shellfish",
+                "background_image": {
+                    "location": "//images.vivino.com/backgrounds/foods/13_shellfish.png",
+                    "variations": {
+                        "small": "//images.vivino.com/backgrounds/foods/thumbs/13_shellfish_932x810.png"
+                    }
+                },
+                "seo_name": "shellfish"
+            },
+            {
+                "id": 19,
+                "name": "Vegetarian",
+                "background_image": {
+                    "location": "//images.vivino.com/backgrounds/foods/19_vegetarian.png",
+                    "variations": {
+                        "small": "//images.vivino.com/backgrounds/foods/thumbs/19_vegetarian_932x810.png"
+                    }
+                },
+                "seo_name": "vegetarian"
+            },
+            {
+                "id": 39,
+                "name": "Goat cheese",
+                "background_image": {
+                    "location": "//images.vivino.com/backgrounds/foods/39_goatcheese.png",
+                    "variations": {
+                        "small": "//images.vivino.com/backgrounds/foods/thumbs/39_goatcheese_932x810.png"
+                    }
+                },
+                "seo_name": null
+            }
+        ],
+        "non_vintage": false,
+        "alcohol": 13,
+        "sweetness_id": null,
+        "closure": null,
+        "vintage_mask_raw": null,
+        "updated_at": "2022-01-13T19:08:44Z",
+        "created_at": "2015-01-15T00:16:48Z",
+        "is_first_wine": false,
+        "style": {
+            "id": 202,
+            "seo_name": "new-zealand-sauvignon-blanc",
+            "regional_name": "New Zealand",
+            "varietal_name": "Sauvignon Blanc",
+            "name": "New Zealand Sauvignon Blanc",
+            "image": null,
+            "background_image": null,
+            "description": "Sauvignon Blanc is the flagship varietal of New Zealand. Originating from the Bordeaux region of France, the grape now accounts for 62% of all the wine produced in New Zealand.\n\nThe New Zealand Sauvignon Blanc scene started popping in 1970s, with high quality Sauvignon Blancs coming out of the Marlborough region in particular. This illustrated the great potential for grape growing in New Zealand. \n\nSauvignon Blanc tends to be fermented in stainless steel vats, which results in a clean, crisp flavor. These wines tend to be very aromatic with notes of grapefruit, tropical fruit and cut grass.\n\nWhen it comes to pairing, think white meat, shellfish, and try to accentuate the herbaceous qualities of the wine with ingredients like parsley and cilantro.",
+            "blurb": null,
+            "interesting_facts": [
+                "A commonly used descriptor for Sauvignon Blanc is 'cat pee'! ",
+                "The name Sauvignon Blanc translates to 'wild white'."
+            ],
+            "body": 2,
+            "body_description": "Light-bodied",
+            "acidity": 3,
+            "acidity_description": "High",
+            "country": {
+                "code": "nz",
+                "name": "New Zealand",
+                "native_name": "New Zealand",
+                "seo_name": "new-zealand",
+                "currency": {
+                    "code": "NZD",
+                    "name": "New Zealand Dollars",
+                    "prefix": "$",
+                    "suffix": null
+                },
+                "regions_count": 37,
+                "users_count": 103631,
+                "wines_count": 15943,
+                "wineries_count": 3019,
+                "most_used_grapes": [
+                    {
+                        "id": 14,
+                        "name": "Pinot Noir",
+                        "seo_name": "pinot-noir",
+                        "has_detailed_info": true,
+                        "wines_count": 572334,
+                        "parent_grape_id": null
+                    },
+                    {
+                        "id": 17,
+                        "name": "Sauvignon Blanc",
+                        "seo_name": "sauvignon-blanc",
+                        "has_detailed_info": true,
+                        "wines_count": 292440,
+                        "parent_grape_id": null
+                    },
+                    {
+                        "id": 5,
+                        "name": "Chardonnay",
+                        "seo_name": "chardonnay",
+                        "has_detailed_info": true,
+                        "wines_count": 604208,
+                        "parent_grape_id": null
+                    }
+                ]
+            },
+            "wine_type_id": 2,
+            "food": [
+                {
+                    "id": 13,
+                    "name": "Shellfish",
+                    "background_image": {
+                        "location": "//images.vivino.com/backgrounds/foods/13_shellfish.png",
+                        "variations": {
+                            "small": "//images.vivino.com/backgrounds/foods/thumbs/13_shellfish_932x810.png"
+                        }
+                    },
+                    "seo_name": "shellfish"
+                },
+                {
+                    "id": 19,
+                    "name": "Vegetarian",
+                    "background_image": {
+                        "location": "//images.vivino.com/backgrounds/foods/19_vegetarian.png",
+                        "variations": {
+                            "small": "//images.vivino.com/backgrounds/foods/thumbs/19_vegetarian_932x810.png"
+                        }
+                    },
+                    "seo_name": "vegetarian"
+                },
+                {
+                    "id": 39,
+                    "name": "Goat cheese",
+                    "background_image": {
+                        "location": "//images.vivino.com/backgrounds/foods/39_goatcheese.png",
+                        "variations": {
+                            "small": "//images.vivino.com/backgrounds/foods/thumbs/39_goatcheese_932x810.png"
+                        }
+                    },
+                    "seo_name": null
+                }
+            ],
+            "grapes": [
+                {
+                    "id": 17,
+                    "name": "Sauvignon Blanc",
+                    "seo_name": "sauvignon-blanc",
+                    "has_detailed_info": true,
+                    "wines_count": 292440,
+                    "parent_grape_id": null
+                }
+            ],
+            "region": null,
+            "parent_style_id": 799,
+            "hidden": false,
+            "statistics": {
+                "wines_count": 3201,
+                "aggregated_wines_count": 3201
+            },
+            "vintage_mask": null,
+            "baseline_structure": {
+                "acidity": 4.5,
+                "fizziness": null,
+                "intensity": 2.5,
+                "sweetness": 1,
+                "tannin": null
+            }
+        },
+        "has_valid_ratings": true
+    },
+    "highlights": [
+        {
+            "vintage_id": 170593976,
+            "highlight_type": "top_listed",
+            "message": "Ranks #2 in Top 25 New Zealand Sauvignon Blanc wines in Russia right now",
+            "icon": "https://images.vivino.com/highlights/icon/top_listed.svg",
+            "metadata": {
+                "price": null,
+                "wine_id": 3052246,
+                "toplist": {
+                    "id": 6526,
+                    "name": "Top 25 New Zealand Sauvignon Blanc wines in Russia right now",
+                    "seo_name": "top-25-new-zealand-sauvignon-blanc-wines-russia-right-now-ru"
+                },
+                "ws_award": null,
+                "critic_review_id": null,
+                "ratings_average": 4.4,
+                "ratings_count": 1160,
+                "vintage_year": "2022",
+                "rank_type": "global",
+                "ranks": {
+                    "country": {
+                        "description": "Rank within New Zealand",
+                        "total": 108937,
+                        "rank": 53
+                    },
+                    "region": {
+                        "description": "Rank within Wine Region",
+                        "total": 43941,
+                        "rank": 30
+                    },
+                    "winery": {
+                        "description": "Rank within Winery",
+                        "total": 40,
+                        "rank": 2
+                    },
+                    "global": {
+                        "description": "Global Rank",
+                        "total": 10448175,
+                        "rank": 22581
+                    }
+                },
+                "style": {
+                    "id": 202,
+                    "seo_name": "new-zealand-sauvignon-blanc",
+                    "regional_name": "New Zealand",
+                    "varietal_name": "Sauvignon Blanc",
+                    "name": "New Zealand Sauvignon Blanc",
+                    "image": null,
+                    "background_image": null,
+                    "description": "Sauvignon Blanc is the flagship varietal of New Zealand. Originating from the Bordeaux region of France, the grape now accounts for 62% of all the wine produced in New Zealand.\n\nThe New Zealand Sauvignon Blanc scene started popping in 1970s, with high quality Sauvignon Blancs coming out of the Marlborough region in particular. This illustrated the great potential for grape growing in New Zealand. \n\nSauvignon Blanc tends to be fermented in stainless steel vats, which results in a clean, crisp flavor. These wines tend to be very aromatic with notes of grapefruit, tropical fruit and cut grass.\n\nWhen it comes to pairing, think white meat, shellfish, and try to accentuate the herbaceous qualities of the wine with ingredients like parsley and cilantro.",
+                    "blurb": null,
+                    "interesting_facts": [
+                        "A commonly used descriptor for Sauvignon Blanc is 'cat pee'! ",
+                        "The name Sauvignon Blanc translates to 'wild white'."
+                    ],
+                    "body": 2,
+                    "body_description": "Light-bodied",
+                    "acidity": 3,
+                    "acidity_description": "High",
+                    "country": {
+                        "code": "nz",
+                        "name": "New Zealand",
+                        "native_name": "New Zealand",
+                        "seo_name": "new-zealand",
+                        "currency": {
+                            "code": "NZD",
+                            "name": "New Zealand Dollars",
+                            "prefix": "$",
+                            "suffix": null
+                        },
+                        "regions_count": 37,
+                        "users_count": 103631,
+                        "wines_count": 15943,
+                        "wineries_count": 3019,
+                        "most_used_grapes": [
+                            {
+                                "id": 14,
+                                "name": "Pinot Noir",
+                                "seo_name": "pinot-noir",
+                                "has_detailed_info": true,
+                                "wines_count": 572334,
+                                "parent_grape_id": null
+                            },
+                            {
+                                "id": 17,
+                                "name": "Sauvignon Blanc",
+                                "seo_name": "sauvignon-blanc",
+                                "has_detailed_info": true,
+                                "wines_count": 292440,
+                                "parent_grape_id": null
+                            },
+                            {
+                                "id": 5,
+                                "name": "Chardonnay",
+                                "seo_name": "chardonnay",
+                                "has_detailed_info": true,
+                                "wines_count": 604208,
+                                "parent_grape_id": null
+                            }
+                        ]
+                    },
+                    "wine_type_id": 2,
+                    "food": [
+                        {
+                            "id": 13,
+                            "name": "Shellfish",
+                            "background_image": {
+                                "location": "//images.vivino.com/backgrounds/foods/13_shellfish.png",
+                                "variations": {
+                                    "small": "//images.vivino.com/backgrounds/foods/thumbs/13_shellfish_932x810.png"
+                                }
+                            },
+                            "seo_name": "shellfish"
+                        },
+                        {
+                            "id": 19,
+                            "name": "Vegetarian",
+                            "background_image": {
+                                "location": "//images.vivino.com/backgrounds/foods/19_vegetarian.png",
+                                "variations": {
+                                    "small": "//images.vivino.com/backgrounds/foods/thumbs/19_vegetarian_932x810.png"
+                                }
+                            },
+                            "seo_name": "vegetarian"
+                        },
+                        {
+                            "id": 39,
+                            "name": "Goat cheese",
+                            "background_image": {
+                                "location": "//images.vivino.com/backgrounds/foods/39_goatcheese.png",
+                                "variations": {
+                                    "small": "//images.vivino.com/backgrounds/foods/thumbs/39_goatcheese_932x810.png"
+                                }
+                            },
+                            "seo_name": null
+                        }
+                    ],
+                    "grapes": [
+                        {
+                            "id": 17,
+                            "name": "Sauvignon Blanc",
+                            "seo_name": "sauvignon-blanc",
+                            "has_detailed_info": true,
+                            "wines_count": 292440,
+                            "parent_grape_id": null
+                        }
+                    ],
+                    "region": null,
+                    "parent_style_id": 799,
+                    "hidden": false,
+                    "statistics": {
+                        "wines_count": 3201,
+                        "aggregated_wines_count": 3201
+                    },
+                    "vintage_mask": null,
+                    "baseline_structure": {
+                        "acidity": 4.5,
+                        "fizziness": null,
+                        "intensity": 2.5,
+                        "sweetness": 1,
+                        "tannin": null
+                    }
+                }
+            },
+            "vintage_year": 2022
+        },
+        {
+            "vintage_id": 152546388,
+            "highlight_type": "wsa_winning",
+            "message": "Featured in Vivino's 2020 Wine Style Awards: New Zealand Sauvignon Blanc",
+            "icon": "https://images.vivino.com/highlights/icon/wsa_winning.svg",
+            "metadata": {
+                "price": null,
+                "wine_id": 3052246,
+                "toplist": null,
+                "ws_award": {
+                    "id": 2020202,
+                    "name": "Vivino's 2020 Wine Style Awards: New Zealand Sauvignon Blanc",
+                    "seo_name": "wine_style_awards_2020_new_zealand_sauvignon_blanc"
+                },
+                "critic_review_id": null,
+                "ratings_average": 4.3,
+                "ratings_count": 2196,
+                "vintage_year": "2017",
+                "rank_type": "global",
+                "ranks": {
+                    "country": {
+                        "description": "Rank within New Zealand",
+                        "total": 108937,
+                        "rank": 183
+                    },
+                    "region": {
+                        "description": "Rank within Wine Region",
+                        "total": 43941,
+                        "rank": 80
+                    },
+                    "winery": {
+                        "description": "Rank within Winery",
+                        "total": 40,
+                        "rank": 5
+                    },
+                    "global": {
+                        "description": "Global Rank",
+                        "total": 10448175,
+                        "rank": 47331
+                    }
+                },
+                "style": {
+                    "id": 202,
+                    "seo_name": "new-zealand-sauvignon-blanc",
+                    "regional_name": "New Zealand",
+                    "varietal_name": "Sauvignon Blanc",
+                    "name": "New Zealand Sauvignon Blanc",
+                    "image": null,
+                    "background_image": null,
+                    "description": "Sauvignon Blanc is the flagship varietal of New Zealand. Originating from the Bordeaux region of France, the grape now accounts for 62% of all the wine produced in New Zealand.\n\nThe New Zealand Sauvignon Blanc scene started popping in 1970s, with high quality Sauvignon Blancs coming out of the Marlborough region in particular. This illustrated the great potential for grape growing in New Zealand. \n\nSauvignon Blanc tends to be fermented in stainless steel vats, which results in a clean, crisp flavor. These wines tend to be very aromatic with notes of grapefruit, tropical fruit and cut grass.\n\nWhen it comes to pairing, think white meat, shellfish, and try to accentuate the herbaceous qualities of the wine with ingredients like parsley and cilantro.",
+                    "blurb": null,
+                    "interesting_facts": [
+                        "A commonly used descriptor for Sauvignon Blanc is 'cat pee'! ",
+                        "The name Sauvignon Blanc translates to 'wild white'."
+                    ],
+                    "body": 2,
+                    "body_description": "Light-bodied",
+                    "acidity": 3,
+                    "acidity_description": "High",
+                    "country": {
+                        "code": "nz",
+                        "name": "New Zealand",
+                        "native_name": "New Zealand",
+                        "seo_name": "new-zealand",
+                        "currency": {
+                            "code": "NZD",
+                            "name": "New Zealand Dollars",
+                            "prefix": "$",
+                            "suffix": null
+                        },
+                        "regions_count": 37,
+                        "users_count": 103631,
+                        "wines_count": 15943,
+                        "wineries_count": 3019,
+                        "most_used_grapes": [
+                            {
+                                "id": 14,
+                                "name": "Pinot Noir",
+                                "seo_name": "pinot-noir",
+                                "has_detailed_info": true,
+                                "wines_count": 572334,
+                                "parent_grape_id": null
+                            },
+                            {
+                                "id": 17,
+                                "name": "Sauvignon Blanc",
+                                "seo_name": "sauvignon-blanc",
+                                "has_detailed_info": true,
+                                "wines_count": 292440,
+                                "parent_grape_id": null
+                            },
+                            {
+                                "id": 5,
+                                "name": "Chardonnay",
+                                "seo_name": "chardonnay",
+                                "has_detailed_info": true,
+                                "wines_count": 604208,
+                                "parent_grape_id": null
+                            }
+                        ]
+                    },
+                    "wine_type_id": 2,
+                    "food": [
+                        {
+                            "id": 13,
+                            "name": "Shellfish",
+                            "background_image": {
+                                "location": "//images.vivino.com/backgrounds/foods/13_shellfish.png",
+                                "variations": {
+                                    "small": "//images.vivino.com/backgrounds/foods/thumbs/13_shellfish_932x810.png"
+                                }
+                            },
+                            "seo_name": "shellfish"
+                        },
+                        {
+                            "id": 19,
+                            "name": "Vegetarian",
+                            "background_image": {
+                                "location": "//images.vivino.com/backgrounds/foods/19_vegetarian.png",
+                                "variations": {
+                                    "small": "//images.vivino.com/backgrounds/foods/thumbs/19_vegetarian_932x810.png"
+                                }
+                            },
+                            "seo_name": "vegetarian"
+                        },
+                        {
+                            "id": 39,
+                            "name": "Goat cheese",
+                            "background_image": {
+                                "location": "//images.vivino.com/backgrounds/foods/39_goatcheese.png",
+                                "variations": {
+                                    "small": "//images.vivino.com/backgrounds/foods/thumbs/39_goatcheese_932x810.png"
+                                }
+                            },
+                            "seo_name": null
+                        }
+                    ],
+                    "grapes": [
+                        {
+                            "id": 17,
+                            "name": "Sauvignon Blanc",
+                            "seo_name": "sauvignon-blanc",
+                            "has_detailed_info": true,
+                            "wines_count": 292440,
+                            "parent_grape_id": null
+                        }
+                    ],
+                    "region": null,
+                    "parent_style_id": 799,
+                    "hidden": false,
+                    "statistics": {
+                        "wines_count": 3201,
+                        "aggregated_wines_count": 3201
+                    },
+                    "vintage_mask": null,
+                    "baseline_structure": {
+                        "acidity": 4.5,
+                        "fizziness": null,
+                        "intensity": 2.5,
+                        "sweetness": 1,
+                        "tannin": null
+                    }
+                }
+            },
+            "vintage_year": 2017
+        },
+        {
+            "vintage_id": 167104253,
+            "highlight_type": "best_user_rated",
+            "message": "A top rated year for this wine",
+            "icon": "https://images.vivino.com/highlights/icon/best_user_rated.svg",
+            "metadata": {
+                "price": null,
+                "wine_id": 3052246,
+                "toplist": null,
+                "ws_award": null,
+                "critic_review_id": null,
+                "ratings_average": 4.3,
+                "ratings_count": 845,
+                "vintage_year": "2021",
+                "rank_type": "global",
+                "ranks": {
+                    "country": {
+                        "description": "Rank within New Zealand",
+                        "total": 108937,
+                        "rank": 211
+                    },
+                    "region": {
+                        "description": "Rank within Wine Region",
+                        "total": 43941,
+                        "rank": 97
+                    },
+                    "winery": {
+                        "description": "Rank within Winery",
+                        "total": 40,
+                        "rank": 7
+                    },
+                    "global": {
+                        "description": "Global Rank",
+                        "total": 10448175,
+                        "rank": 49703
+                    }
+                },
+                "style": {
+                    "id": 202,
+                    "seo_name": "new-zealand-sauvignon-blanc",
+                    "regional_name": "New Zealand",
+                    "varietal_name": "Sauvignon Blanc",
+                    "name": "New Zealand Sauvignon Blanc",
+                    "image": null,
+                    "background_image": null,
+                    "description": "Sauvignon Blanc is the flagship varietal of New Zealand. Originating from the Bordeaux region of France, the grape now accounts for 62% of all the wine produced in New Zealand.\n\nThe New Zealand Sauvignon Blanc scene started popping in 1970s, with high quality Sauvignon Blancs coming out of the Marlborough region in particular. This illustrated the great potential for grape growing in New Zealand. \n\nSauvignon Blanc tends to be fermented in stainless steel vats, which results in a clean, crisp flavor. These wines tend to be very aromatic with notes of grapefruit, tropical fruit and cut grass.\n\nWhen it comes to pairing, think white meat, shellfish, and try to accentuate the herbaceous qualities of the wine with ingredients like parsley and cilantro.",
+                    "blurb": null,
+                    "interesting_facts": [
+                        "A commonly used descriptor for Sauvignon Blanc is 'cat pee'! ",
+                        "The name Sauvignon Blanc translates to 'wild white'."
+                    ],
+                    "body": 2,
+                    "body_description": "Light-bodied",
+                    "acidity": 3,
+                    "acidity_description": "High",
+                    "country": {
+                        "code": "nz",
+                        "name": "New Zealand",
+                        "native_name": "New Zealand",
+                        "seo_name": "new-zealand",
+                        "currency": {
+                            "code": "NZD",
+                            "name": "New Zealand Dollars",
+                            "prefix": "$",
+                            "suffix": null
+                        },
+                        "regions_count": 37,
+                        "users_count": 103631,
+                        "wines_count": 15943,
+                        "wineries_count": 3019,
+                        "most_used_grapes": [
+                            {
+                                "id": 14,
+                                "name": "Pinot Noir",
+                                "seo_name": "pinot-noir",
+                                "has_detailed_info": true,
+                                "wines_count": 572334,
+                                "parent_grape_id": null
+                            },
+                            {
+                                "id": 17,
+                                "name": "Sauvignon Blanc",
+                                "seo_name": "sauvignon-blanc",
+                                "has_detailed_info": true,
+                                "wines_count": 292440,
+                                "parent_grape_id": null
+                            },
+                            {
+                                "id": 5,
+                                "name": "Chardonnay",
+                                "seo_name": "chardonnay",
+                                "has_detailed_info": true,
+                                "wines_count": 604208,
+                                "parent_grape_id": null
+                            }
+                        ]
+                    },
+                    "wine_type_id": 2,
+                    "food": [
+                        {
+                            "id": 13,
+                            "name": "Shellfish",
+                            "background_image": {
+                                "location": "//images.vivino.com/backgrounds/foods/13_shellfish.png",
+                                "variations": {
+                                    "small": "//images.vivino.com/backgrounds/foods/thumbs/13_shellfish_932x810.png"
+                                }
+                            },
+                            "seo_name": "shellfish"
+                        },
+                        {
+                            "id": 19,
+                            "name": "Vegetarian",
+                            "background_image": {
+                                "location": "//images.vivino.com/backgrounds/foods/19_vegetarian.png",
+                                "variations": {
+                                    "small": "//images.vivino.com/backgrounds/foods/thumbs/19_vegetarian_932x810.png"
+                                }
+                            },
+                            "seo_name": "vegetarian"
+                        },
+                        {
+                            "id": 39,
+                            "name": "Goat cheese",
+                            "background_image": {
+                                "location": "//images.vivino.com/backgrounds/foods/39_goatcheese.png",
+                                "variations": {
+                                    "small": "//images.vivino.com/backgrounds/foods/thumbs/39_goatcheese_932x810.png"
+                                }
+                            },
+                            "seo_name": null
+                        }
+                    ],
+                    "grapes": [
+                        {
+                            "id": 17,
+                            "name": "Sauvignon Blanc",
+                            "seo_name": "sauvignon-blanc",
+                            "has_detailed_info": true,
+                            "wines_count": 292440,
+                            "parent_grape_id": null
+                        }
+                    ],
+                    "region": null,
+                    "parent_style_id": 799,
+                    "hidden": false,
+                    "statistics": {
+                        "wines_count": 3201,
+                        "aggregated_wines_count": 3201
+                    },
+                    "vintage_mask": null,
+                    "baseline_structure": {
+                        "acidity": 4.5,
+                        "fizziness": null,
+                        "intensity": 2.5,
+                        "sweetness": 1,
+                        "tannin": null
+                    }
+                }
+            },
+            "vintage_year": 2021
+        },
+        {
+            "vintage_id": 156754121,
+            "highlight_type": "most_user_rated",
+            "message": "Popular among Vivino users. More than 3100 ratings",
+            "icon": "https://images.vivino.com/highlights/icon/most_user_rated.svg",
+            "metadata": {
+                "price": null,
+                "wine_id": 3052246,
+                "toplist": null,
+                "ws_award": null,
+                "critic_review_id": null,
+                "ratings_average": 4.3,
+                "ratings_count": 3124,
+                "vintage_year": "2018",
+                "rank_type": "global",
+                "ranks": {
+                    "country": {
+                        "description": "Rank within New Zealand",
+                        "total": 108937,
+                        "rank": 172
+                    },
+                    "region": {
+                        "description": "Rank within Wine Region",
+                        "total": 43941,
+                        "rank": 71
+                    },
+                    "winery": {
+                        "description": "Rank within Winery",
+                        "total": 40,
+                        "rank": 3
+                    },
+                    "global": {
+                        "description": "Global Rank",
+                        "total": 10448175,
+                        "rank": 46904
+                    }
+                },
+                "style": {
+                    "id": 202,
+                    "seo_name": "new-zealand-sauvignon-blanc",
+                    "regional_name": "New Zealand",
+                    "varietal_name": "Sauvignon Blanc",
+                    "name": "New Zealand Sauvignon Blanc",
+                    "image": null,
+                    "background_image": null,
+                    "description": "Sauvignon Blanc is the flagship varietal of New Zealand. Originating from the Bordeaux region of France, the grape now accounts for 62% of all the wine produced in New Zealand.\n\nThe New Zealand Sauvignon Blanc scene started popping in 1970s, with high quality Sauvignon Blancs coming out of the Marlborough region in particular. This illustrated the great potential for grape growing in New Zealand. \n\nSauvignon Blanc tends to be fermented in stainless steel vats, which results in a clean, crisp flavor. These wines tend to be very aromatic with notes of grapefruit, tropical fruit and cut grass.\n\nWhen it comes to pairing, think white meat, shellfish, and try to accentuate the herbaceous qualities of the wine with ingredients like parsley and cilantro.",
+                    "blurb": null,
+                    "interesting_facts": [
+                        "A commonly used descriptor for Sauvignon Blanc is 'cat pee'! ",
+                        "The name Sauvignon Blanc translates to 'wild white'."
+                    ],
+                    "body": 2,
+                    "body_description": "Light-bodied",
+                    "acidity": 3,
+                    "acidity_description": "High",
+                    "country": {
+                        "code": "nz",
+                        "name": "New Zealand",
+                        "native_name": "New Zealand",
+                        "seo_name": "new-zealand",
+                        "currency": {
+                            "code": "NZD",
+                            "name": "New Zealand Dollars",
+                            "prefix": "$",
+                            "suffix": null
+                        },
+                        "regions_count": 37,
+                        "users_count": 103631,
+                        "wines_count": 15943,
+                        "wineries_count": 3019,
+                        "most_used_grapes": [
+                            {
+                                "id": 14,
+                                "name": "Pinot Noir",
+                                "seo_name": "pinot-noir",
+                                "has_detailed_info": true,
+                                "wines_count": 572334,
+                                "parent_grape_id": null
+                            },
+                            {
+                                "id": 17,
+                                "name": "Sauvignon Blanc",
+                                "seo_name": "sauvignon-blanc",
+                                "has_detailed_info": true,
+                                "wines_count": 292440,
+                                "parent_grape_id": null
+                            },
+                            {
+                                "id": 5,
+                                "name": "Chardonnay",
+                                "seo_name": "chardonnay",
+                                "has_detailed_info": true,
+                                "wines_count": 604208,
+                                "parent_grape_id": null
+                            }
+                        ]
+                    },
+                    "wine_type_id": 2,
+                    "food": [
+                        {
+                            "id": 13,
+                            "name": "Shellfish",
+                            "background_image": {
+                                "location": "//images.vivino.com/backgrounds/foods/13_shellfish.png",
+                                "variations": {
+                                    "small": "//images.vivino.com/backgrounds/foods/thumbs/13_shellfish_932x810.png"
+                                }
+                            },
+                            "seo_name": "shellfish"
+                        },
+                        {
+                            "id": 19,
+                            "name": "Vegetarian",
+                            "background_image": {
+                                "location": "//images.vivino.com/backgrounds/foods/19_vegetarian.png",
+                                "variations": {
+                                    "small": "//images.vivino.com/backgrounds/foods/thumbs/19_vegetarian_932x810.png"
+                                }
+                            },
+                            "seo_name": "vegetarian"
+                        },
+                        {
+                            "id": 39,
+                            "name": "Goat cheese",
+                            "background_image": {
+                                "location": "//images.vivino.com/backgrounds/foods/39_goatcheese.png",
+                                "variations": {
+                                    "small": "//images.vivino.com/backgrounds/foods/thumbs/39_goatcheese_932x810.png"
+                                }
+                            },
+                            "seo_name": null
+                        }
+                    ],
+                    "grapes": [
+                        {
+                            "id": 17,
+                            "name": "Sauvignon Blanc",
+                            "seo_name": "sauvignon-blanc",
+                            "has_detailed_info": true,
+                            "wines_count": 292440,
+                            "parent_grape_id": null
+                        }
+                    ],
+                    "region": null,
+                    "parent_style_id": 799,
+                    "hidden": false,
+                    "statistics": {
+                        "wines_count": 3201,
+                        "aggregated_wines_count": 3201
+                    },
+                    "vintage_mask": null,
+                    "baseline_structure": {
+                        "acidity": 4.5,
+                        "fizziness": null,
+                        "intensity": 2.5,
+                        "sweetness": 1,
+                        "tannin": null
+                    }
+                }
+            },
+            "vintage_year": 2018
+        },
+        {
+            "vintage_id": 159932900,
+            "highlight_type": "top_ranked",
+            "message": "Among top 1% of all wines in the world",
+            "icon": "https://images.vivino.com/highlights/icon/top_ranked.svg",
+            "metadata": {
+                "price": null,
+                "wine_id": 3052246,
+                "toplist": null,
+                "ws_award": null,
+                "critic_review_id": null,
+                "ratings_average": 4.3,
+                "ratings_count": 2600,
+                "vintage_year": "2019",
+                "rank_type": "global",
+                "ranks": {
+                    "country": {
+                        "description": "Rank within New Zealand",
+                        "total": 108937,
+                        "rank": 176
+                    },
+                    "region": {
+                        "description": "Rank within Wine Region",
+                        "total": 43941,
+                        "rank": 74
+                    },
+                    "winery": {
+                        "description": "Rank within Winery",
+                        "total": 40,
+                        "rank": 4
+                    },
+                    "global": {
+                        "description": "Global Rank",
+                        "total": 10448175,
+                        "rank": 47099
+                    }
+                },
+                "style": {
+                    "id": 202,
+                    "seo_name": "new-zealand-sauvignon-blanc",
+                    "regional_name": "New Zealand",
+                    "varietal_name": "Sauvignon Blanc",
+                    "name": "New Zealand Sauvignon Blanc",
+                    "image": null,
+                    "background_image": null,
+                    "description": "Sauvignon Blanc is the flagship varietal of New Zealand. Originating from the Bordeaux region of France, the grape now accounts for 62% of all the wine produced in New Zealand.\n\nThe New Zealand Sauvignon Blanc scene started popping in 1970s, with high quality Sauvignon Blancs coming out of the Marlborough region in particular. This illustrated the great potential for grape growing in New Zealand. \n\nSauvignon Blanc tends to be fermented in stainless steel vats, which results in a clean, crisp flavor. These wines tend to be very aromatic with notes of grapefruit, tropical fruit and cut grass.\n\nWhen it comes to pairing, think white meat, shellfish, and try to accentuate the herbaceous qualities of the wine with ingredients like parsley and cilantro.",
+                    "blurb": null,
+                    "interesting_facts": [
+                        "A commonly used descriptor for Sauvignon Blanc is 'cat pee'! ",
+                        "The name Sauvignon Blanc translates to 'wild white'."
+                    ],
+                    "body": 2,
+                    "body_description": "Light-bodied",
+                    "acidity": 3,
+                    "acidity_description": "High",
+                    "country": {
+                        "code": "nz",
+                        "name": "New Zealand",
+                        "native_name": "New Zealand",
+                        "seo_name": "new-zealand",
+                        "currency": {
+                            "code": "NZD",
+                            "name": "New Zealand Dollars",
+                            "prefix": "$",
+                            "suffix": null
+                        },
+                        "regions_count": 37,
+                        "users_count": 103631,
+                        "wines_count": 15943,
+                        "wineries_count": 3019,
+                        "most_used_grapes": [
+                            {
+                                "id": 14,
+                                "name": "Pinot Noir",
+                                "seo_name": "pinot-noir",
+                                "has_detailed_info": true,
+                                "wines_count": 572334,
+                                "parent_grape_id": null
+                            },
+                            {
+                                "id": 17,
+                                "name": "Sauvignon Blanc",
+                                "seo_name": "sauvignon-blanc",
+                                "has_detailed_info": true,
+                                "wines_count": 292440,
+                                "parent_grape_id": null
+                            },
+                            {
+                                "id": 5,
+                                "name": "Chardonnay",
+                                "seo_name": "chardonnay",
+                                "has_detailed_info": true,
+                                "wines_count": 604208,
+                                "parent_grape_id": null
+                            }
+                        ]
+                    },
+                    "wine_type_id": 2,
+                    "food": [
+                        {
+                            "id": 13,
+                            "name": "Shellfish",
+                            "background_image": {
+                                "location": "//images.vivino.com/backgrounds/foods/13_shellfish.png",
+                                "variations": {
+                                    "small": "//images.vivino.com/backgrounds/foods/thumbs/13_shellfish_932x810.png"
+                                }
+                            },
+                            "seo_name": "shellfish"
+                        },
+                        {
+                            "id": 19,
+                            "name": "Vegetarian",
+                            "background_image": {
+                                "location": "//images.vivino.com/backgrounds/foods/19_vegetarian.png",
+                                "variations": {
+                                    "small": "//images.vivino.com/backgrounds/foods/thumbs/19_vegetarian_932x810.png"
+                                }
+                            },
+                            "seo_name": "vegetarian"
+                        },
+                        {
+                            "id": 39,
+                            "name": "Goat cheese",
+                            "background_image": {
+                                "location": "//images.vivino.com/backgrounds/foods/39_goatcheese.png",
+                                "variations": {
+                                    "small": "//images.vivino.com/backgrounds/foods/thumbs/39_goatcheese_932x810.png"
+                                }
+                            },
+                            "seo_name": null
+                        }
+                    ],
+                    "grapes": [
+                        {
+                            "id": 17,
+                            "name": "Sauvignon Blanc",
+                            "seo_name": "sauvignon-blanc",
+                            "has_detailed_info": true,
+                            "wines_count": 292440,
+                            "parent_grape_id": null
+                        }
+                    ],
+                    "region": null,
+                    "parent_style_id": 799,
+                    "hidden": false,
+                    "statistics": {
+                        "wines_count": 3201,
+                        "aggregated_wines_count": 3201
+                    },
+                    "vintage_mask": null,
+                    "baseline_structure": {
+                        "acidity": 4.5,
+                        "fizziness": null,
+                        "intensity": 2.5,
+                        "sweetness": 1,
+                        "tannin": null
+                    }
+                }
+            },
+            "vintage_year": 2019
+        }
+    ],
+    "recommended_vintages": [
+        {
+            "vintage": {
+                "id": 170593976,
+                "seo_name": "paddle-creek-sauvignon-blanc-2022",
+                "name": "Paddle Creek Sauvignon Blanc 2022",
+                "statistics": {
+                    "status": "Normal",
+                    "ratings_count": 1160,
+                    "ratings_average": 4.4,
+                    "labels_count": 9257,
+                    "reviews_count": 308
+                },
+                "year": 2022,
+                "grapes": null,
+                "has_valid_ratings": true
+            },
+            "type": "top_listed",
+            "highlight_icon": "https://images.vivino.com/highlights/icon/top_listed.svg",
+            "price": null
+        },
+        {
+            "vintage": {
+                "id": 152546388,
+                "seo_name": "paddle-creek-sauvignon-blanc-2017",
+                "name": "Paddle Creek Sauvignon Blanc 2017",
+                "statistics": {
+                    "status": "Normal",
+                    "ratings_count": 2196,
+                    "ratings_average": 4.3,
+                    "labels_count": 8243,
+                    "reviews_count": 724
+                },
+                "year": 2017,
+                "grapes": null,
+                "has_valid_ratings": true
+            },
+            "type": "wsa_winning",
+            "highlight_icon": "https://images.vivino.com/highlights/icon/wsa_winning.svg",
+            "price": null
+        },
+        {
+            "vintage": {
+                "id": 167104253,
+                "seo_name": "paddle-creek-sauvignon-blanc-2021",
+                "name": "Paddle Creek Sauvignon Blanc 2021",
+                "statistics": {
+                    "status": "Normal",
+                    "ratings_count": 845,
+                    "ratings_average": 4.3,
+                    "labels_count": 5813,
+                    "reviews_count": 270
+                },
+                "year": 2021,
+                "grapes": null,
+                "has_valid_ratings": true
+            },
+            "type": "best_user_rated",
+            "highlight_icon": "https://images.vivino.com/highlights/icon/best_user_rated.svg",
+            "price": null
+        },
+        {
+            "vintage": {
+                "id": 156754121,
+                "seo_name": "paddle-creek-sauvignon-blanc-2018",
+                "name": "Paddle Creek Sauvignon Blanc 2018",
+                "statistics": {
+                    "status": "Normal",
+                    "ratings_count": 3124,
+                    "ratings_average": 4.3,
+                    "labels_count": 14186,
+                    "reviews_count": 1076
+                },
+                "year": 2018,
+                "grapes": null,
+                "has_valid_ratings": true
+            },
+            "type": "most_user_rated",
+            "highlight_icon": "https://images.vivino.com/highlights/icon/most_user_rated.svg",
+            "price": null
+        },
+        {
+            "vintage": {
+                "id": 159932900,
+                "seo_name": "paddle-creek-sauvignon-blanc-2019",
+                "name": "Paddle Creek Sauvignon Blanc 2019",
+                "statistics": {
+                    "status": "Normal",
+                    "ratings_count": 2600,
+                    "ratings_average": 4.3,
+                    "labels_count": 13628,
+                    "reviews_count": 936
+                },
+                "year": 2019,
+                "grapes": null,
+                "has_valid_ratings": true
+            },
+            "type": "top_ranked",
+            "highlight_icon": "https://images.vivino.com/highlights/icon/top_ranked.svg",
+            "price": null
+        }
+    ],
+    "prices_and_availabilities": [],
+    "price_range": {
+        "currency": {
+            "code": "RUB",
+            "name": "Russian Rouble",
+            "prefix": null,
+            "suffix": "₽"
+        },
+        "price_range": {
+            "minimum": 0,
+            "maximum": 12500,
+            "currency_code": "RUB"
+        },
+        "defaults": {
+            "minimum": 250,
+            "maximum": 1000,
+            "currency_code": "RUB"
+        }
+    },
+    "subtotal_price": null
+}

@@ -1,0 +1,4173 @@
+{
+    "vintagePageInformation": {
+        "carts": null,
+        "found_by_merchant_and_sku": null,
+        "full_region": null,
+        "highlights": [],
+        "is_deal_page": false,
+        "merchant": {
+            "country": {
+                "code": "us",
+                "currency": {
+                    "code": "USD",
+                    "name": "US Dollars",
+                    "prefix": "$",
+                    "suffix": null
+                },
+                "most_used_grapes": [
+                    {
+                        "has_detailed_info": true,
+                        "id": 2,
+                        "name": "Cabernet Sauvignon",
+                        "parent_grape_id": null,
+                        "seo_name": "cabernet-sauvignon",
+                        "wines_count": 801751
+                    },
+                    {
+                        "has_detailed_info": true,
+                        "id": 14,
+                        "name": "Pinot Noir",
+                        "parent_grape_id": null,
+                        "seo_name": "pinot-noir",
+                        "wines_count": 572334
+                    },
+                    {
+                        "has_detailed_info": true,
+                        "id": 5,
+                        "name": "Chardonnay",
+                        "parent_grape_id": null,
+                        "seo_name": "chardonnay",
+                        "wines_count": 604208
+                    }
+                ],
+                "name": "United States",
+                "native_name": "United States",
+                "regions_count": 364,
+                "seo_name": "united-states",
+                "users_count": 12517400,
+                "wineries_count": 28252,
+                "wines_count": 206882
+            },
+            "description": "Standard shipping",
+            "hidden": false,
+            "id": 20549,
+            "image": {
+                "location": "//images.vivino.com/merchants/originals/p1ce54iv0000k25.jpg",
+                "variations": {
+                    "large_square": "//images.vivino.com/merchants/thumbs/p1ce54iv0000k25_400x400.jpg",
+                    "medium_square": "//images.vivino.com/merchants/thumbs/p1ce54iv0000k25_320x320.jpg",
+                    "small_square": "//images.vivino.com/merchants/thumbs/p1ce54iv0000k25_160x160.jpg"
+                }
+            },
+            "impressum_url": null,
+            "legal_name": null,
+            "name": "Cost Plus Dollar Wine and Liquor",
+            "seo_name": "cost-plus-dollar-wine-and-liquor",
+            "shipping_estimate": "Estimated between Thu, Nov 02 and Mon, Nov 06",
+            "shipping_options": {
+                "gift_message": false,
+                "ice_packs": {
+                    "prices": [],
+                    "support": 0
+                },
+                "instructions": {
+                    "options": [],
+                    "support": 0
+                },
+                "preferred_delivery_date_options": {
+                    "cut_off_time": "",
+                    "lead_time": 0,
+                    "support": 0,
+                    "window": 0
+                }
+            },
+            "state": "FL",
+            "status": 3,
+            "tos_url": null,
+            "vc_clearing_system": 0
+        },
+        "price": {
+            "amount": 448.32,
+            "bottle_type": {
+                "id": 1,
+                "name": "Bottle (0.75l)",
+                "short_name": "bottle",
+                "short_name_plural": "bottles",
+                "volume_ml": 750
+            },
+            "bottle_type_id": 1,
+            "currency": {
+                "code": "USD",
+                "name": "US Dollars",
+                "prefix": "$",
+                "suffix": null
+            },
+            "discounted_from": null,
+            "id": 31552311,
+            "importer_address": "",
+            "inventory_bottles_count": 180,
+            "message": "Price per bottle, 6 bottle case. (Single bottle price $599.99)",
+            "producer_address": "",
+            "type": "vc",
+            "url": "https://vivino.clermontwinex.com/product.php?id=122&utm_medium=pref-cpc&utm_source=vivino-ppc",
+            "vintage_id": 14188383
+        },
+        "price_range": {
+            "currency": {
+                "code": "USD",
+                "name": "US Dollars",
+                "prefix": "$",
+                "suffix": null
+            },
+            "defaults": {
+                "currency_code": "USD",
+                "maximum": 50,
+                "minimum": 10
+            },
+            "price_range": {
+                "currency_code": "USD",
+                "maximum": 10000,
+                "minimum": 0
+            }
+        },
+        "prices_and_availability": {
+            "availability": {
+                "median": {
+                    "amount": 448.66,
+                    "discounted_from": null,
+                    "type": "market"
+                },
+                "price": {
+                    "amount": 448.32333,
+                    "discounted_from": 0,
+                    "id": 31552311,
+                    "type": "vc"
+                },
+                "vintage": {
+                    "grapes": null,
+                    "has_valid_ratings": false,
+                    "id": 14188383,
+                    "year": 2015
+                }
+            },
+            "market": {
+                "country": "us",
+                "currency": {
+                    "code": "USD",
+                    "name": "US Dollars",
+                    "prefix": "$",
+                    "suffix": null
+                },
+                "state": "CA"
+            },
+            "merchants_with_prices": [
+                {
+                    "merchant": {
+                        "country": {
+                            "code": "us",
+                            "currency": {
+                                "code": "USD",
+                                "name": "US Dollars",
+                                "prefix": "$",
+                                "suffix": null
+                            },
+                            "most_used_grapes": [
+                                {
+                                    "has_detailed_info": true,
+                                    "id": 2,
+                                    "name": "Cabernet Sauvignon",
+                                    "parent_grape_id": null,
+                                    "seo_name": "cabernet-sauvignon",
+                                    "wines_count": 801751
+                                },
+                                {
+                                    "has_detailed_info": true,
+                                    "id": 14,
+                                    "name": "Pinot Noir",
+                                    "parent_grape_id": null,
+                                    "seo_name": "pinot-noir",
+                                    "wines_count": 572334
+                                },
+                                {
+                                    "has_detailed_info": true,
+                                    "id": 5,
+                                    "name": "Chardonnay",
+                                    "parent_grape_id": null,
+                                    "seo_name": "chardonnay",
+                                    "wines_count": 604208
+                                }
+                            ],
+                            "name": "United States",
+                            "native_name": "United States",
+                            "regions_count": 364,
+                            "seo_name": "united-states",
+                            "users_count": 12517400,
+                            "wineries_count": 28252,
+                            "wines_count": 206882
+                        },
+                        "description": "Standard shipping",
+                        "hidden": false,
+                        "id": 20549,
+                        "image": {
+                            "location": "//images.vivino.com/merchants/originals/p1ce54iv0000k25.jpg",
+                            "variations": {
+                                "large_square": "//images.vivino.com/merchants/thumbs/p1ce54iv0000k25_400x400.jpg",
+                                "medium_square": "//images.vivino.com/merchants/thumbs/p1ce54iv0000k25_320x320.jpg",
+                                "small_square": "//images.vivino.com/merchants/thumbs/p1ce54iv0000k25_160x160.jpg"
+                            }
+                        },
+                        "impressum_url": null,
+                        "legal_name": null,
+                        "name": "Cost Plus Dollar Wine and Liquor",
+                        "seo_name": "cost-plus-dollar-wine-and-liquor",
+                        "shipping_estimate": "Estimated between Thu, Nov 02 and Mon, Nov 06",
+                        "shipping_options": {
+                            "gift_message": false,
+                            "ice_packs": {
+                                "prices": [],
+                                "support": 0
+                            },
+                            "instructions": {
+                                "options": [],
+                                "support": 0
+                            },
+                            "preferred_delivery_date_options": {
+                                "cut_off_time": "",
+                                "lead_time": 0,
+                                "support": 0,
+                                "window": 0
+                            }
+                        },
+                        "state": "FL",
+                        "status": 3,
+                        "tos_url": null,
+                        "vc_clearing_system": 0
+                    },
+                    "prices": [
+                        {
+                            "amount": 448.32,
+                            "bottle_type": {
+                                "id": 1,
+                                "name": "Bottle (0.75l)",
+                                "short_name": "bottle",
+                                "short_name_plural": "bottles",
+                                "volume_ml": 750
+                            },
+                            "bottle_type_id": 1,
+                            "currency": {
+                                "code": "USD",
+                                "name": "US Dollars",
+                                "prefix": "$",
+                                "suffix": null
+                            },
+                            "discounted_from": null,
+                            "id": 31552311,
+                            "importer_address": "",
+                            "inventory_bottles_count": 180,
+                            "message": "Price per bottle, 6 bottle case. (Single bottle price $599.99)",
+                            "producer_address": "",
+                            "type": "vc",
+                            "url": "https://vivino.clermontwinex.com/product.php?id=122&utm_medium=pref-cpc&utm_source=vivino-ppc",
+                            "vintage_id": 14188383
+                        }
+                    ]
+                },
+                {
+                    "merchant": {
+                        "country": {
+                            "code": "us",
+                            "currency": {
+                                "code": "USD",
+                                "name": "US Dollars",
+                                "prefix": "$",
+                                "suffix": null
+                            },
+                            "most_used_grapes": [
+                                {
+                                    "has_detailed_info": true,
+                                    "id": 2,
+                                    "name": "Cabernet Sauvignon",
+                                    "parent_grape_id": null,
+                                    "seo_name": "cabernet-sauvignon",
+                                    "wines_count": 801751
+                                },
+                                {
+                                    "has_detailed_info": true,
+                                    "id": 14,
+                                    "name": "Pinot Noir",
+                                    "parent_grape_id": null,
+                                    "seo_name": "pinot-noir",
+                                    "wines_count": 572334
+                                },
+                                {
+                                    "has_detailed_info": true,
+                                    "id": 5,
+                                    "name": "Chardonnay",
+                                    "parent_grape_id": null,
+                                    "seo_name": "chardonnay",
+                                    "wines_count": 604208
+                                }
+                            ],
+                            "name": "United States",
+                            "native_name": "United States",
+                            "regions_count": 364,
+                            "seo_name": "united-states",
+                            "users_count": 12517400,
+                            "wineries_count": 28252,
+                            "wines_count": 206882
+                        },
+                        "description": "Standard shipping",
+                        "hidden": false,
+                        "id": 26035,
+                        "image": {
+                            "location": "//images.vivino.com/merchants/originals/p1d19arh0000pdj.png",
+                            "variations": {
+                                "large_square": "//images.vivino.com/merchants/thumbs/p1d19arh0000pdj_400x400.jpg",
+                                "medium_square": "//images.vivino.com/merchants/thumbs/p1d19arh0000pdj_320x320.jpg",
+                                "small_square": "//images.vivino.com/merchants/thumbs/p1d19arh0000pdj_160x160.jpg"
+                            }
+                        },
+                        "impressum_url": null,
+                        "legal_name": null,
+                        "name": "Yianniswinery.com",
+                        "seo_name": "yiannis-wine-shop",
+                        "shipping_estimate": "Estimated between Fri, Nov 03 and Wed, Nov 08",
+                        "shipping_options": {
+                            "gift_message": false,
+                            "ice_packs": {
+                                "currency_code": "USD",
+                                "prices": [
+                                    {
+                                        "amount": 5,
+                                        "bottles_ceiling": 6,
+                                        "sku": "ICEPK1"
+                                    },
+                                    {
+                                        "amount": 10,
+                                        "bottles_ceiling": 12,
+                                        "sku": "ICEPK2"
+                                    },
+                                    {
+                                        "amount": 15,
+                                        "bottles_ceiling": 18,
+                                        "sku": "ICEPK3"
+                                    },
+                                    {
+                                        "amount": 20,
+                                        "bottles_ceiling": 24,
+                                        "sku": "ICEPK4"
+                                    },
+                                    {
+                                        "amount": 25,
+                                        "bottles_ceiling": 30,
+                                        "sku": "ICEPK5"
+                                    },
+                                    {
+                                        "amount": 30,
+                                        "bottles_ceiling": 36,
+                                        "sku": "ICEPK6"
+                                    },
+                                    {
+                                        "amount": 1,
+                                        "bottles_ceiling": 0,
+                                        "sku": "ICEPK7"
+                                    }
+                                ],
+                                "support": 2
+                            },
+                            "instructions": {
+                                "options": [],
+                                "support": 0
+                            },
+                            "preferred_delivery_date_options": {
+                                "cut_off_time": "",
+                                "lead_time": 0,
+                                "support": 0,
+                                "window": 0
+                            }
+                        },
+                        "state": "VA",
+                        "status": 3,
+                        "tos_url": null,
+                        "vc_clearing_system": 0
+                    },
+                    "prices": [
+                        {
+                            "amount": 448.99,
+                            "bottle_type": {
+                                "id": 1,
+                                "name": "Bottle (0.75l)",
+                                "short_name": "bottle",
+                                "short_name_plural": "bottles",
+                                "volume_ml": 750
+                            },
+                            "bottle_type_id": 1,
+                            "bottles_sold_count": 1,
+                            "currency": {
+                                "code": "USD",
+                                "name": "US Dollars",
+                                "prefix": "$",
+                                "suffix": null
+                            },
+                            "discounted_from": null,
+                            "id": 33066791,
+                            "importer_address": "",
+                            "inventory_bottles_count": 2,
+                            "message": "",
+                            "producer_address": "",
+                            "type": "vc",
+                            "url": "https://yiannis-wine.myshopify.com/products/cartuxa-pera-manca-tinto-2015-750ml?utm_medium=pref-cpc&utm_source=vivino-ppc",
+                            "vintage_id": 14188383
+                        }
+                    ]
+                },
+                {
+                    "merchant": {
+                        "country": {
+                            "code": "us",
+                            "currency": {
+                                "code": "USD",
+                                "name": "US Dollars",
+                                "prefix": "$",
+                                "suffix": null
+                            },
+                            "most_used_grapes": [
+                                {
+                                    "has_detailed_info": true,
+                                    "id": 2,
+                                    "name": "Cabernet Sauvignon",
+                                    "parent_grape_id": null,
+                                    "seo_name": "cabernet-sauvignon",
+                                    "wines_count": 801751
+                                },
+                                {
+                                    "has_detailed_info": true,
+                                    "id": 14,
+                                    "name": "Pinot Noir",
+                                    "parent_grape_id": null,
+                                    "seo_name": "pinot-noir",
+                                    "wines_count": 572334
+                                },
+                                {
+                                    "has_detailed_info": true,
+                                    "id": 5,
+                                    "name": "Chardonnay",
+                                    "parent_grape_id": null,
+                                    "seo_name": "chardonnay",
+                                    "wines_count": 604208
+                                }
+                            ],
+                            "name": "United States",
+                            "native_name": "United States",
+                            "regions_count": 364,
+                            "seo_name": "united-states",
+                            "users_count": 12517400,
+                            "wineries_count": 28252,
+                            "wines_count": 206882
+                        },
+                        "description": "Mobile-friendly checkout. No minimum order.",
+                        "hidden": false,
+                        "id": 1114,
+                        "image": {
+                            "location": "//images.vivino.com/merchants/originals/p1aq868v000012q.png",
+                            "variations": {
+                                "large_square": "//images.vivino.com/merchants/thumbs/p1aq868v000012q_400x400.jpg",
+                                "medium_square": "//images.vivino.com/merchants/thumbs/p1aq868v000012q_320x320.jpg",
+                                "small_square": "//images.vivino.com/merchants/thumbs/p1aq868v000012q_160x160.jpg"
+                            }
+                        },
+                        "impressum_url": null,
+                        "legal_name": null,
+                        "name": "WINELIBRARY",
+                        "seo_name": "winelibrary",
+                        "shipping_estimate": "Delivery by Mon, Nov 06",
+                        "state": "NJ",
+                        "status": 2,
+                        "tos_url": null,
+                        "vc_clearing_system": 0
+                    },
+                    "prices": [
+                        {
+                            "amount": 347,
+                            "bottle_type": {
+                                "id": 1,
+                                "name": "Bottle (0.75l)",
+                                "short_name": "bottle",
+                                "short_name_plural": "bottles",
+                                "volume_ml": 750
+                            },
+                            "bottle_type_id": 1,
+                            "currency": {
+                                "code": "USD",
+                                "name": "US Dollars",
+                                "prefix": "$",
+                                "suffix": null
+                            },
+                            "discounted_from": null,
+                            "id": 31680223,
+                            "importer_address": "",
+                            "inventory_bottles_count": null,
+                            "message": "",
+                            "producer_address": "",
+                            "type": "ppc",
+                            "url": "https://winelibrary.com/wines/aragonez/2015-cartuxa-pera-manca-red-126334?utm_medium=pref-cpc&utm_source=vivino-ppc",
+                            "vintage_id": 14188383
+                        }
+                    ]
+                },
+                {
+                    "merchant": {
+                        "country": {
+                            "code": "us",
+                            "currency": {
+                                "code": "USD",
+                                "name": "US Dollars",
+                                "prefix": "$",
+                                "suffix": null
+                            },
+                            "most_used_grapes": [
+                                {
+                                    "has_detailed_info": true,
+                                    "id": 2,
+                                    "name": "Cabernet Sauvignon",
+                                    "parent_grape_id": null,
+                                    "seo_name": "cabernet-sauvignon",
+                                    "wines_count": 801751
+                                },
+                                {
+                                    "has_detailed_info": true,
+                                    "id": 14,
+                                    "name": "Pinot Noir",
+                                    "parent_grape_id": null,
+                                    "seo_name": "pinot-noir",
+                                    "wines_count": 572334
+                                },
+                                {
+                                    "has_detailed_info": true,
+                                    "id": 5,
+                                    "name": "Chardonnay",
+                                    "parent_grape_id": null,
+                                    "seo_name": "chardonnay",
+                                    "wines_count": 604208
+                                }
+                            ],
+                            "name": "United States",
+                            "native_name": "United States",
+                            "regions_count": 364,
+                            "seo_name": "united-states",
+                            "users_count": 12517400,
+                            "wineries_count": 28252,
+                            "wines_count": 206882
+                        },
+                        "description": "No minimum order.",
+                        "hidden": false,
+                        "id": 5911,
+                        "image": null,
+                        "impressum_url": null,
+                        "legal_name": null,
+                        "name": "Mister Wright Fine Wines & Spirits",
+                        "seo_name": "mister-wright-fine-wines-spirits",
+                        "shipping_estimate": "Delivery by Mon, Nov 06",
+                        "state": "NY",
+                        "status": 0,
+                        "tos_url": null,
+                        "vc_clearing_system": 0
+                    },
+                    "prices": [
+                        {
+                            "amount": 299.99,
+                            "bottle_type": {
+                                "id": 1,
+                                "name": "Bottle (0.75l)",
+                                "short_name": "bottle",
+                                "short_name_plural": "bottles",
+                                "volume_ml": 750
+                            },
+                            "bottle_type_id": 1,
+                            "currency": {
+                                "code": "USD",
+                                "name": "US Dollars",
+                                "prefix": "$",
+                                "suffix": null
+                            },
+                            "discounted_from": null,
+                            "id": 26621169,
+                            "importer_address": "",
+                            "inventory_bottles_count": 17,
+                            "message": "",
+                            "producer_address": "",
+                            "type": "ppc",
+                            "url": "https://www.misterwrightfinewines.com/wines/Pera-Manca-Pera-Manca-Vinho-Tinto-2015-w5383040qh?utm_medium=pref-cpc&utm_source=vivino-ppc",
+                            "vintage_id": 14188383
+                        }
+                    ]
+                },
+                {
+                    "merchant": {
+                        "country": {
+                            "code": "us",
+                            "currency": {
+                                "code": "USD",
+                                "name": "US Dollars",
+                                "prefix": "$",
+                                "suffix": null
+                            },
+                            "most_used_grapes": [
+                                {
+                                    "has_detailed_info": true,
+                                    "id": 2,
+                                    "name": "Cabernet Sauvignon",
+                                    "parent_grape_id": null,
+                                    "seo_name": "cabernet-sauvignon",
+                                    "wines_count": 801751
+                                },
+                                {
+                                    "has_detailed_info": true,
+                                    "id": 14,
+                                    "name": "Pinot Noir",
+                                    "parent_grape_id": null,
+                                    "seo_name": "pinot-noir",
+                                    "wines_count": 572334
+                                },
+                                {
+                                    "has_detailed_info": true,
+                                    "id": 5,
+                                    "name": "Chardonnay",
+                                    "parent_grape_id": null,
+                                    "seo_name": "chardonnay",
+                                    "wines_count": 604208
+                                }
+                            ],
+                            "name": "United States",
+                            "native_name": "United States",
+                            "regions_count": 364,
+                            "seo_name": "united-states",
+                            "users_count": 12517400,
+                            "wineries_count": 28252,
+                            "wines_count": 206882
+                        },
+                        "description": "Mobile-friendly checkout. Minimum order of 1 case.",
+                        "hidden": false,
+                        "id": 4102,
+                        "image": null,
+                        "impressum_url": null,
+                        "legal_name": null,
+                        "name": "Westgarth Wines",
+                        "seo_name": "westgarth-wines",
+                        "shipping_estimate": "Delivery by Wed, Nov 01",
+                        "state": "CA",
+                        "status": 0,
+                        "tos_url": null,
+                        "vc_clearing_system": 0
+                    },
+                    "prices": [
+                        {
+                            "amount": 506.67,
+                            "bottle_type": {
+                                "id": 1,
+                                "name": "Bottle (0.75l)",
+                                "short_name": "bottle",
+                                "short_name_plural": "bottles",
+                                "volume_ml": 750
+                            },
+                            "bottle_type_id": 1,
+                            "currency": {
+                                "code": "USD",
+                                "name": "US Dollars",
+                                "prefix": "$",
+                                "suffix": null
+                            },
+                            "discounted_from": null,
+                            "id": 33862276,
+                            "importer_address": "",
+                            "inventory_bottles_count": null,
+                            "message": "Price per bottle, 3 bottle case",
+                            "producer_address": "",
+                            "type": "ppc",
+                            "url": "https://westgarthwines.com/products/portugal-alentejo-na-cartuxa-pera-manca-tinto?utm_medium=pref-cpc&utm_source=vivino-ppc&variant=43532576325799",
+                            "vintage_id": 14188383
+                        }
+                    ]
+                }
+            ]
+        },
+        "sold_out": false,
+        "subtotal_price": null,
+        "tastes": null,
+        "vintage": {
+            "awards": [],
+            "certified_biodynamic": null,
+            "description": "",
+            "grape_composition": [],
+            "grapes": null,
+            "has_valid_ratings": true,
+            "id": 8311529,
+            "image": {
+                "location": "//images.vivino.com/thumbs/L33jsYUuTMWTMy3KoqQyXg_pl_480x640.png",
+                "variations": {
+                    "bottle_large": "//images.vivino.com/thumbs/L33jsYUuTMWTMy3KoqQyXg_pb_x960.png",
+                    "bottle_medium": "//images.vivino.com/thumbs/L33jsYUuTMWTMy3KoqQyXg_pb_x600.png",
+                    "bottle_medium_square": "//images.vivino.com/thumbs/L33jsYUuTMWTMy3KoqQyXg_pb_600x600.png",
+                    "bottle_small": "//images.vivino.com/thumbs/L33jsYUuTMWTMy3KoqQyXg_pb_x300.png",
+                    "bottle_small_square": "//images.vivino.com/thumbs/L33jsYUuTMWTMy3KoqQyXg_pb_300x300.png",
+                    "label": "//images.vivino.com/thumbs/L33jsYUuTMWTMy3KoqQyXg_pl_480x640.png",
+                    "label_large": "//images.vivino.com/thumbs/L33jsYUuTMWTMy3KoqQyXg_pl_375x500.png",
+                    "label_medium": "//images.vivino.com/thumbs/L33jsYUuTMWTMy3KoqQyXg_pl_150x200.png",
+                    "label_medium_square": "//images.vivino.com/thumbs/L33jsYUuTMWTMy3KoqQyXg_pl_150x150.png",
+                    "label_small_square": "//images.vivino.com/thumbs/L33jsYUuTMWTMy3KoqQyXg_pl_80x80.png",
+                    "large": "//images.vivino.com/thumbs/L33jsYUuTMWTMy3KoqQyXg_pl_375x500.png",
+                    "medium": "//images.vivino.com/thumbs/L33jsYUuTMWTMy3KoqQyXg_pl_150x200.png",
+                    "medium_square": "//images.vivino.com/thumbs/L33jsYUuTMWTMy3KoqQyXg_pl_150x150.png",
+                    "small_square": "//images.vivino.com/thumbs/L33jsYUuTMWTMy3KoqQyXg_pl_80x80.png"
+                }
+            },
+            "name": "Cartuxa Pêra-Manca Tinto 2005",
+            "organic_certification_id": null,
+            "ranking": {
+                "country": {
+                    "description": "Rank within Portugal",
+                    "rank": 64,
+                    "total": 312347
+                },
+                "global": {
+                    "description": "Global Rank",
+                    "rank": 694,
+                    "total": 10415979
+                },
+                "region": {
+                    "description": "Rank within Wine Region",
+                    "rank": 14,
+                    "total": 2268
+                },
+                "winery": {
+                    "description": "Rank within Winery",
+                    "rank": 14,
+                    "total": 792
+                }
+            },
+            "ratings_distribution": {
+                "1": 9,
+                "2": 6,
+                "3": 35,
+                "4": 356,
+                "5": 929
+            },
+            "seo_name": "cartuxa-pera-manca-tinto-2005",
+            "statistics": {
+                "labels_count": 6456,
+                "ratings_average": 4.7,
+                "ratings_count": 1335,
+                "reviews_count": 421,
+                "status": "Normal"
+            },
+            "top_list_rankings": [
+                {
+                    "description": null,
+                    "previous_rank": 1,
+                    "rank": 1,
+                    "top_list": {
+                        "author": null,
+                        "country": null,
+                        "description": null,
+                        "icon": null,
+                        "id": 20172,
+                        "image": {
+                            "location": "//images.vivino.com/top_lists/WSA-2017-portuguese-alentejo-red.png",
+                            "variations": {
+                                "medium": "//images.vivino.com/top_lists/WSA-2017-portuguese-alentejo-red_468x276.png"
+                            }
+                        },
+                        "intro_header": null,
+                        "level": 0,
+                        "name": "Vivino's 2017 Wine Style Awards: Portuguese Alentejo Red",
+                        "seo_name": "wine_style_awards_2017_portuguese-alentejo-red",
+                        "short_description": null,
+                        "state": null,
+                        "updated_at": "2016-11-29T14:44:59.000Z"
+                    }
+                },
+                {
+                    "description": null,
+                    "previous_rank": 1,
+                    "rank": 1,
+                    "top_list": {
+                        "author": null,
+                        "country": null,
+                        "description": "The Alentego region in southern Portugal is the country's largest wine region. The hot, dry, rolling plains here are best known for their cork oak forests, from which come more than 90% of the world's corks. But the region also produces delicious plummy, spicy, peppery reds especially from Perequita, Trincadeira Preta, and Aragonez (aka Tempranillo) grapes.",
+                        "icon": null,
+                        "id": 20192,
+                        "image": {
+                            "location": "//images.vivino.com/top_lists/WSA-2018-portuguese-alentejo-red.jpg",
+                            "variations": {
+                                "medium": "//images.vivino.com/top_lists/WSA-2018-portuguese-alentejo-red_468x276.jpg"
+                            }
+                        },
+                        "intro_header": null,
+                        "level": 0,
+                        "name": "Vivino's 2019 Wine Style Awards: Portuguese Alentejo Red",
+                        "seo_name": "wine_style_awards_2019_portuguese_alentejo_red",
+                        "short_description": null,
+                        "state": null,
+                        "updated_at": "2019-02-11T11:17:07.000Z"
+                    }
+                }
+            ],
+            "wine": {
+                "alcohol": 14.5,
+                "closure": null,
+                "created_at": "2014-07-12T01:14:21Z",
+                "description": "A ripe and dense red, with powerful flavours of roasted plum, dark currant, cherry tart, and bittersweet chocolate. On the palate rich smoky notes, showing hints of dried beef and spice.",
+                "foods": [
+                    {
+                        "background_image": {
+                            "location": "//images.vivino.com/backgrounds/foods/4_beef.png",
+                            "variations": {
+                                "small": "//images.vivino.com/backgrounds/foods/thumbs/4_beef_932x810.png"
+                            }
+                        },
+                        "id": 4,
+                        "name": "Beef",
+                        "seo_name": "beef"
+                    },
+                    {
+                        "background_image": {
+                            "location": "//images.vivino.com/backgrounds/foods/8_lamb.png",
+                            "variations": {
+                                "small": "//images.vivino.com/backgrounds/foods/thumbs/8_lamb_932x810.png"
+                            }
+                        },
+                        "id": 8,
+                        "name": "Lamb",
+                        "seo_name": "lamb"
+                    },
+                    {
+                        "background_image": {
+                            "location": "//images.vivino.com/backgrounds/foods/9_veal.png",
+                            "variations": {
+                                "small": "//images.vivino.com/backgrounds/foods/thumbs/9_veal_932x810.png"
+                            }
+                        },
+                        "id": 9,
+                        "name": "Veal",
+                        "seo_name": "veal"
+                    },
+                    {
+                        "background_image": {
+                            "location": "//images.vivino.com/backgrounds/foods/20_chicken.png",
+                            "variations": {
+                                "small": "//images.vivino.com/backgrounds/foods/thumbs/20_chicken_932x810.png"
+                            }
+                        },
+                        "id": 20,
+                        "name": "Poultry",
+                        "seo_name": "poultry"
+                    }
+                ],
+                "grapes": [
+                    {
+                        "has_detailed_info": true,
+                        "id": 19,
+                        "name": "Tempranillo",
+                        "parent_grape_id": null,
+                        "seo_name": "tempranillo",
+                        "wines_count": 172842
+                    }
+                ],
+                "has_valid_ratings": true,
+                "hidden": false,
+                "id": 2545450,
+                "is_first_wine": false,
+                "is_natural": false,
+                "name": "Pêra-Manca Tinto",
+                "non_vintage": false,
+                "rank": {
+                    "country": {
+                        "description": "Rank within Portugal",
+                        "rank": 11,
+                        "total": 34983
+                    },
+                    "global": {
+                        "description": "Global Rank",
+                        "rank": 111,
+                        "total": 1436860
+                    },
+                    "region": {
+                        "description": "Rank within Wine Region",
+                        "rank": 1,
+                        "total": 182
+                    },
+                    "wine_type": {
+                        "description": "Rank within all Red Wine",
+                        "rank": 92,
+                        "total": 709075
+                    },
+                    "winery": {
+                        "description": "Rank within Winery",
+                        "rank": 1,
+                        "total": 38
+                    }
+                },
+                "region": {
+                    "background_image": {
+                        "location": "//images.vivino.com/regions/backgrounds/6lQwIz9QQMGDZIkwF6qV0g.jpg",
+                        "variations": {
+                            "large": "//thumbs.vivino.com/region_backgrounds/6lQwIz9QQMGDZIkwF6qV0g_1280x760.jpg",
+                            "medium": "//thumbs.vivino.com/region_backgrounds/6lQwIz9QQMGDZIkwF6qV0g_600x356.jpg"
+                        }
+                    },
+                    "class": {
+                        "typecast_map": {
+                            "background_image": [],
+                            "class": []
+                        }
+                    },
+                    "country": {
+                        "code": "pt",
+                        "currency": {
+                            "code": "EUR",
+                            "name": "Euros",
+                            "prefix": "€",
+                            "suffix": null
+                        },
+                        "most_used_grapes": [
+                            {
+                                "has_detailed_info": true,
+                                "id": 67,
+                                "name": "Touriga Nacional",
+                                "parent_grape_id": null,
+                                "seo_name": "touriga-nacional",
+                                "wines_count": 85787
+                            },
+                            {
+                                "has_detailed_info": false,
+                                "id": 69,
+                                "name": "Tinta Roriz",
+                                "parent_grape_id": 19,
+                                "seo_name": "tinta-roriz",
+                                "wines_count": 41047
+                            },
+                            {
+                                "has_detailed_info": false,
+                                "id": 68,
+                                "name": "Touriga Franca",
+                                "parent_grape_id": null,
+                                "seo_name": "touriga-franca",
+                                "wines_count": 33763
+                            }
+                        ],
+                        "name": "Portugal",
+                        "native_name": "Portugal",
+                        "regions_count": 93,
+                        "seo_name": "portugal",
+                        "users_count": 1152523,
+                        "wineries_count": 5878,
+                        "wines_count": 40712
+                    },
+                    "id": 1395,
+                    "name": "Alentejo",
+                    "name_en": "",
+                    "parent_id": 1394,
+                    "seo_name": "alentejo",
+                    "statistics": {
+                        "parent_regions_count": 1,
+                        "sub_regions_count": 0,
+                        "wineries_count": 259,
+                        "wines_count": 2371
+                    }
+                },
+                "review_status": 2,
+                "seo_name": "pera-manca-tinto",
+                "statistics": {
+                    "labels_count": 153681,
+                    "ratings_average": 4.7,
+                    "ratings_count": 26115,
+                    "status": "Normal",
+                    "vintages_count": 188
+                },
+                "style": {
+                    "acidity": 3,
+                    "acidity_description": "High",
+                    "background_image": null,
+                    "baseline_structure": {
+                        "acidity": 3,
+                        "fizziness": null,
+                        "intensity": 4.5,
+                        "sweetness": 1,
+                        "tannin": 3
+                    },
+                    "blurb": "Red wine from Southern Portugal",
+                    "body": 4,
+                    "body_description": "Full-bodied",
+                    "country": {
+                        "code": "pt",
+                        "currency": {
+                            "code": "EUR",
+                            "name": "Euros",
+                            "prefix": "€",
+                            "suffix": null
+                        },
+                        "most_used_grapes": [
+                            {
+                                "has_detailed_info": true,
+                                "id": 67,
+                                "name": "Touriga Nacional",
+                                "parent_grape_id": null,
+                                "seo_name": "touriga-nacional",
+                                "wines_count": 85787
+                            },
+                            {
+                                "has_detailed_info": false,
+                                "id": 69,
+                                "name": "Tinta Roriz",
+                                "parent_grape_id": 19,
+                                "seo_name": "tinta-roriz",
+                                "wines_count": 41047
+                            },
+                            {
+                                "has_detailed_info": false,
+                                "id": 68,
+                                "name": "Touriga Franca",
+                                "parent_grape_id": null,
+                                "seo_name": "touriga-franca",
+                                "wines_count": 33763
+                            }
+                        ],
+                        "name": "Portugal",
+                        "native_name": "Portugal",
+                        "regions_count": 93,
+                        "seo_name": "portugal",
+                        "users_count": 1152523,
+                        "wineries_count": 5878,
+                        "wines_count": 40712
+                    },
+                    "description": "The Alentejo region covers approximately a third of Portugal, producing red wines that are easy-drinking and fruit-forward.\n\nAragonez is the most widely-planted red grape in the region, which produces full-bodied, budget friendly red wines. Castelao, Trincadeira are also widely planted. Frequently, wines from this region are blends of several grapes.\n\nAlthough traditional Portuguese grape varieties dominate the region, many red wines from Alentejo also incorporate international grape varieties such as Syrah and Cabernet Sauvignon.\n\nThe region produces ripe, full bodied and fruit forward wines that are a product of the hot, inland region. The wines are often described as “New World” in style.\n\nDue to the reliable climate, wines from Alentejo combine quality with affordability, offering great bang for the buck. It offers some of the best value and quality for the money of any European wine region.\n\nWine from this region pairs excellently with hearty, full-bodied dishes.",
+                    "food": [
+                        {
+                            "background_image": {
+                                "location": "//images.vivino.com/backgrounds/foods/4_beef.png",
+                                "variations": {
+                                    "small": "//images.vivino.com/backgrounds/foods/thumbs/4_beef_932x810.png"
+                                }
+                            },
+                            "id": 4,
+                            "name": "Beef",
+                            "seo_name": "beef"
+                        },
+                        {
+                            "background_image": {
+                                "location": "//images.vivino.com/backgrounds/foods/8_lamb.png",
+                                "variations": {
+                                    "small": "//images.vivino.com/backgrounds/foods/thumbs/8_lamb_932x810.png"
+                                }
+                            },
+                            "id": 8,
+                            "name": "Lamb",
+                            "seo_name": "lamb"
+                        },
+                        {
+                            "background_image": {
+                                "location": "//images.vivino.com/backgrounds/foods/9_veal.png",
+                                "variations": {
+                                    "small": "//images.vivino.com/backgrounds/foods/thumbs/9_veal_932x810.png"
+                                }
+                            },
+                            "id": 9,
+                            "name": "Veal",
+                            "seo_name": "veal"
+                        },
+                        {
+                            "background_image": {
+                                "location": "//images.vivino.com/backgrounds/foods/20_chicken.png",
+                                "variations": {
+                                    "small": "//images.vivino.com/backgrounds/foods/thumbs/20_chicken_932x810.png"
+                                }
+                            },
+                            "id": 20,
+                            "name": "Poultry",
+                            "seo_name": "poultry"
+                        }
+                    ],
+                    "grapes": [
+                        {
+                            "has_detailed_info": false,
+                            "id": 127,
+                            "name": "Aragonez",
+                            "parent_grape_id": 19,
+                            "seo_name": "aragonez",
+                            "wines_count": 33010
+                        },
+                        {
+                            "has_detailed_info": false,
+                            "id": 136,
+                            "name": "Castelao",
+                            "parent_grape_id": null,
+                            "seo_name": "castelao",
+                            "wines_count": 14547
+                        },
+                        {
+                            "has_detailed_info": false,
+                            "id": 514,
+                            "name": "Trincadeira",
+                            "parent_grape_id": null,
+                            "seo_name": "trincadeira",
+                            "wines_count": 22118
+                        }
+                    ],
+                    "hidden": false,
+                    "id": 2,
+                    "image": null,
+                    "interesting_facts": [
+                        "Aragonez, the most widely planted grape in Alentejo region, is also known as Tempranillo.",
+                        "Vineyard land in Alentejo is among the most expensive in all of Portugal.",
+                        "The region of Alentejo is noted for its extensive cork production."
+                    ],
+                    "name": "Portuguese Alentejo Red",
+                    "parent_style_id": 210,
+                    "region": {
+                        "background_image": {
+                            "location": "//images.vivino.com/regions/backgrounds/6lQwIz9QQMGDZIkwF6qV0g.jpg",
+                            "variations": {
+                                "large": "//thumbs.vivino.com/region_backgrounds/6lQwIz9QQMGDZIkwF6qV0g_1280x760.jpg",
+                                "medium": "//thumbs.vivino.com/region_backgrounds/6lQwIz9QQMGDZIkwF6qV0g_600x356.jpg"
+                            }
+                        },
+                        "class": {
+                            "typecast_map": {
+                                "background_image": [],
+                                "class": []
+                            }
+                        },
+                        "country": {
+                            "code": "pt",
+                            "currency": {
+                                "code": "EUR",
+                                "name": "Euros",
+                                "prefix": "€",
+                                "suffix": null
+                            },
+                            "most_used_grapes": [
+                                {
+                                    "has_detailed_info": true,
+                                    "id": 67,
+                                    "name": "Touriga Nacional",
+                                    "parent_grape_id": null,
+                                    "seo_name": "touriga-nacional",
+                                    "wines_count": 85787
+                                },
+                                {
+                                    "has_detailed_info": false,
+                                    "id": 69,
+                                    "name": "Tinta Roriz",
+                                    "parent_grape_id": 19,
+                                    "seo_name": "tinta-roriz",
+                                    "wines_count": 41047
+                                },
+                                {
+                                    "has_detailed_info": false,
+                                    "id": 68,
+                                    "name": "Touriga Franca",
+                                    "parent_grape_id": null,
+                                    "seo_name": "touriga-franca",
+                                    "wines_count": 33763
+                                }
+                            ],
+                            "name": "Portugal",
+                            "native_name": "Portugal",
+                            "regions_count": 93,
+                            "seo_name": "portugal",
+                            "users_count": 1152523,
+                            "wineries_count": 5878,
+                            "wines_count": 40712
+                        },
+                        "id": 1395,
+                        "name": "Alentejo",
+                        "name_en": "",
+                        "parent_id": 1394,
+                        "seo_name": "alentejo",
+                        "statistics": {
+                            "parent_regions_count": 1,
+                            "sub_regions_count": 8,
+                            "wineries_count": 259,
+                            "wines_count": 2374
+                        }
+                    },
+                    "regional_name": "Portuguese",
+                    "seo_name": "portuguese-alentejo-red",
+                    "statistics": {
+                        "aggregated_wines_count": 1513,
+                        "wines_count": 1513
+                    },
+                    "varietal_name": "Alentejo Red",
+                    "vintage_mask": "1<",
+                    "wine_type_id": 1
+                },
+                "sweetness_id": null,
+                "type_id": 1,
+                "updated_at": "2022-04-12T09:46:51Z",
+                "vintage_mask_raw": null,
+                "vintage_type": 0,
+                "vintages": [
+                    {
+                        "grapes": null,
+                        "has_valid_ratings": false,
+                        "id": 173859003,
+                        "name": "Cartuxa Pêra-Manca Tinto 2023",
+                        "seo_name": "cartuxa-pera-manca-tinto-2023",
+                        "statistics": {
+                            "labels_count": 12,
+                            "ratings_average": 0,
+                            "ratings_count": 2,
+                            "reviews_count": 0,
+                            "status": "BelowThreshold"
+                        },
+                        "year": 2023
+                    },
+                    {
+                        "grapes": null,
+                        "has_valid_ratings": false,
+                        "id": 170681762,
+                        "name": "Cartuxa Pêra-Manca Tinto 2022",
+                        "seo_name": "cartuxa-pera-manca-tinto-2022",
+                        "statistics": {
+                            "labels_count": 15,
+                            "ratings_average": 0,
+                            "ratings_count": 2,
+                            "reviews_count": 1,
+                            "status": "BelowThreshold"
+                        },
+                        "year": 2022
+                    },
+                    {
+                        "grapes": null,
+                        "has_valid_ratings": false,
+                        "id": 167923592,
+                        "name": "Cartuxa Pêra-Manca Tinto 2021",
+                        "seo_name": "cartuxa-pera-manca-tinto-2021",
+                        "statistics": {
+                            "labels_count": 26,
+                            "ratings_average": 0,
+                            "ratings_count": 1,
+                            "reviews_count": 0,
+                            "status": "BelowThreshold"
+                        },
+                        "year": 2021
+                    },
+                    {
+                        "grapes": null,
+                        "has_valid_ratings": true,
+                        "id": 162949855,
+                        "name": "Cartuxa Pêra-Manca Tinto 2020",
+                        "seo_name": "cartuxa-pera-manca-tinto-2020",
+                        "statistics": {
+                            "labels_count": 1160,
+                            "ratings_average": 4.8,
+                            "ratings_count": 59,
+                            "reviews_count": 11,
+                            "status": "Normal"
+                        },
+                        "year": 2020
+                    },
+                    {
+                        "grapes": null,
+                        "has_valid_ratings": true,
+                        "id": 159389420,
+                        "name": "Cartuxa Pêra-Manca Tinto 2019",
+                        "seo_name": "cartuxa-pera-manca-tinto-2019",
+                        "statistics": {
+                            "labels_count": 3117,
+                            "ratings_average": 4.7,
+                            "ratings_count": 155,
+                            "reviews_count": 38,
+                            "status": "Normal"
+                        },
+                        "year": 2019
+                    },
+                    {
+                        "grapes": null,
+                        "has_valid_ratings": true,
+                        "id": 156095416,
+                        "name": "Cartuxa Pêra-Manca Tinto 2018",
+                        "seo_name": "cartuxa-pera-manca-tinto-2018",
+                        "statistics": {
+                            "labels_count": 1920,
+                            "ratings_average": 4.7,
+                            "ratings_count": 106,
+                            "reviews_count": 21,
+                            "status": "Normal"
+                        },
+                        "year": 2018
+                    },
+                    {
+                        "grapes": null,
+                        "has_valid_ratings": true,
+                        "id": 150286756,
+                        "name": "Cartuxa Pêra-Manca Tinto 2017",
+                        "seo_name": "cartuxa-pera-manca-tinto-2017",
+                        "statistics": {
+                            "labels_count": 2043,
+                            "ratings_average": 4.7,
+                            "ratings_count": 185,
+                            "reviews_count": 63,
+                            "status": "Normal"
+                        },
+                        "year": 2017
+                    },
+                    {
+                        "grapes": null,
+                        "has_valid_ratings": true,
+                        "id": 84967798,
+                        "name": "Cartuxa Pêra-Manca Tinto 2016",
+                        "seo_name": "cartuxa-pera-manca-tinto-2016",
+                        "statistics": {
+                            "labels_count": 4579,
+                            "ratings_average": 4.8,
+                            "ratings_count": 362,
+                            "reviews_count": 117,
+                            "status": "Normal"
+                        },
+                        "year": 2016
+                    },
+                    {
+                        "grapes": null,
+                        "has_valid_ratings": true,
+                        "id": 14188383,
+                        "name": "Cartuxa Pêra-Manca Tinto 2015",
+                        "seo_name": "cartuxa-pera-manca-tinto-2015",
+                        "statistics": {
+                            "labels_count": 12829,
+                            "ratings_average": 4.7,
+                            "ratings_count": 1291,
+                            "reviews_count": 368,
+                            "status": "Normal"
+                        },
+                        "year": 2015
+                    },
+                    {
+                        "grapes": null,
+                        "has_valid_ratings": true,
+                        "id": 7610178,
+                        "name": "Cartuxa Pêra-Manca Tinto 2014",
+                        "seo_name": "cartuxa-pera-manca-tinto-2014",
+                        "statistics": {
+                            "labels_count": 19838,
+                            "ratings_average": 4.7,
+                            "ratings_count": 1840,
+                            "reviews_count": 541,
+                            "status": "Normal"
+                        },
+                        "year": 2014
+                    },
+                    {
+                        "grapes": null,
+                        "has_valid_ratings": true,
+                        "id": 7565990,
+                        "name": "Cartuxa Pêra-Manca Tinto 2013",
+                        "seo_name": "cartuxa-pera-manca-tinto-2013",
+                        "statistics": {
+                            "labels_count": 16484,
+                            "ratings_average": 4.7,
+                            "ratings_count": 2103,
+                            "reviews_count": 743,
+                            "status": "Normal"
+                        },
+                        "year": 2013
+                    },
+                    {
+                        "grapes": null,
+                        "has_valid_ratings": true,
+                        "id": 7565165,
+                        "name": "Cartuxa Pêra-Manca Tinto 2012",
+                        "seo_name": "cartuxa-pera-manca-tinto-2012",
+                        "statistics": {
+                            "labels_count": 2499,
+                            "ratings_average": 4.5,
+                            "ratings_count": 590,
+                            "reviews_count": 179,
+                            "status": "Normal"
+                        },
+                        "year": 2012
+                    },
+                    {
+                        "grapes": null,
+                        "has_valid_ratings": true,
+                        "id": 7789873,
+                        "name": "Cartuxa Pêra-Manca Tinto 2011",
+                        "seo_name": "cartuxa-pera-manca-tinto-2011",
+                        "statistics": {
+                            "labels_count": 22860,
+                            "ratings_average": 4.7,
+                            "ratings_count": 4132,
+                            "reviews_count": 1290,
+                            "status": "Normal"
+                        },
+                        "year": 2011
+                    },
+                    {
+                        "grapes": null,
+                        "has_valid_ratings": true,
+                        "id": 7541000,
+                        "name": "Cartuxa Pêra-Manca Tinto 2010",
+                        "seo_name": "cartuxa-pera-manca-tinto-2010",
+                        "statistics": {
+                            "labels_count": 14151,
+                            "ratings_average": 4.7,
+                            "ratings_count": 2943,
+                            "reviews_count": 1033,
+                            "status": "Normal"
+                        },
+                        "year": 2010
+                    },
+                    {
+                        "grapes": null,
+                        "has_valid_ratings": true,
+                        "id": 7608297,
+                        "name": "Cartuxa Pêra-Manca Tinto 2009",
+                        "seo_name": "cartuxa-pera-manca-tinto-2009",
+                        "statistics": {
+                            "labels_count": 2382,
+                            "ratings_average": 4.6,
+                            "ratings_count": 631,
+                            "reviews_count": 155,
+                            "status": "Normal"
+                        },
+                        "year": 2009
+                    },
+                    {
+                        "grapes": null,
+                        "has_valid_ratings": true,
+                        "id": 7582013,
+                        "name": "Cartuxa Pêra-Manca Tinto 2008",
+                        "seo_name": "cartuxa-pera-manca-tinto-2008",
+                        "statistics": {
+                            "labels_count": 15121,
+                            "ratings_average": 4.7,
+                            "ratings_count": 3467,
+                            "reviews_count": 1158,
+                            "status": "Normal"
+                        },
+                        "year": 2008
+                    },
+                    {
+                        "grapes": null,
+                        "has_valid_ratings": true,
+                        "id": 7608310,
+                        "name": "Cartuxa Pêra-Manca Tinto 2007",
+                        "seo_name": "cartuxa-pera-manca-tinto-2007",
+                        "statistics": {
+                            "labels_count": 7818,
+                            "ratings_average": 4.7,
+                            "ratings_count": 1808,
+                            "reviews_count": 471,
+                            "status": "Normal"
+                        },
+                        "year": 2007
+                    },
+                    {
+                        "grapes": null,
+                        "has_valid_ratings": true,
+                        "id": 8311546,
+                        "name": "Cartuxa Pêra-Manca Tinto 2006",
+                        "seo_name": "cartuxa-pera-manca-tinto-2006",
+                        "statistics": {
+                            "labels_count": 432,
+                            "ratings_average": 4.5,
+                            "ratings_count": 78,
+                            "reviews_count": 19,
+                            "status": "Normal"
+                        },
+                        "year": 2006
+                    },
+                    {
+                        "grapes": null,
+                        "has_valid_ratings": true,
+                        "id": 8311529,
+                        "name": "Cartuxa Pêra-Manca Tinto 2005",
+                        "seo_name": "cartuxa-pera-manca-tinto-2005",
+                        "statistics": {
+                            "labels_count": 6456,
+                            "ratings_average": 4.7,
+                            "ratings_count": 1335,
+                            "reviews_count": 421,
+                            "status": "Normal"
+                        },
+                        "year": 2005
+                    },
+                    {
+                        "grapes": null,
+                        "has_valid_ratings": true,
+                        "id": 8226437,
+                        "name": "Cartuxa Pêra-Manca Tinto 2004",
+                        "seo_name": "cartuxa-pera-manca-tinto-2004",
+                        "statistics": {
+                            "labels_count": 112,
+                            "ratings_average": 4.5,
+                            "ratings_count": 27,
+                            "reviews_count": 9,
+                            "status": "Normal"
+                        },
+                        "year": 2004
+                    },
+                    {
+                        "grapes": null,
+                        "has_valid_ratings": true,
+                        "id": 1314420,
+                        "name": "Cartuxa Pêra-Manca Tinto 2003",
+                        "seo_name": "cartuxa-pera-manca-tinto-2003",
+                        "statistics": {
+                            "labels_count": 4452,
+                            "ratings_average": 4.6,
+                            "ratings_count": 777,
+                            "reviews_count": 221,
+                            "status": "Normal"
+                        },
+                        "year": 2003
+                    },
+                    {
+                        "grapes": null,
+                        "has_valid_ratings": true,
+                        "id": 1373095,
+                        "name": "Cartuxa Pêra-Manca Tinto 2002",
+                        "seo_name": "cartuxa-pera-manca-tinto-2002",
+                        "statistics": {
+                            "labels_count": 234,
+                            "ratings_average": 4.7,
+                            "ratings_count": 40,
+                            "reviews_count": 12,
+                            "status": "Normal"
+                        },
+                        "year": 2002
+                    },
+                    {
+                        "grapes": null,
+                        "has_valid_ratings": true,
+                        "id": 8436128,
+                        "name": "Cartuxa Pêra-Manca Tinto 2001",
+                        "seo_name": "cartuxa-pera-manca-tinto-2001",
+                        "statistics": {
+                            "labels_count": 4526,
+                            "ratings_average": 4.7,
+                            "ratings_count": 781,
+                            "reviews_count": 230,
+                            "status": "Normal"
+                        },
+                        "year": 2001
+                    },
+                    {
+                        "grapes": null,
+                        "has_valid_ratings": true,
+                        "id": 7610206,
+                        "name": "Cartuxa Pêra-Manca Tinto 2000",
+                        "seo_name": "cartuxa-pera-manca-tinto-2000",
+                        "statistics": {
+                            "labels_count": 468,
+                            "ratings_average": 4.7,
+                            "ratings_count": 80,
+                            "reviews_count": 11,
+                            "status": "Normal"
+                        },
+                        "year": 2000
+                    },
+                    {
+                        "grapes": null,
+                        "has_valid_ratings": false,
+                        "id": 8540473,
+                        "name": "Cartuxa Pêra-Manca Tinto 1999",
+                        "seo_name": "cartuxa-pera-manca-tinto-1999",
+                        "statistics": {
+                            "labels_count": 41,
+                            "ratings_average": 0,
+                            "ratings_count": 9,
+                            "reviews_count": 2,
+                            "status": "BelowThreshold"
+                        },
+                        "year": 1999
+                    },
+                    {
+                        "grapes": null,
+                        "has_valid_ratings": true,
+                        "id": 8532133,
+                        "name": "Cartuxa Pêra-Manca Tinto 1998",
+                        "seo_name": "cartuxa-pera-manca-tinto-1998",
+                        "statistics": {
+                            "labels_count": 2513,
+                            "ratings_average": 4.8,
+                            "ratings_count": 393,
+                            "reviews_count": 120,
+                            "status": "Normal"
+                        },
+                        "year": 1998
+                    },
+                    {
+                        "grapes": null,
+                        "has_valid_ratings": true,
+                        "id": 8796811,
+                        "name": "Cartuxa Pêra-Manca Tinto 1997",
+                        "seo_name": "cartuxa-pera-manca-tinto-1997",
+                        "statistics": {
+                            "labels_count": 2260,
+                            "ratings_average": 4.7,
+                            "ratings_count": 388,
+                            "reviews_count": 121,
+                            "status": "Normal"
+                        },
+                        "year": 1997
+                    },
+                    {
+                        "grapes": null,
+                        "has_valid_ratings": false,
+                        "id": 6372966,
+                        "name": "Cartuxa Pêra-Manca Tinto 1996",
+                        "seo_name": "cartuxa-pera-manca-tinto-1996",
+                        "statistics": {
+                            "labels_count": 122,
+                            "ratings_average": 0,
+                            "ratings_count": 23,
+                            "reviews_count": 3,
+                            "status": "BelowThreshold"
+                        },
+                        "year": 1996
+                    },
+                    {
+                        "grapes": null,
+                        "has_valid_ratings": true,
+                        "id": 1386673,
+                        "name": "Cartuxa Pêra-Manca Tinto 1995",
+                        "seo_name": "cartuxa-pera-manca-tinto-1995",
+                        "statistics": {
+                            "labels_count": 1335,
+                            "ratings_average": 4.8,
+                            "ratings_count": 253,
+                            "reviews_count": 88,
+                            "status": "Normal"
+                        },
+                        "year": 1995
+                    },
+                    {
+                        "grapes": null,
+                        "has_valid_ratings": true,
+                        "id": 1385662,
+                        "name": "Cartuxa Pêra-Manca Tinto 1994",
+                        "seo_name": "cartuxa-pera-manca-tinto-1994",
+                        "statistics": {
+                            "labels_count": 837,
+                            "ratings_average": 4.7,
+                            "ratings_count": 128,
+                            "reviews_count": 45,
+                            "status": "Normal"
+                        },
+                        "year": 1994
+                    },
+                    {
+                        "grapes": null,
+                        "has_valid_ratings": false,
+                        "id": 2371937,
+                        "name": "Cartuxa Pêra-Manca Tinto 1993",
+                        "seo_name": "cartuxa-pera-manca-tinto-1993",
+                        "statistics": {
+                            "labels_count": 14,
+                            "ratings_average": 0,
+                            "ratings_count": 2,
+                            "reviews_count": 0,
+                            "status": "BelowThreshold"
+                        },
+                        "year": 1993
+                    },
+                    {
+                        "grapes": null,
+                        "has_valid_ratings": false,
+                        "id": 2040558,
+                        "name": "Cartuxa Pêra-Manca Tinto 1992",
+                        "seo_name": "cartuxa-pera-manca-tinto-1992",
+                        "statistics": {
+                            "labels_count": 7,
+                            "ratings_average": 0,
+                            "ratings_count": 1,
+                            "reviews_count": 0,
+                            "status": "BelowThreshold"
+                        },
+                        "year": 1992
+                    },
+                    {
+                        "grapes": null,
+                        "has_valid_ratings": true,
+                        "id": 1494464,
+                        "name": "Cartuxa Pêra-Manca Tinto 1991",
+                        "seo_name": "cartuxa-pera-manca-tinto-1991",
+                        "statistics": {
+                            "labels_count": 830,
+                            "ratings_average": 4.7,
+                            "ratings_count": 129,
+                            "reviews_count": 40,
+                            "status": "Normal"
+                        },
+                        "year": 1991
+                    },
+                    {
+                        "grapes": null,
+                        "has_valid_ratings": true,
+                        "id": 1407719,
+                        "name": "Cartuxa Pêra-Manca Tinto 1990",
+                        "seo_name": "cartuxa-pera-manca-tinto-1990",
+                        "statistics": {
+                            "labels_count": 552,
+                            "ratings_average": 4.8,
+                            "ratings_count": 117,
+                            "reviews_count": 37,
+                            "status": "Normal"
+                        },
+                        "year": 1990
+                    },
+                    {
+                        "grapes": null,
+                        "has_valid_ratings": false,
+                        "id": 2925667,
+                        "name": "Cartuxa Pêra-Manca Tinto 1989",
+                        "seo_name": "cartuxa-pera-manca-tinto-1989",
+                        "statistics": {
+                            "labels_count": 54,
+                            "ratings_average": 0,
+                            "ratings_count": 5,
+                            "reviews_count": 1,
+                            "status": "BelowThreshold"
+                        },
+                        "year": 1989
+                    },
+                    {
+                        "grapes": null,
+                        "has_valid_ratings": false,
+                        "id": 1531211,
+                        "name": "Cartuxa Pêra-Manca Tinto 1987",
+                        "seo_name": "cartuxa-pera-manca-tinto-1987",
+                        "statistics": {
+                            "labels_count": 6,
+                            "ratings_average": 0,
+                            "ratings_count": 2,
+                            "reviews_count": 0,
+                            "status": "BelowThreshold"
+                        },
+                        "year": 1987
+                    },
+                    {
+                        "grapes": null,
+                        "has_valid_ratings": false,
+                        "id": 8170893,
+                        "name": "Cartuxa Pêra-Manca Tinto 1985",
+                        "seo_name": "cartuxa-pera-manca-tinto-1985",
+                        "statistics": {
+                            "labels_count": 3,
+                            "ratings_average": 0,
+                            "ratings_count": 2,
+                            "reviews_count": 1,
+                            "status": "BelowThreshold"
+                        },
+                        "year": 1985
+                    },
+                    {
+                        "grapes": null,
+                        "has_valid_ratings": false,
+                        "id": 3215014,
+                        "name": "Cartuxa Pêra-Manca Tinto 1982",
+                        "seo_name": "cartuxa-pera-manca-tinto-1982",
+                        "statistics": {
+                            "labels_count": 1,
+                            "ratings_average": 0,
+                            "ratings_count": 1,
+                            "reviews_count": 0,
+                            "status": "BelowThreshold"
+                        },
+                        "year": 1982
+                    },
+                    {
+                        "grapes": null,
+                        "has_valid_ratings": false,
+                        "id": 3010069,
+                        "name": "Cartuxa Pêra-Manca Tinto 1980",
+                        "seo_name": "cartuxa-pera-manca-tinto-1980",
+                        "statistics": {
+                            "labels_count": 10,
+                            "ratings_average": 0,
+                            "ratings_count": 1,
+                            "reviews_count": 0,
+                            "status": "BelowThreshold"
+                        },
+                        "year": 1980
+                    },
+                    {
+                        "grapes": null,
+                        "has_valid_ratings": false,
+                        "id": 4447605,
+                        "name": "Cartuxa Pêra-Manca Tinto 1978",
+                        "seo_name": "cartuxa-pera-manca-tinto-1978",
+                        "statistics": {
+                            "labels_count": 21,
+                            "ratings_average": 0,
+                            "ratings_count": 1,
+                            "reviews_count": 0,
+                            "status": "BelowThreshold"
+                        },
+                        "year": 1978
+                    },
+                    {
+                        "grapes": null,
+                        "has_valid_ratings": false,
+                        "id": 12288237,
+                        "name": "Cartuxa Pêra-Manca Tinto 1977",
+                        "seo_name": "cartuxa-pera-manca-tinto-1977",
+                        "statistics": {
+                            "labels_count": 78,
+                            "ratings_average": 0,
+                            "ratings_count": 5,
+                            "reviews_count": 3,
+                            "status": "BelowThreshold"
+                        },
+                        "year": 1977
+                    },
+                    {
+                        "grapes": null,
+                        "has_valid_ratings": true,
+                        "id": 2560493,
+                        "name": "Cartuxa Pêra-Manca Tinto 1975",
+                        "seo_name": "cartuxa-pera-manca-tinto-1975",
+                        "statistics": {
+                            "labels_count": 294,
+                            "ratings_average": 4.6,
+                            "ratings_count": 37,
+                            "reviews_count": 13,
+                            "status": "Normal"
+                        },
+                        "year": 1975
+                    },
+                    {
+                        "grapes": null,
+                        "has_valid_ratings": false,
+                        "id": 11259783,
+                        "name": "Cartuxa Pêra-Manca Tinto 1972",
+                        "seo_name": "cartuxa-pera-manca-tinto-1972",
+                        "statistics": {
+                            "labels_count": 0,
+                            "ratings_average": 0,
+                            "ratings_count": 1,
+                            "reviews_count": 0,
+                            "status": "BelowThreshold"
+                        },
+                        "year": 1972
+                    },
+                    {
+                        "grapes": null,
+                        "has_valid_ratings": false,
+                        "id": 2709742,
+                        "name": "Cartuxa Pêra-Manca Tinto 1971",
+                        "seo_name": "cartuxa-pera-manca-tinto-1971",
+                        "statistics": {
+                            "labels_count": 35,
+                            "ratings_average": 0,
+                            "ratings_count": 4,
+                            "reviews_count": 0,
+                            "status": "BelowThreshold"
+                        },
+                        "year": 1971
+                    },
+                    {
+                        "grapes": null,
+                        "has_valid_ratings": false,
+                        "id": 4447558,
+                        "name": "Cartuxa Pêra-Manca Tinto 1970",
+                        "seo_name": "cartuxa-pera-manca-tinto-1970",
+                        "statistics": {
+                            "labels_count": 14,
+                            "ratings_average": 0,
+                            "ratings_count": 1,
+                            "reviews_count": 0,
+                            "status": "BelowThreshold"
+                        },
+                        "year": 1970
+                    },
+                    {
+                        "grapes": null,
+                        "has_valid_ratings": false,
+                        "id": 16278128,
+                        "name": "Cartuxa Pêra-Manca Tinto 1961",
+                        "seo_name": "cartuxa-pera-manca-tinto-1961",
+                        "statistics": {
+                            "labels_count": 10,
+                            "ratings_average": 0,
+                            "ratings_count": 1,
+                            "reviews_count": 0,
+                            "status": "BelowThreshold"
+                        },
+                        "year": 1961
+                    },
+                    {
+                        "grapes": null,
+                        "has_valid_ratings": false,
+                        "id": 7964216,
+                        "name": "Cartuxa Pêra-Manca Tinto 1790",
+                        "seo_name": "cartuxa-pera-manca-tinto-1790",
+                        "statistics": {
+                            "labels_count": 3,
+                            "ratings_average": 0,
+                            "ratings_count": 3,
+                            "reviews_count": 0,
+                            "status": "BelowThreshold"
+                        },
+                        "year": 1790
+                    },
+                    {
+                        "grapes": null,
+                        "has_valid_ratings": true,
+                        "id": 7524628,
+                        "name": "Cartuxa Pêra-Manca Tinto",
+                        "seo_name": "cartuxa-pera-manca-tinto-uv",
+                        "statistics": {
+                            "labels_count": 868,
+                            "ratings_average": 4.7,
+                            "ratings_count": 26115,
+                            "reviews_count": 497,
+                            "status": "Normal"
+                        },
+                        "year": 0
+                    }
+                ],
+                "winery": {
+                    "address": {
+                        "addition": null,
+                        "city": "Evora",
+                        "company": null,
+                        "country": null,
+                        "external_id": null,
+                        "name": null,
+                        "neighborhood": null,
+                        "phone": null,
+                        "residential": null,
+                        "state": null,
+                        "street": null,
+                        "street2": null,
+                        "title": null,
+                        "vat_code": null,
+                        "vat_number": null,
+                        "zip": "7005-003"
+                    },
+                    "background_image": null,
+                    "business_name": "Adega Cartuxa (Fundacao Eugenio de Almeida)",
+                    "description": "",
+                    "email": "apoio.cliente@fea.pt",
+                    "facebook": "https://www.facebook.com/cartuxa",
+                    "first_wines": [],
+                    "id": 10992,
+                    "image": {
+                        "location": "//images.vivino.com/wineries/10992/logos/B9999B-zQwa1LNw4VzMNQA.png",
+                        "variations": {
+                            "large": "//thumbs.vivino.com/wineries/10992/logos/B9999B-zQwa1LNw4VzMNQA_500x500.png",
+                            "medium": "//thumbs.vivino.com/wineries/10992/logos/B9999B-zQwa1LNw4VzMNQA_200x200.png",
+                            "small_square": "//thumbs.vivino.com/wineries/10992/logos/B9999B-zQwa1LNw4VzMNQA_80x80.png"
+                        }
+                    },
+                    "instagram": "@adegacartuxa",
+                    "is_claimed": false,
+                    "location": {
+                        "latitude": 38.585835,
+                        "longitude": -7.919431
+                    },
+                    "name": "Cartuxa",
+                    "phone": "351 266 748 300",
+                    "region": {
+                        "background_image": null,
+                        "country": {
+                            "code": "pt",
+                            "currency": {
+                                "code": "EUR",
+                                "name": "Euros",
+                                "prefix": "€",
+                                "suffix": null
+                            },
+                            "most_used_grapes": [
+                                {
+                                    "has_detailed_info": true,
+                                    "id": 67,
+                                    "name": "Touriga Nacional",
+                                    "parent_grape_id": null,
+                                    "seo_name": "touriga-nacional",
+                                    "wines_count": 85787
+                                },
+                                {
+                                    "has_detailed_info": false,
+                                    "id": 69,
+                                    "name": "Tinta Roriz",
+                                    "parent_grape_id": 19,
+                                    "seo_name": "tinta-roriz",
+                                    "wines_count": 41047
+                                },
+                                {
+                                    "has_detailed_info": false,
+                                    "id": 68,
+                                    "name": "Touriga Franca",
+                                    "parent_grape_id": null,
+                                    "seo_name": "touriga-franca",
+                                    "wines_count": 33763
+                                }
+                            ],
+                            "name": "Portugal",
+                            "native_name": "Portugal",
+                            "regions_count": 93,
+                            "seo_name": "portugal",
+                            "users_count": 1152523,
+                            "wineries_count": 5878,
+                            "wines_count": 40712
+                        },
+                        "id": 2071,
+                        "name": "Evora",
+                        "name_en": "",
+                        "parent_id": 1395,
+                        "seo_name": "evora",
+                        "statistics": {
+                            "parent_regions_count": 2,
+                            "sub_regions_count": 0,
+                            "wineries_count": 8,
+                            "wines_count": 32
+                        }
+                    },
+                    "review_status": "Completed",
+                    "seo_name": "cartuxa",
+                    "specialists_notes": "",
+                    "sponsored_entity": null,
+                    "sponsored_entity_type": null,
+                    "statistics": {
+                        "labels_count": 1778610,
+                        "ratings_average": 4.1,
+                        "ratings_count": 292067,
+                        "wines_count": 38
+                    },
+                    "status": 0,
+                    "twitter": "@ADEGACARTUXA",
+                    "website": "http://www.cartuxa.pt/",
+                    "wine_maker": {
+                        "id": 12690,
+                        "name": "Cartuxa"
+                    },
+                    "winemaker": "Cartuxa",
+                    "winery_group": null
+                }
+            },
+            "wine_critic_reviews": [],
+            "wine_facts": [],
+            "wine_maker": null,
+            "winemaker": null,
+            "year": 2005
+        },
+        "wine": {
+            "alcohol": 14.5,
+            "closure": null,
+            "created_at": "2014-07-12T01:14:21Z",
+            "description": "A ripe and dense red, with powerful flavours of roasted plum, dark currant, cherry tart, and bittersweet chocolate. On the palate rich smoky notes, showing hints of dried beef and spice.",
+            "foods": [
+                {
+                    "background_image": {
+                        "location": "//images.vivino.com/backgrounds/foods/4_beef.png",
+                        "variations": {
+                            "small": "//images.vivino.com/backgrounds/foods/thumbs/4_beef_932x810.png"
+                        }
+                    },
+                    "id": 4,
+                    "name": "Beef",
+                    "seo_name": "beef"
+                },
+                {
+                    "background_image": {
+                        "location": "//images.vivino.com/backgrounds/foods/8_lamb.png",
+                        "variations": {
+                            "small": "//images.vivino.com/backgrounds/foods/thumbs/8_lamb_932x810.png"
+                        }
+                    },
+                    "id": 8,
+                    "name": "Lamb",
+                    "seo_name": "lamb"
+                },
+                {
+                    "background_image": {
+                        "location": "//images.vivino.com/backgrounds/foods/9_veal.png",
+                        "variations": {
+                            "small": "//images.vivino.com/backgrounds/foods/thumbs/9_veal_932x810.png"
+                        }
+                    },
+                    "id": 9,
+                    "name": "Veal",
+                    "seo_name": "veal"
+                },
+                {
+                    "background_image": {
+                        "location": "//images.vivino.com/backgrounds/foods/20_chicken.png",
+                        "variations": {
+                            "small": "//images.vivino.com/backgrounds/foods/thumbs/20_chicken_932x810.png"
+                        }
+                    },
+                    "id": 20,
+                    "name": "Poultry",
+                    "seo_name": "poultry"
+                }
+            ],
+            "grapes": [
+                {
+                    "has_detailed_info": true,
+                    "id": 19,
+                    "name": "Tempranillo",
+                    "parent_grape_id": null,
+                    "seo_name": "tempranillo",
+                    "wines_count": 172842
+                }
+            ],
+            "has_valid_ratings": true,
+            "hidden": false,
+            "id": 2545450,
+            "is_first_wine": false,
+            "is_natural": false,
+            "name": "Pêra-Manca Tinto",
+            "non_vintage": false,
+            "rank": {
+                "country": {
+                    "description": "Rank within Portugal",
+                    "rank": 11,
+                    "total": 34983
+                },
+                "global": {
+                    "description": "Global Rank",
+                    "rank": 111,
+                    "total": 1436860
+                },
+                "region": {
+                    "description": "Rank within Wine Region",
+                    "rank": 1,
+                    "total": 182
+                },
+                "wine_type": {
+                    "description": "Rank within all Red Wine",
+                    "rank": 92,
+                    "total": 709075
+                },
+                "winery": {
+                    "description": "Rank within Winery",
+                    "rank": 1,
+                    "total": 38
+                }
+            },
+            "region": {
+                "background_image": {
+                    "location": "//images.vivino.com/regions/backgrounds/6lQwIz9QQMGDZIkwF6qV0g.jpg",
+                    "variations": {
+                        "large": "//thumbs.vivino.com/region_backgrounds/6lQwIz9QQMGDZIkwF6qV0g_1280x760.jpg",
+                        "medium": "//thumbs.vivino.com/region_backgrounds/6lQwIz9QQMGDZIkwF6qV0g_600x356.jpg"
+                    }
+                },
+                "class": {
+                    "typecast_map": {
+                        "background_image": [],
+                        "class": []
+                    }
+                },
+                "country": {
+                    "code": "pt",
+                    "currency": {
+                        "code": "EUR",
+                        "name": "Euros",
+                        "prefix": "€",
+                        "suffix": null
+                    },
+                    "most_used_grapes": [
+                        {
+                            "has_detailed_info": true,
+                            "id": 67,
+                            "name": "Touriga Nacional",
+                            "parent_grape_id": null,
+                            "seo_name": "touriga-nacional",
+                            "wines_count": 85787
+                        },
+                        {
+                            "has_detailed_info": false,
+                            "id": 69,
+                            "name": "Tinta Roriz",
+                            "parent_grape_id": 19,
+                            "seo_name": "tinta-roriz",
+                            "wines_count": 41047
+                        },
+                        {
+                            "has_detailed_info": false,
+                            "id": 68,
+                            "name": "Touriga Franca",
+                            "parent_grape_id": null,
+                            "seo_name": "touriga-franca",
+                            "wines_count": 33763
+                        }
+                    ],
+                    "name": "Portugal",
+                    "native_name": "Portugal",
+                    "regions_count": 93,
+                    "seo_name": "portugal",
+                    "users_count": 1152523,
+                    "wineries_count": 5878,
+                    "wines_count": 40712
+                },
+                "id": 1395,
+                "name": "Alentejo",
+                "name_en": "",
+                "parent_id": 1394,
+                "seo_name": "alentejo",
+                "statistics": {
+                    "parent_regions_count": 1,
+                    "sub_regions_count": 0,
+                    "wineries_count": 259,
+                    "wines_count": 2371
+                }
+            },
+            "review_status": 2,
+            "seo_name": "pera-manca-tinto",
+            "statistics": {
+                "labels_count": 153681,
+                "ratings_average": 4.7,
+                "ratings_count": 26115,
+                "status": "Normal",
+                "vintages_count": 188
+            },
+            "style": {
+                "acidity": 3,
+                "acidity_description": "High",
+                "background_image": null,
+                "baseline_structure": {
+                    "acidity": 3,
+                    "fizziness": null,
+                    "intensity": 4.5,
+                    "sweetness": 1,
+                    "tannin": 3
+                },
+                "blurb": "Red wine from Southern Portugal",
+                "body": 4,
+                "body_description": "Full-bodied",
+                "country": {
+                    "code": "pt",
+                    "currency": {
+                        "code": "EUR",
+                        "name": "Euros",
+                        "prefix": "€",
+                        "suffix": null
+                    },
+                    "most_used_grapes": [
+                        {
+                            "has_detailed_info": true,
+                            "id": 67,
+                            "name": "Touriga Nacional",
+                            "parent_grape_id": null,
+                            "seo_name": "touriga-nacional",
+                            "wines_count": 85787
+                        },
+                        {
+                            "has_detailed_info": false,
+                            "id": 69,
+                            "name": "Tinta Roriz",
+                            "parent_grape_id": 19,
+                            "seo_name": "tinta-roriz",
+                            "wines_count": 41047
+                        },
+                        {
+                            "has_detailed_info": false,
+                            "id": 68,
+                            "name": "Touriga Franca",
+                            "parent_grape_id": null,
+                            "seo_name": "touriga-franca",
+                            "wines_count": 33763
+                        }
+                    ],
+                    "name": "Portugal",
+                    "native_name": "Portugal",
+                    "regions_count": 93,
+                    "seo_name": "portugal",
+                    "users_count": 1152523,
+                    "wineries_count": 5878,
+                    "wines_count": 40712
+                },
+                "description": "The Alentejo region covers approximately a third of Portugal, producing red wines that are easy-drinking and fruit-forward.\n\nAragonez is the most widely-planted red grape in the region, which produces full-bodied, budget friendly red wines. Castelao, Trincadeira are also widely planted. Frequently, wines from this region are blends of several grapes.\n\nAlthough traditional Portuguese grape varieties dominate the region, many red wines from Alentejo also incorporate international grape varieties such as Syrah and Cabernet Sauvignon.\n\nThe region produces ripe, full bodied and fruit forward wines that are a product of the hot, inland region. The wines are often described as “New World” in style.\n\nDue to the reliable climate, wines from Alentejo combine quality with affordability, offering great bang for the buck. It offers some of the best value and quality for the money of any European wine region.\n\nWine from this region pairs excellently with hearty, full-bodied dishes.",
+                "food": [
+                    {
+                        "background_image": {
+                            "location": "//images.vivino.com/backgrounds/foods/4_beef.png",
+                            "variations": {
+                                "small": "//images.vivino.com/backgrounds/foods/thumbs/4_beef_932x810.png"
+                            }
+                        },
+                        "id": 4,
+                        "name": "Beef",
+                        "seo_name": "beef"
+                    },
+                    {
+                        "background_image": {
+                            "location": "//images.vivino.com/backgrounds/foods/8_lamb.png",
+                            "variations": {
+                                "small": "//images.vivino.com/backgrounds/foods/thumbs/8_lamb_932x810.png"
+                            }
+                        },
+                        "id": 8,
+                        "name": "Lamb",
+                        "seo_name": "lamb"
+                    },
+                    {
+                        "background_image": {
+                            "location": "//images.vivino.com/backgrounds/foods/9_veal.png",
+                            "variations": {
+                                "small": "//images.vivino.com/backgrounds/foods/thumbs/9_veal_932x810.png"
+                            }
+                        },
+                        "id": 9,
+                        "name": "Veal",
+                        "seo_name": "veal"
+                    },
+                    {
+                        "background_image": {
+                            "location": "//images.vivino.com/backgrounds/foods/20_chicken.png",
+                            "variations": {
+                                "small": "//images.vivino.com/backgrounds/foods/thumbs/20_chicken_932x810.png"
+                            }
+                        },
+                        "id": 20,
+                        "name": "Poultry",
+                        "seo_name": "poultry"
+                    }
+                ],
+                "grapes": [
+                    {
+                        "has_detailed_info": false,
+                        "id": 127,
+                        "name": "Aragonez",
+                        "parent_grape_id": 19,
+                        "seo_name": "aragonez",
+                        "wines_count": 33010
+                    },
+                    {
+                        "has_detailed_info": false,
+                        "id": 136,
+                        "name": "Castelao",
+                        "parent_grape_id": null,
+                        "seo_name": "castelao",
+                        "wines_count": 14547
+                    },
+                    {
+                        "has_detailed_info": false,
+                        "id": 514,
+                        "name": "Trincadeira",
+                        "parent_grape_id": null,
+                        "seo_name": "trincadeira",
+                        "wines_count": 22118
+                    }
+                ],
+                "hidden": false,
+                "id": 2,
+                "image": null,
+                "interesting_facts": [
+                    "Aragonez, the most widely planted grape in Alentejo region, is also known as Tempranillo.",
+                    "Vineyard land in Alentejo is among the most expensive in all of Portugal.",
+                    "The region of Alentejo is noted for its extensive cork production."
+                ],
+                "name": "Portuguese Alentejo Red",
+                "parent_style_id": 210,
+                "region": {
+                    "background_image": {
+                        "location": "//images.vivino.com/regions/backgrounds/6lQwIz9QQMGDZIkwF6qV0g.jpg",
+                        "variations": {
+                            "large": "//thumbs.vivino.com/region_backgrounds/6lQwIz9QQMGDZIkwF6qV0g_1280x760.jpg",
+                            "medium": "//thumbs.vivino.com/region_backgrounds/6lQwIz9QQMGDZIkwF6qV0g_600x356.jpg"
+                        }
+                    },
+                    "class": {
+                        "typecast_map": {
+                            "background_image": [],
+                            "class": []
+                        }
+                    },
+                    "country": {
+                        "code": "pt",
+                        "currency": {
+                            "code": "EUR",
+                            "name": "Euros",
+                            "prefix": "€",
+                            "suffix": null
+                        },
+                        "most_used_grapes": [
+                            {
+                                "has_detailed_info": true,
+                                "id": 67,
+                                "name": "Touriga Nacional",
+                                "parent_grape_id": null,
+                                "seo_name": "touriga-nacional",
+                                "wines_count": 85787
+                            },
+                            {
+                                "has_detailed_info": false,
+                                "id": 69,
+                                "name": "Tinta Roriz",
+                                "parent_grape_id": 19,
+                                "seo_name": "tinta-roriz",
+                                "wines_count": 41047
+                            },
+                            {
+                                "has_detailed_info": false,
+                                "id": 68,
+                                "name": "Touriga Franca",
+                                "parent_grape_id": null,
+                                "seo_name": "touriga-franca",
+                                "wines_count": 33763
+                            }
+                        ],
+                        "name": "Portugal",
+                        "native_name": "Portugal",
+                        "regions_count": 93,
+                        "seo_name": "portugal",
+                        "users_count": 1152523,
+                        "wineries_count": 5878,
+                        "wines_count": 40712
+                    },
+                    "id": 1395,
+                    "name": "Alentejo",
+                    "name_en": "",
+                    "parent_id": 1394,
+                    "seo_name": "alentejo",
+                    "statistics": {
+                        "parent_regions_count": 1,
+                        "sub_regions_count": 8,
+                        "wineries_count": 259,
+                        "wines_count": 2374
+                    }
+                },
+                "regional_name": "Portuguese",
+                "seo_name": "portuguese-alentejo-red",
+                "statistics": {
+                    "aggregated_wines_count": 1513,
+                    "wines_count": 1513
+                },
+                "varietal_name": "Alentejo Red",
+                "vintage_mask": "1<",
+                "wine_type_id": 1
+            },
+            "sweetness_id": null,
+            "type_id": 1,
+            "updated_at": "2022-04-12T09:46:51Z",
+            "vintage_mask_raw": null,
+            "vintage_type": 0,
+            "vintages": [
+                {
+                    "grapes": null,
+                    "has_valid_ratings": false,
+                    "id": 173859003,
+                    "name": "Cartuxa Pêra-Manca Tinto 2023",
+                    "seo_name": "cartuxa-pera-manca-tinto-2023",
+                    "statistics": {
+                        "labels_count": 12,
+                        "ratings_average": 0,
+                        "ratings_count": 2,
+                        "reviews_count": 0,
+                        "status": "BelowThreshold"
+                    },
+                    "year": 2023
+                },
+                {
+                    "grapes": null,
+                    "has_valid_ratings": false,
+                    "id": 170681762,
+                    "name": "Cartuxa Pêra-Manca Tinto 2022",
+                    "seo_name": "cartuxa-pera-manca-tinto-2022",
+                    "statistics": {
+                        "labels_count": 15,
+                        "ratings_average": 0,
+                        "ratings_count": 2,
+                        "reviews_count": 1,
+                        "status": "BelowThreshold"
+                    },
+                    "year": 2022
+                },
+                {
+                    "grapes": null,
+                    "has_valid_ratings": false,
+                    "id": 167923592,
+                    "name": "Cartuxa Pêra-Manca Tinto 2021",
+                    "seo_name": "cartuxa-pera-manca-tinto-2021",
+                    "statistics": {
+                        "labels_count": 26,
+                        "ratings_average": 0,
+                        "ratings_count": 1,
+                        "reviews_count": 0,
+                        "status": "BelowThreshold"
+                    },
+                    "year": 2021
+                },
+                {
+                    "grapes": null,
+                    "has_valid_ratings": true,
+                    "id": 162949855,
+                    "name": "Cartuxa Pêra-Manca Tinto 2020",
+                    "seo_name": "cartuxa-pera-manca-tinto-2020",
+                    "statistics": {
+                        "labels_count": 1160,
+                        "ratings_average": 4.8,
+                        "ratings_count": 59,
+                        "reviews_count": 11,
+                        "status": "Normal"
+                    },
+                    "year": 2020
+                },
+                {
+                    "grapes": null,
+                    "has_valid_ratings": true,
+                    "id": 159389420,
+                    "name": "Cartuxa Pêra-Manca Tinto 2019",
+                    "seo_name": "cartuxa-pera-manca-tinto-2019",
+                    "statistics": {
+                        "labels_count": 3117,
+                        "ratings_average": 4.7,
+                        "ratings_count": 155,
+                        "reviews_count": 38,
+                        "status": "Normal"
+                    },
+                    "year": 2019
+                },
+                {
+                    "grapes": null,
+                    "has_valid_ratings": true,
+                    "id": 156095416,
+                    "name": "Cartuxa Pêra-Manca Tinto 2018",
+                    "seo_name": "cartuxa-pera-manca-tinto-2018",
+                    "statistics": {
+                        "labels_count": 1920,
+                        "ratings_average": 4.7,
+                        "ratings_count": 106,
+                        "reviews_count": 21,
+                        "status": "Normal"
+                    },
+                    "year": 2018
+                },
+                {
+                    "grapes": null,
+                    "has_valid_ratings": true,
+                    "id": 150286756,
+                    "name": "Cartuxa Pêra-Manca Tinto 2017",
+                    "seo_name": "cartuxa-pera-manca-tinto-2017",
+                    "statistics": {
+                        "labels_count": 2043,
+                        "ratings_average": 4.7,
+                        "ratings_count": 185,
+                        "reviews_count": 63,
+                        "status": "Normal"
+                    },
+                    "year": 2017
+                },
+                {
+                    "grapes": null,
+                    "has_valid_ratings": true,
+                    "id": 84967798,
+                    "name": "Cartuxa Pêra-Manca Tinto 2016",
+                    "seo_name": "cartuxa-pera-manca-tinto-2016",
+                    "statistics": {
+                        "labels_count": 4579,
+                        "ratings_average": 4.8,
+                        "ratings_count": 362,
+                        "reviews_count": 117,
+                        "status": "Normal"
+                    },
+                    "year": 2016
+                },
+                {
+                    "grapes": null,
+                    "has_valid_ratings": true,
+                    "id": 14188383,
+                    "name": "Cartuxa Pêra-Manca Tinto 2015",
+                    "seo_name": "cartuxa-pera-manca-tinto-2015",
+                    "statistics": {
+                        "labels_count": 12829,
+                        "ratings_average": 4.7,
+                        "ratings_count": 1291,
+                        "reviews_count": 368,
+                        "status": "Normal"
+                    },
+                    "year": 2015
+                },
+                {
+                    "grapes": null,
+                    "has_valid_ratings": true,
+                    "id": 7610178,
+                    "name": "Cartuxa Pêra-Manca Tinto 2014",
+                    "seo_name": "cartuxa-pera-manca-tinto-2014",
+                    "statistics": {
+                        "labels_count": 19838,
+                        "ratings_average": 4.7,
+                        "ratings_count": 1840,
+                        "reviews_count": 541,
+                        "status": "Normal"
+                    },
+                    "year": 2014
+                },
+                {
+                    "grapes": null,
+                    "has_valid_ratings": true,
+                    "id": 7565990,
+                    "name": "Cartuxa Pêra-Manca Tinto 2013",
+                    "seo_name": "cartuxa-pera-manca-tinto-2013",
+                    "statistics": {
+                        "labels_count": 16484,
+                        "ratings_average": 4.7,
+                        "ratings_count": 2103,
+                        "reviews_count": 743,
+                        "status": "Normal"
+                    },
+                    "year": 2013
+                },
+                {
+                    "grapes": null,
+                    "has_valid_ratings": true,
+                    "id": 7565165,
+                    "name": "Cartuxa Pêra-Manca Tinto 2012",
+                    "seo_name": "cartuxa-pera-manca-tinto-2012",
+                    "statistics": {
+                        "labels_count": 2499,
+                        "ratings_average": 4.5,
+                        "ratings_count": 590,
+                        "reviews_count": 179,
+                        "status": "Normal"
+                    },
+                    "year": 2012
+                },
+                {
+                    "grapes": null,
+                    "has_valid_ratings": true,
+                    "id": 7789873,
+                    "name": "Cartuxa Pêra-Manca Tinto 2011",
+                    "seo_name": "cartuxa-pera-manca-tinto-2011",
+                    "statistics": {
+                        "labels_count": 22860,
+                        "ratings_average": 4.7,
+                        "ratings_count": 4132,
+                        "reviews_count": 1290,
+                        "status": "Normal"
+                    },
+                    "year": 2011
+                },
+                {
+                    "grapes": null,
+                    "has_valid_ratings": true,
+                    "id": 7541000,
+                    "name": "Cartuxa Pêra-Manca Tinto 2010",
+                    "seo_name": "cartuxa-pera-manca-tinto-2010",
+                    "statistics": {
+                        "labels_count": 14151,
+                        "ratings_average": 4.7,
+                        "ratings_count": 2943,
+                        "reviews_count": 1033,
+                        "status": "Normal"
+                    },
+                    "year": 2010
+                },
+                {
+                    "grapes": null,
+                    "has_valid_ratings": true,
+                    "id": 7608297,
+                    "name": "Cartuxa Pêra-Manca Tinto 2009",
+                    "seo_name": "cartuxa-pera-manca-tinto-2009",
+                    "statistics": {
+                        "labels_count": 2382,
+                        "ratings_average": 4.6,
+                        "ratings_count": 631,
+                        "reviews_count": 155,
+                        "status": "Normal"
+                    },
+                    "year": 2009
+                },
+                {
+                    "grapes": null,
+                    "has_valid_ratings": true,
+                    "id": 7582013,
+                    "name": "Cartuxa Pêra-Manca Tinto 2008",
+                    "seo_name": "cartuxa-pera-manca-tinto-2008",
+                    "statistics": {
+                        "labels_count": 15121,
+                        "ratings_average": 4.7,
+                        "ratings_count": 3467,
+                        "reviews_count": 1158,
+                        "status": "Normal"
+                    },
+                    "year": 2008
+                },
+                {
+                    "grapes": null,
+                    "has_valid_ratings": true,
+                    "id": 7608310,
+                    "name": "Cartuxa Pêra-Manca Tinto 2007",
+                    "seo_name": "cartuxa-pera-manca-tinto-2007",
+                    "statistics": {
+                        "labels_count": 7818,
+                        "ratings_average": 4.7,
+                        "ratings_count": 1808,
+                        "reviews_count": 471,
+                        "status": "Normal"
+                    },
+                    "year": 2007
+                },
+                {
+                    "grapes": null,
+                    "has_valid_ratings": true,
+                    "id": 8311546,
+                    "name": "Cartuxa Pêra-Manca Tinto 2006",
+                    "seo_name": "cartuxa-pera-manca-tinto-2006",
+                    "statistics": {
+                        "labels_count": 432,
+                        "ratings_average": 4.5,
+                        "ratings_count": 78,
+                        "reviews_count": 19,
+                        "status": "Normal"
+                    },
+                    "year": 2006
+                },
+                {
+                    "grapes": null,
+                    "has_valid_ratings": true,
+                    "id": 8311529,
+                    "name": "Cartuxa Pêra-Manca Tinto 2005",
+                    "seo_name": "cartuxa-pera-manca-tinto-2005",
+                    "statistics": {
+                        "labels_count": 6456,
+                        "ratings_average": 4.7,
+                        "ratings_count": 1335,
+                        "reviews_count": 421,
+                        "status": "Normal"
+                    },
+                    "year": 2005
+                },
+                {
+                    "grapes": null,
+                    "has_valid_ratings": true,
+                    "id": 8226437,
+                    "name": "Cartuxa Pêra-Manca Tinto 2004",
+                    "seo_name": "cartuxa-pera-manca-tinto-2004",
+                    "statistics": {
+                        "labels_count": 112,
+                        "ratings_average": 4.5,
+                        "ratings_count": 27,
+                        "reviews_count": 9,
+                        "status": "Normal"
+                    },
+                    "year": 2004
+                },
+                {
+                    "grapes": null,
+                    "has_valid_ratings": true,
+                    "id": 1314420,
+                    "name": "Cartuxa Pêra-Manca Tinto 2003",
+                    "seo_name": "cartuxa-pera-manca-tinto-2003",
+                    "statistics": {
+                        "labels_count": 4452,
+                        "ratings_average": 4.6,
+                        "ratings_count": 777,
+                        "reviews_count": 221,
+                        "status": "Normal"
+                    },
+                    "year": 2003
+                },
+                {
+                    "grapes": null,
+                    "has_valid_ratings": true,
+                    "id": 1373095,
+                    "name": "Cartuxa Pêra-Manca Tinto 2002",
+                    "seo_name": "cartuxa-pera-manca-tinto-2002",
+                    "statistics": {
+                        "labels_count": 234,
+                        "ratings_average": 4.7,
+                        "ratings_count": 40,
+                        "reviews_count": 12,
+                        "status": "Normal"
+                    },
+                    "year": 2002
+                },
+                {
+                    "grapes": null,
+                    "has_valid_ratings": true,
+                    "id": 8436128,
+                    "name": "Cartuxa Pêra-Manca Tinto 2001",
+                    "seo_name": "cartuxa-pera-manca-tinto-2001",
+                    "statistics": {
+                        "labels_count": 4526,
+                        "ratings_average": 4.7,
+                        "ratings_count": 781,
+                        "reviews_count": 230,
+                        "status": "Normal"
+                    },
+                    "year": 2001
+                },
+                {
+                    "grapes": null,
+                    "has_valid_ratings": true,
+                    "id": 7610206,
+                    "name": "Cartuxa Pêra-Manca Tinto 2000",
+                    "seo_name": "cartuxa-pera-manca-tinto-2000",
+                    "statistics": {
+                        "labels_count": 468,
+                        "ratings_average": 4.7,
+                        "ratings_count": 80,
+                        "reviews_count": 11,
+                        "status": "Normal"
+                    },
+                    "year": 2000
+                },
+                {
+                    "grapes": null,
+                    "has_valid_ratings": false,
+                    "id": 8540473,
+                    "name": "Cartuxa Pêra-Manca Tinto 1999",
+                    "seo_name": "cartuxa-pera-manca-tinto-1999",
+                    "statistics": {
+                        "labels_count": 41,
+                        "ratings_average": 0,
+                        "ratings_count": 9,
+                        "reviews_count": 2,
+                        "status": "BelowThreshold"
+                    },
+                    "year": 1999
+                },
+                {
+                    "grapes": null,
+                    "has_valid_ratings": true,
+                    "id": 8532133,
+                    "name": "Cartuxa Pêra-Manca Tinto 1998",
+                    "seo_name": "cartuxa-pera-manca-tinto-1998",
+                    "statistics": {
+                        "labels_count": 2513,
+                        "ratings_average": 4.8,
+                        "ratings_count": 393,
+                        "reviews_count": 120,
+                        "status": "Normal"
+                    },
+                    "year": 1998
+                },
+                {
+                    "grapes": null,
+                    "has_valid_ratings": true,
+                    "id": 8796811,
+                    "name": "Cartuxa Pêra-Manca Tinto 1997",
+                    "seo_name": "cartuxa-pera-manca-tinto-1997",
+                    "statistics": {
+                        "labels_count": 2260,
+                        "ratings_average": 4.7,
+                        "ratings_count": 388,
+                        "reviews_count": 121,
+                        "status": "Normal"
+                    },
+                    "year": 1997
+                },
+                {
+                    "grapes": null,
+                    "has_valid_ratings": false,
+                    "id": 6372966,
+                    "name": "Cartuxa Pêra-Manca Tinto 1996",
+                    "seo_name": "cartuxa-pera-manca-tinto-1996",
+                    "statistics": {
+                        "labels_count": 122,
+                        "ratings_average": 0,
+                        "ratings_count": 23,
+                        "reviews_count": 3,
+                        "status": "BelowThreshold"
+                    },
+                    "year": 1996
+                },
+                {
+                    "grapes": null,
+                    "has_valid_ratings": true,
+                    "id": 1386673,
+                    "name": "Cartuxa Pêra-Manca Tinto 1995",
+                    "seo_name": "cartuxa-pera-manca-tinto-1995",
+                    "statistics": {
+                        "labels_count": 1335,
+                        "ratings_average": 4.8,
+                        "ratings_count": 253,
+                        "reviews_count": 88,
+                        "status": "Normal"
+                    },
+                    "year": 1995
+                },
+                {
+                    "grapes": null,
+                    "has_valid_ratings": true,
+                    "id": 1385662,
+                    "name": "Cartuxa Pêra-Manca Tinto 1994",
+                    "seo_name": "cartuxa-pera-manca-tinto-1994",
+                    "statistics": {
+                        "labels_count": 837,
+                        "ratings_average": 4.7,
+                        "ratings_count": 128,
+                        "reviews_count": 45,
+                        "status": "Normal"
+                    },
+                    "year": 1994
+                },
+                {
+                    "grapes": null,
+                    "has_valid_ratings": false,
+                    "id": 2371937,
+                    "name": "Cartuxa Pêra-Manca Tinto 1993",
+                    "seo_name": "cartuxa-pera-manca-tinto-1993",
+                    "statistics": {
+                        "labels_count": 14,
+                        "ratings_average": 0,
+                        "ratings_count": 2,
+                        "reviews_count": 0,
+                        "status": "BelowThreshold"
+                    },
+                    "year": 1993
+                },
+                {
+                    "grapes": null,
+                    "has_valid_ratings": false,
+                    "id": 2040558,
+                    "name": "Cartuxa Pêra-Manca Tinto 1992",
+                    "seo_name": "cartuxa-pera-manca-tinto-1992",
+                    "statistics": {
+                        "labels_count": 7,
+                        "ratings_average": 0,
+                        "ratings_count": 1,
+                        "reviews_count": 0,
+                        "status": "BelowThreshold"
+                    },
+                    "year": 1992
+                },
+                {
+                    "grapes": null,
+                    "has_valid_ratings": true,
+                    "id": 1494464,
+                    "name": "Cartuxa Pêra-Manca Tinto 1991",
+                    "seo_name": "cartuxa-pera-manca-tinto-1991",
+                    "statistics": {
+                        "labels_count": 830,
+                        "ratings_average": 4.7,
+                        "ratings_count": 129,
+                        "reviews_count": 40,
+                        "status": "Normal"
+                    },
+                    "year": 1991
+                },
+                {
+                    "grapes": null,
+                    "has_valid_ratings": true,
+                    "id": 1407719,
+                    "name": "Cartuxa Pêra-Manca Tinto 1990",
+                    "seo_name": "cartuxa-pera-manca-tinto-1990",
+                    "statistics": {
+                        "labels_count": 552,
+                        "ratings_average": 4.8,
+                        "ratings_count": 117,
+                        "reviews_count": 37,
+                        "status": "Normal"
+                    },
+                    "year": 1990
+                },
+                {
+                    "grapes": null,
+                    "has_valid_ratings": false,
+                    "id": 2925667,
+                    "name": "Cartuxa Pêra-Manca Tinto 1989",
+                    "seo_name": "cartuxa-pera-manca-tinto-1989",
+                    "statistics": {
+                        "labels_count": 54,
+                        "ratings_average": 0,
+                        "ratings_count": 5,
+                        "reviews_count": 1,
+                        "status": "BelowThreshold"
+                    },
+                    "year": 1989
+                },
+                {
+                    "grapes": null,
+                    "has_valid_ratings": false,
+                    "id": 1531211,
+                    "name": "Cartuxa Pêra-Manca Tinto 1987",
+                    "seo_name": "cartuxa-pera-manca-tinto-1987",
+                    "statistics": {
+                        "labels_count": 6,
+                        "ratings_average": 0,
+                        "ratings_count": 2,
+                        "reviews_count": 0,
+                        "status": "BelowThreshold"
+                    },
+                    "year": 1987
+                },
+                {
+                    "grapes": null,
+                    "has_valid_ratings": false,
+                    "id": 8170893,
+                    "name": "Cartuxa Pêra-Manca Tinto 1985",
+                    "seo_name": "cartuxa-pera-manca-tinto-1985",
+                    "statistics": {
+                        "labels_count": 3,
+                        "ratings_average": 0,
+                        "ratings_count": 2,
+                        "reviews_count": 1,
+                        "status": "BelowThreshold"
+                    },
+                    "year": 1985
+                },
+                {
+                    "grapes": null,
+                    "has_valid_ratings": false,
+                    "id": 3215014,
+                    "name": "Cartuxa Pêra-Manca Tinto 1982",
+                    "seo_name": "cartuxa-pera-manca-tinto-1982",
+                    "statistics": {
+                        "labels_count": 1,
+                        "ratings_average": 0,
+                        "ratings_count": 1,
+                        "reviews_count": 0,
+                        "status": "BelowThreshold"
+                    },
+                    "year": 1982
+                },
+                {
+                    "grapes": null,
+                    "has_valid_ratings": false,
+                    "id": 3010069,
+                    "name": "Cartuxa Pêra-Manca Tinto 1980",
+                    "seo_name": "cartuxa-pera-manca-tinto-1980",
+                    "statistics": {
+                        "labels_count": 10,
+                        "ratings_average": 0,
+                        "ratings_count": 1,
+                        "reviews_count": 0,
+                        "status": "BelowThreshold"
+                    },
+                    "year": 1980
+                },
+                {
+                    "grapes": null,
+                    "has_valid_ratings": false,
+                    "id": 4447605,
+                    "name": "Cartuxa Pêra-Manca Tinto 1978",
+                    "seo_name": "cartuxa-pera-manca-tinto-1978",
+                    "statistics": {
+                        "labels_count": 21,
+                        "ratings_average": 0,
+                        "ratings_count": 1,
+                        "reviews_count": 0,
+                        "status": "BelowThreshold"
+                    },
+                    "year": 1978
+                },
+                {
+                    "grapes": null,
+                    "has_valid_ratings": false,
+                    "id": 12288237,
+                    "name": "Cartuxa Pêra-Manca Tinto 1977",
+                    "seo_name": "cartuxa-pera-manca-tinto-1977",
+                    "statistics": {
+                        "labels_count": 78,
+                        "ratings_average": 0,
+                        "ratings_count": 5,
+                        "reviews_count": 3,
+                        "status": "BelowThreshold"
+                    },
+                    "year": 1977
+                },
+                {
+                    "grapes": null,
+                    "has_valid_ratings": true,
+                    "id": 2560493,
+                    "name": "Cartuxa Pêra-Manca Tinto 1975",
+                    "seo_name": "cartuxa-pera-manca-tinto-1975",
+                    "statistics": {
+                        "labels_count": 294,
+                        "ratings_average": 4.6,
+                        "ratings_count": 37,
+                        "reviews_count": 13,
+                        "status": "Normal"
+                    },
+                    "year": 1975
+                },
+                {
+                    "grapes": null,
+                    "has_valid_ratings": false,
+                    "id": 11259783,
+                    "name": "Cartuxa Pêra-Manca Tinto 1972",
+                    "seo_name": "cartuxa-pera-manca-tinto-1972",
+                    "statistics": {
+                        "labels_count": 0,
+                        "ratings_average": 0,
+                        "ratings_count": 1,
+                        "reviews_count": 0,
+                        "status": "BelowThreshold"
+                    },
+                    "year": 1972
+                },
+                {
+                    "grapes": null,
+                    "has_valid_ratings": false,
+                    "id": 2709742,
+                    "name": "Cartuxa Pêra-Manca Tinto 1971",
+                    "seo_name": "cartuxa-pera-manca-tinto-1971",
+                    "statistics": {
+                        "labels_count": 35,
+                        "ratings_average": 0,
+                        "ratings_count": 4,
+                        "reviews_count": 0,
+                        "status": "BelowThreshold"
+                    },
+                    "year": 1971
+                },
+                {
+                    "grapes": null,
+                    "has_valid_ratings": false,
+                    "id": 4447558,
+                    "name": "Cartuxa Pêra-Manca Tinto 1970",
+                    "seo_name": "cartuxa-pera-manca-tinto-1970",
+                    "statistics": {
+                        "labels_count": 14,
+                        "ratings_average": 0,
+                        "ratings_count": 1,
+                        "reviews_count": 0,
+                        "status": "BelowThreshold"
+                    },
+                    "year": 1970
+                },
+                {
+                    "grapes": null,
+                    "has_valid_ratings": false,
+                    "id": 16278128,
+                    "name": "Cartuxa Pêra-Manca Tinto 1961",
+                    "seo_name": "cartuxa-pera-manca-tinto-1961",
+                    "statistics": {
+                        "labels_count": 10,
+                        "ratings_average": 0,
+                        "ratings_count": 1,
+                        "reviews_count": 0,
+                        "status": "BelowThreshold"
+                    },
+                    "year": 1961
+                },
+                {
+                    "grapes": null,
+                    "has_valid_ratings": false,
+                    "id": 7964216,
+                    "name": "Cartuxa Pêra-Manca Tinto 1790",
+                    "seo_name": "cartuxa-pera-manca-tinto-1790",
+                    "statistics": {
+                        "labels_count": 3,
+                        "ratings_average": 0,
+                        "ratings_count": 3,
+                        "reviews_count": 0,
+                        "status": "BelowThreshold"
+                    },
+                    "year": 1790
+                },
+                {
+                    "grapes": null,
+                    "has_valid_ratings": true,
+                    "id": 7524628,
+                    "name": "Cartuxa Pêra-Manca Tinto",
+                    "seo_name": "cartuxa-pera-manca-tinto-uv",
+                    "statistics": {
+                        "labels_count": 868,
+                        "ratings_average": 4.7,
+                        "ratings_count": 26115,
+                        "reviews_count": 497,
+                        "status": "Normal"
+                    },
+                    "year": 0
+                }
+            ],
+            "winery": {
+                "address": {
+                    "addition": null,
+                    "city": "Evora",
+                    "company": null,
+                    "country": null,
+                    "external_id": null,
+                    "name": null,
+                    "neighborhood": null,
+                    "phone": null,
+                    "residential": null,
+                    "state": null,
+                    "street": null,
+                    "street2": null,
+                    "title": null,
+                    "vat_code": null,
+                    "vat_number": null,
+                    "zip": "7005-003"
+                },
+                "background_image": null,
+                "business_name": "Adega Cartuxa (Fundacao Eugenio de Almeida)",
+                "description": "",
+                "email": "apoio.cliente@fea.pt",
+                "facebook": "https://www.facebook.com/cartuxa",
+                "first_wines": [],
+                "id": 10992,
+                "image": {
+                    "location": "//images.vivino.com/wineries/10992/logos/B9999B-zQwa1LNw4VzMNQA.png",
+                    "variations": {
+                        "large": "//thumbs.vivino.com/wineries/10992/logos/B9999B-zQwa1LNw4VzMNQA_500x500.png",
+                        "medium": "//thumbs.vivino.com/wineries/10992/logos/B9999B-zQwa1LNw4VzMNQA_200x200.png",
+                        "small_square": "//thumbs.vivino.com/wineries/10992/logos/B9999B-zQwa1LNw4VzMNQA_80x80.png"
+                    }
+                },
+                "instagram": "@adegacartuxa",
+                "is_claimed": false,
+                "location": {
+                    "latitude": 38.585835,
+                    "longitude": -7.919431
+                },
+                "name": "Cartuxa",
+                "phone": "351 266 748 300",
+                "region": {
+                    "background_image": null,
+                    "country": {
+                        "code": "pt",
+                        "currency": {
+                            "code": "EUR",
+                            "name": "Euros",
+                            "prefix": "€",
+                            "suffix": null
+                        },
+                        "most_used_grapes": [
+                            {
+                                "has_detailed_info": true,
+                                "id": 67,
+                                "name": "Touriga Nacional",
+                                "parent_grape_id": null,
+                                "seo_name": "touriga-nacional",
+                                "wines_count": 85787
+                            },
+                            {
+                                "has_detailed_info": false,
+                                "id": 69,
+                                "name": "Tinta Roriz",
+                                "parent_grape_id": 19,
+                                "seo_name": "tinta-roriz",
+                                "wines_count": 41047
+                            },
+                            {
+                                "has_detailed_info": false,
+                                "id": 68,
+                                "name": "Touriga Franca",
+                                "parent_grape_id": null,
+                                "seo_name": "touriga-franca",
+                                "wines_count": 33763
+                            }
+                        ],
+                        "name": "Portugal",
+                        "native_name": "Portugal",
+                        "regions_count": 93,
+                        "seo_name": "portugal",
+                        "users_count": 1152523,
+                        "wineries_count": 5878,
+                        "wines_count": 40712
+                    },
+                    "id": 2071,
+                    "name": "Evora",
+                    "name_en": "",
+                    "parent_id": 1395,
+                    "seo_name": "evora",
+                    "statistics": {
+                        "parent_regions_count": 2,
+                        "sub_regions_count": 0,
+                        "wineries_count": 8,
+                        "wines_count": 32
+                    }
+                },
+                "review_status": "Completed",
+                "seo_name": "cartuxa",
+                "specialists_notes": "",
+
+                "sponsored_entity": null,
+                "sponsored_entity_type": null,
+                "statistics": {
+                    "labels_count": 1778610,
+                    "ratings_average": 4.1,
+                    "ratings_count": 292067,
+                    "wines_count": 38
+                },
+                "status": 0,
+                "twitter": "@ADEGACARTUXA",
+                "website": "http://www.cartuxa.pt/",
+                "wine_maker": {
+                    "id": 12690,
+                    "name": "Cartuxa"
+                },
+                "winemaker": "Cartuxa",
+                "winery_group": null
+            }
+        }
+    },
+    "winePageInformation": null,
+    "reviews": [
+        {
+            "activity": {
+                "id": 682983573,
+                "statistics": {
+                    "comments_count": 0,
+                    "likes_count": 0
+                }
+            },
+            "aggregated": true,
+            "created_at": "2022-11-26T00:01:34.000Z",
+            "id": 261295963,
+            "language": "en",
+            "note": "Beautifully balanced tannins, jammy. Will age beautifully ",
+            "rating": 4.5,
+            "tagged_note": "Beautifully balanced tannins, jammy. Will age beautifully ",
+            "user": {
+                "alias": "Sandy Olewine",
+                "background_image": {
+                    "location": "//images.vivino.com/users/backgrounds/default_1.jpg",
+                    "variations": {
+                        "large": "//images.vivino.com/users/backgrounds/default_1_1200x400.jpg",
+                        "medium": "//images.vivino.com/users/backgrounds/default_1_600x200.jpg",
+                        "small": "//images.vivino.com/users/backgrounds/default_1_140x60.jpg"
+                    }
+                },
+                "id": 4601884,
+                "image": {
+                    "location": "//images.vivino.com/avatars/default_user.png",
+                    "variations": null
+                },
+                "is_featured": false,
+                "is_premium": false,
+                "language": "en",
+                "seo_name": "sandy.ole",
+                "statistics": {
+                    "followers_count": 3,
+                    "followings_count": 2,
+                    "purchase_order_count": 0,
+                    "ratings_count": 240,
+                    "ratings_sum": 948.1,
+                    "reviews_count": 107
+                },
+                "visibility": "all"
+            },
+            "vintage": {
+                "certified_biodynamic": null,
+                "grapes": null,
+                "has_valid_ratings": true,
+                "id": 4708084,
+                "image": {
+                    "location": "//images.vivino.com/thumbs/DA1-mZPcRZq6H8x82JVaHw_pl_480x640.png",
+                    "variations": {
+                        "bottle_large": "//images.vivino.com/thumbs/DA1-mZPcRZq6H8x82JVaHw_pb_x960.png",
+                        "bottle_medium": "//images.vivino.com/thumbs/DA1-mZPcRZq6H8x82JVaHw_pb_x600.png",
+                        "bottle_medium_square": "//images.vivino.com/thumbs/DA1-mZPcRZq6H8x82JVaHw_pb_600x600.png",
+                        "bottle_small": "//images.vivino.com/thumbs/DA1-mZPcRZq6H8x82JVaHw_pb_x300.png",
+                        "bottle_small_square": "//images.vivino.com/thumbs/DA1-mZPcRZq6H8x82JVaHw_pb_300x300.png",
+                        "label": "//images.vivino.com/thumbs/DA1-mZPcRZq6H8x82JVaHw_pl_480x640.png",
+                        "label_large": "//images.vivino.com/thumbs/DA1-mZPcRZq6H8x82JVaHw_pl_375x500.png",
+                        "label_medium": "//images.vivino.com/thumbs/DA1-mZPcRZq6H8x82JVaHw_pl_150x200.png",
+                        "label_medium_square": "//images.vivino.com/thumbs/DA1-mZPcRZq6H8x82JVaHw_pl_150x150.png",
+                        "label_small_square": "//images.vivino.com/thumbs/DA1-mZPcRZq6H8x82JVaHw_pl_80x80.png",
+                        "large": "//images.vivino.com/thumbs/DA1-mZPcRZq6H8x82JVaHw_pl_375x500.png",
+                        "medium": "//images.vivino.com/thumbs/DA1-mZPcRZq6H8x82JVaHw_pl_150x200.png",
+                        "medium_square": "//images.vivino.com/thumbs/DA1-mZPcRZq6H8x82JVaHw_pl_150x150.png",
+                        "small_square": "//images.vivino.com/thumbs/DA1-mZPcRZq6H8x82JVaHw_pl_80x80.png"
+                    }
+                },
+                "name": "Wiens Family Cellars Chateau Grand Rouge U.V.",
+                "organic_certification_id": null,
+                "seo_name": "wiens-family-cellars-chateau-grand-rouge-riverside-county-south-coast-uv",
+                "statistics": {
+                    "labels_count": 0,
+                    "ratings_average": 4.5,
+                    "ratings_count": 302,
+                    "reviews_count": 6,
+                    "status": "Normal"
+                },
+                "wine": {
+                    "has_valid_ratings": false,
+                    "id": 1499262,
+                    "is_natural": false,
+                    "name": "Chateau Grand Rouge",
+                    "region": {
+                        "background_image": null,
+                        "class": {
+                            "typecast_map": {
+                                "background_image": [],
+                                "class": []
+                            }
+                        },
+                        "country": {
+                            "code": "us",
+                            "currency": {
+                                "code": "USD",
+                                "name": "US Dollars",
+                                "prefix": "$",
+                                "suffix": null
+                            },
+                            "most_used_grapes": [
+                                {
+                                    "has_detailed_info": true,
+                                    "id": 2,
+                                    "name": "Cabernet Sauvignon",
+                                    "parent_grape_id": null,
+                                    "seo_name": "cabernet-sauvignon",
+                                    "wines_count": 801751
+                                },
+                                {
+                                    "has_detailed_info": true,
+                                    "id": 14,
+                                    "name": "Pinot Noir",
+                                    "parent_grape_id": null,
+                                    "seo_name": "pinot-noir",
+                                    "wines_count": 572334
+                                },
+                                {
+                                    "has_detailed_info": true,
+                                    "id": 5,
+                                    "name": "Chardonnay",
+                                    "parent_grape_id": null,
+                                    "seo_name": "chardonnay",
+                                    "wines_count": 604208
+                                }
+                            ],
+                            "name": "United States",
+                            "native_name": "United States",
+                            "regions_count": 364,
+                            "seo_name": "united-states",
+                            "users_count": 12517400,
+                            "wineries_count": 28252,
+                            "wines_count": 206882
+                        },
+                        "id": 144,
+                        "name": "Riverside County",
+                        "name_en": "",
+                        "parent_id": 64,
+                        "seo_name": "riverside-county",
+                        "statistics": {
+                            "parent_regions_count": 2,
+                            "sub_regions_count": 0,
+                            "wineries_count": 0,
+                            "wines_count": 35
+                        }
+                    },
+                    "review_status": 2,
+                    "seo_name": "chateau-grand-rouge-riverside-county-south-coast",
+                    "style": null,
+                    "type_id": 1,
+                    "vintage_type": 0,
+                    "winery": {
+                        "background_image": {
+                            "location": "//images.vivino.com/wineries/backgrounds/BzF1Xq3RRfqUGwqq1eGFsA.jpeg",
+                            "variations": {
+                                "large": "//thumbs.vivino.com/winery_backgrounds/BzF1Xq3RRfqUGwqq1eGFsA_2560x1520.jpeg",
+                                "medium": "//thumbs.vivino.com/winery_backgrounds/BzF1Xq3RRfqUGwqq1eGFsA_1280x760.jpeg",
+                                "small": "//thumbs.vivino.com/winery_backgrounds/BzF1Xq3RRfqUGwqq1eGFsA_600x356.jpeg"
+                            }
+                        },
+                        "dashboard_url": "https://analytics-pbl.vivino.com/dashboards-next/40",
+                        "id": 602,
+                        "name": "Wiens Family Cellars",
+                        "review_status": "Completed",
+                        "seo_name": "wiens-family-cellars",
+                        "statistics": {
+                            "labels_count": 28952,
+                            "ratings_average": 4.1,
+                            "ratings_count": 5615,
+                            "wines_count": 103
+                        },
+                        "status": 3
+                    }
+                },
+                "year": ""
+            }
+        },
+        {
+            "activity": {
+                "id": 699064272,
+                "statistics": {
+                    "comments_count": 0,
+                    "likes_count": 0
+                }
+            },
+            "aggregated": true,
+            "created_at": "2023-01-10T00:28:09.000Z",
+            "id": 266246184,
+            "language": "en",
+            "note": "Full bodied. Gem of a wine.",
+            "rating": 4.4,
+            "tagged_note": "Full bodied. Gem of a wine.",
+            "user": {
+                "alias": "Melissa Flagg",
+                "background_image": {
+                    "location": "//images.vivino.com/users/backgrounds/default_1.jpg",
+                    "variations": {
+                        "large": "//images.vivino.com/users/backgrounds/default_1_1200x400.jpg",
+                        "medium": "//images.vivino.com/users/backgrounds/default_1_600x200.jpg",
+                        "small": "//images.vivino.com/users/backgrounds/default_1_140x60.jpg"
+                    }
+                },
+                "id": 21505621,
+                "image": {
+                    "location": "//images.vivino.com/avatars/default_user.png",
+                    "variations": null
+                },
+                "is_featured": false,
+                "is_premium": false,
+                "language": "en",
+                "seo_name": "melissa.flagg",
+                "statistics": {
+                    "followers_count": 0,
+                    "followings_count": 0,
+                    "purchase_order_count": 1,
+                    "ratings_count": 5,
+                    "ratings_sum": 22.4,
+                    "reviews_count": 1
+                },
+                "visibility": "all"
+            },
+            "vintage": {
+                "certified_biodynamic": null,
+                "grapes": null,
+                "has_valid_ratings": true,
+                "id": 4708084,
+                "image": {
+                    "location": "//images.vivino.com/thumbs/DA1-mZPcRZq6H8x82JVaHw_pl_480x640.png",
+                    "variations": {
+                        "bottle_large": "//images.vivino.com/thumbs/DA1-mZPcRZq6H8x82JVaHw_pb_x960.png",
+                        "bottle_medium": "//images.vivino.com/thumbs/DA1-mZPcRZq6H8x82JVaHw_pb_x600.png",
+                        "bottle_medium_square": "//images.vivino.com/thumbs/DA1-mZPcRZq6H8x82JVaHw_pb_600x600.png",
+                        "bottle_small": "//images.vivino.com/thumbs/DA1-mZPcRZq6H8x82JVaHw_pb_x300.png",
+                        "bottle_small_square": "//images.vivino.com/thumbs/DA1-mZPcRZq6H8x82JVaHw_pb_300x300.png",
+                        "label": "//images.vivino.com/thumbs/DA1-mZPcRZq6H8x82JVaHw_pl_480x640.png",
+                        "label_large": "//images.vivino.com/thumbs/DA1-mZPcRZq6H8x82JVaHw_pl_375x500.png",
+                        "label_medium": "//images.vivino.com/thumbs/DA1-mZPcRZq6H8x82JVaHw_pl_150x200.png",
+                        "label_medium_square": "//images.vivino.com/thumbs/DA1-mZPcRZq6H8x82JVaHw_pl_150x150.png",
+                        "label_small_square": "//images.vivino.com/thumbs/DA1-mZPcRZq6H8x82JVaHw_pl_80x80.png",
+                        "large": "//images.vivino.com/thumbs/DA1-mZPcRZq6H8x82JVaHw_pl_375x500.png",
+                        "medium": "//images.vivino.com/thumbs/DA1-mZPcRZq6H8x82JVaHw_pl_150x200.png",
+                        "medium_square": "//images.vivino.com/thumbs/DA1-mZPcRZq6H8x82JVaHw_pl_150x150.png",
+                        "small_square": "//images.vivino.com/thumbs/DA1-mZPcRZq6H8x82JVaHw_pl_80x80.png"
+                    }
+                },
+                "name": "Wiens Family Cellars Chateau Grand Rouge U.V.",
+                "organic_certification_id": null,
+                "seo_name": "wiens-family-cellars-chateau-grand-rouge-riverside-county-south-coast-uv",
+                "statistics": {
+                    "labels_count": 0,
+                    "ratings_average": 4.5,
+                    "ratings_count": 302,
+                    "reviews_count": 6,
+                    "status": "Normal"
+                },
+                "wine": {
+                    "has_valid_ratings": false,
+                    "id": 1499262,
+                    "is_natural": false,
+                    "name": "Chateau Grand Rouge",
+                    "region": {
+                        "background_image": null,
+                        "class": {
+                            "typecast_map": {
+                                "background_image": [],
+                                "class": []
+                            }
+                        },
+                        "country": {
+                            "code": "us",
+                            "currency": {
+                                "code": "USD",
+                                "name": "US Dollars",
+                                "prefix": "$",
+                                "suffix": null
+                            },
+                            "most_used_grapes": [
+                                {
+                                    "has_detailed_info": true,
+                                    "id": 2,
+                                    "name": "Cabernet Sauvignon",
+                                    "parent_grape_id": null,
+                                    "seo_name": "cabernet-sauvignon",
+                                    "wines_count": 801751
+                                },
+                                {
+                                    "has_detailed_info": true,
+                                    "id": 14,
+                                    "name": "Pinot Noir",
+                                    "parent_grape_id": null,
+                                    "seo_name": "pinot-noir",
+                                    "wines_count": 572334
+                                },
+                                {
+                                    "has_detailed_info": true,
+                                    "id": 5,
+                                    "name": "Chardonnay",
+                                    "parent_grape_id": null,
+                                    "seo_name": "chardonnay",
+                                    "wines_count": 604208
+                                }
+                            ],
+                            "name": "United States",
+                            "native_name": "United States",
+                            "regions_count": 364,
+                            "seo_name": "united-states",
+                            "users_count": 12517400,
+                            "wineries_count": 28252,
+                            "wines_count": 206882
+                        },
+                        "id": 144,
+                        "name": "Riverside County",
+                        "name_en": "",
+                        "parent_id": 64,
+                        "seo_name": "riverside-county",
+                        "statistics": {
+                            "parent_regions_count": 2,
+                            "sub_regions_count": 0,
+                            "wineries_count": 0,
+                            "wines_count": 35
+                        }
+                    },
+                    "review_status": 2,
+                    "seo_name": "chateau-grand-rouge-riverside-county-south-coast",
+                    "style": null,
+                    "type_id": 1,
+                    "vintage_type": 0,
+                    "winery": {
+                        "background_image": {
+                            "location": "//images.vivino.com/wineries/backgrounds/BzF1Xq3RRfqUGwqq1eGFsA.jpeg",
+                            "variations": {
+                                "large": "//thumbs.vivino.com/winery_backgrounds/BzF1Xq3RRfqUGwqq1eGFsA_2560x1520.jpeg",
+                                "medium": "//thumbs.vivino.com/winery_backgrounds/BzF1Xq3RRfqUGwqq1eGFsA_1280x760.jpeg",
+                                "small": "//thumbs.vivino.com/winery_backgrounds/BzF1Xq3RRfqUGwqq1eGFsA_600x356.jpeg"
+                            }
+                        },
+                        "dashboard_url": "https://analytics-pbl.vivino.com/dashboards-next/40",
+                        "id": 602,
+                        "name": "Wiens Family Cellars",
+                        "review_status": "Completed",
+                        "seo_name": "wiens-family-cellars",
+                        "statistics": {
+                            "labels_count": 28952,
+                            "ratings_average": 4.1,
+                            "ratings_count": 5615,
+                            "wines_count": 103
+                        },
+                        "status": 3
+                    }
+                },
+                "year": ""
+            }
+        },
+        {
+            "activity": {
+                "id": 553201565,
+                "statistics": {
+                    "comments_count": 0,
+                    "likes_count": 0
+                }
+            },
+            "aggregated": true,
+            "created_at": "2021-06-21T20:56:28.000Z",
+            "id": 209089733,
+            "language": "en",
+            "note": "Really good dry yet smooth wine.",
+            "rating": 5,
+            "tagged_note": "Really good dry yet smooth wine.",
+            "user": {
+                "alias": "James Dvorak",
+                "background_image": {
+                    "location": "//images.vivino.com/users/backgrounds/default_1.jpg",
+                    "variations": {
+                        "large": "//images.vivino.com/users/backgrounds/default_1_1200x400.jpg",
+                        "medium": "//images.vivino.com/users/backgrounds/default_1_600x200.jpg",
+                        "small": "//images.vivino.com/users/backgrounds/default_1_140x60.jpg"
+                    }
+                },
+                "id": 30615922,
+                "image": {
+                    "location": "//images.vivino.com/avatars/default_user.png",
+                    "variations": null
+                },
+                "is_featured": false,
+                "is_premium": false,
+                "language": "en",
+                "seo_name": "james.dvorak",
+                "statistics": {
+                    "followers_count": 0,
+                    "followings_count": 0,
+                    "purchase_order_count": 0,
+                    "ratings_count": 3,
+                    "ratings_sum": 14,
+                    "reviews_count": 2
+                },
+                "visibility": "all"
+            },
+            "vintage": {
+                "certified_biodynamic": null,
+                "grapes": null,
+                "has_valid_ratings": true,
+                "id": 4708084,
+                "image": {
+                    "location": "//images.vivino.com/thumbs/DA1-mZPcRZq6H8x82JVaHw_pl_480x640.png",
+                    "variations": {
+                        "bottle_large": "//images.vivino.com/thumbs/DA1-mZPcRZq6H8x82JVaHw_pb_x960.png",
+                        "bottle_medium": "//images.vivino.com/thumbs/DA1-mZPcRZq6H8x82JVaHw_pb_x600.png",
+                        "bottle_medium_square": "//images.vivino.com/thumbs/DA1-mZPcRZq6H8x82JVaHw_pb_600x600.png",
+                        "bottle_small": "//images.vivino.com/thumbs/DA1-mZPcRZq6H8x82JVaHw_pb_x300.png",
+                        "bottle_small_square": "//images.vivino.com/thumbs/DA1-mZPcRZq6H8x82JVaHw_pb_300x300.png",
+                        "label": "//images.vivino.com/thumbs/DA1-mZPcRZq6H8x82JVaHw_pl_480x640.png",
+                        "label_large": "//images.vivino.com/thumbs/DA1-mZPcRZq6H8x82JVaHw_pl_375x500.png",
+                        "label_medium": "//images.vivino.com/thumbs/DA1-mZPcRZq6H8x82JVaHw_pl_150x200.png",
+                        "label_medium_square": "//images.vivino.com/thumbs/DA1-mZPcRZq6H8x82JVaHw_pl_150x150.png",
+                        "label_small_square": "//images.vivino.com/thumbs/DA1-mZPcRZq6H8x82JVaHw_pl_80x80.png",
+                        "large": "//images.vivino.com/thumbs/DA1-mZPcRZq6H8x82JVaHw_pl_375x500.png",
+                        "medium": "//images.vivino.com/thumbs/DA1-mZPcRZq6H8x82JVaHw_pl_150x200.png",
+                        "medium_square": "//images.vivino.com/thumbs/DA1-mZPcRZq6H8x82JVaHw_pl_150x150.png",
+                        "small_square": "//images.vivino.com/thumbs/DA1-mZPcRZq6H8x82JVaHw_pl_80x80.png"
+                    }
+                },
+                "name": "Wiens Family Cellars Chateau Grand Rouge U.V.",
+                "organic_certification_id": null,
+                "seo_name": "wiens-family-cellars-chateau-grand-rouge-riverside-county-south-coast-uv",
+                "statistics": {
+                    "labels_count": 0,
+                    "ratings_average": 4.5,
+                    "ratings_count": 302,
+                    "reviews_count": 6,
+                    "status": "Normal"
+                },
+                "wine": {
+                    "has_valid_ratings": false,
+                    "id": 1499262,
+                    "is_natural": false,
+                    "name": "Chateau Grand Rouge",
+                    "region": {
+                        "background_image": null,
+                        "class": {
+                            "typecast_map": {
+                                "background_image": [],
+                                "class": []
+                            }
+                        },
+                        "country": {
+                            "code": "us",
+                            "currency": {
+                                "code": "USD",
+                                "name": "US Dollars",
+                                "prefix": "$",
+                                "suffix": null
+                            },
+                            "most_used_grapes": [
+                                {
+                                    "has_detailed_info": true,
+                                    "id": 2,
+                                    "name": "Cabernet Sauvignon",
+                                    "parent_grape_id": null,
+                                    "seo_name": "cabernet-sauvignon",
+                                    "wines_count": 801751
+                                },
+                                {
+                                    "has_detailed_info": true,
+                                    "id": 14,
+                                    "name": "Pinot Noir",
+                                    "parent_grape_id": null,
+                                    "seo_name": "pinot-noir",
+                                    "wines_count": 572334
+                                },
+                                {
+                                    "has_detailed_info": true,
+                                    "id": 5,
+                                    "name": "Chardonnay",
+                                    "parent_grape_id": null,
+                                    "seo_name": "chardonnay",
+                                    "wines_count": 604208
+                                }
+                            ],
+                            "name": "United States",
+                            "native_name": "United States",
+                            "regions_count": 364,
+                            "seo_name": "united-states",
+                            "users_count": 12517400,
+                            "wineries_count": 28252,
+                            "wines_count": 206882
+                        },
+                        "id": 144,
+                        "name": "Riverside County",
+                        "name_en": "",
+                        "parent_id": 64,
+                        "seo_name": "riverside-county",
+                        "statistics": {
+                            "parent_regions_count": 2,
+                            "sub_regions_count": 0,
+                            "wineries_count": 0,
+                            "wines_count": 35
+                        }
+                    },
+                    "review_status": 2,
+                    "seo_name": "chateau-grand-rouge-riverside-county-south-coast",
+                    "style": null,
+                    "type_id": 1,
+                    "vintage_type": 0,
+                    "winery": {
+                        "background_image": {
+                            "location": "//images.vivino.com/wineries/backgrounds/BzF1Xq3RRfqUGwqq1eGFsA.jpeg",
+                            "variations": {
+                                "large": "//thumbs.vivino.com/winery_backgrounds/BzF1Xq3RRfqUGwqq1eGFsA_2560x1520.jpeg",
+                                "medium": "//thumbs.vivino.com/winery_backgrounds/BzF1Xq3RRfqUGwqq1eGFsA_1280x760.jpeg",
+                                "small": "//thumbs.vivino.com/winery_backgrounds/BzF1Xq3RRfqUGwqq1eGFsA_600x356.jpeg"
+                            }
+                        },
+                        "dashboard_url": "https://analytics-pbl.vivino.com/dashboards-next/40",
+                        "id": 602,
+                        "name": "Wiens Family Cellars",
+                        "review_status": "Completed",
+                        "seo_name": "wiens-family-cellars",
+                        "statistics": {
+                            "labels_count": 28952,
+                            "ratings_average": 4.1,
+                            "ratings_count": 5615,
+                            "wines_count": 103
+                        },
+                        "status": 3
+                    }
+                },
+                "year": ""
+            }
+        }
+    ],
+    "tastes": {
+        "flavor": [
+            {
+                "group": "oak",
+                "primary_keywords": [
+                    {
+                        "count": 4,
+                        "id": 101,
+                        "name": "chocolate"
+                    },
+                    {
+                        "count": 4,
+                        "id": 292,
+                        "name": "oak"
+                    },
+                    {
+                        "count": 3,
+                        "id": 422,
+                        "name": "tobacco"
+                    },
+                    {
+                        "count": 3,
+                        "id": 83,
+                        "name": "cedar"
+                    },
+                    {
+                        "count": 2,
+                        "id": 112,
+                        "name": "clove"
+                    },
+                    {
+                        "count": 2,
+                        "id": 115,
+                        "name": "coconut"
+                    },
+                    {
+                        "count": 1,
+                        "id": 72,
+                        "name": "butterscotch"
+                    },
+                    {
+                        "count": 1,
+                        "id": 21,
+                        "name": "baking spice"
+                    },
+                    {
+                        "count": 1,
+                        "id": 134,
+                        "name": "dark chocolate"
+                    },
+                    {
+                        "count": 1,
+                        "id": 158,
+                        "name": "espresso"
+                    }
+                ],
+                "secondary_keywords": [
+                    {
+                        "count": 4,
+                        "id": 105,
+                        "name": "cinnamon"
+                    },
+                    {
+                        "count": 4,
+                        "id": 242,
+                        "name": "leather"
+                    },
+                    {
+                        "count": 2,
+                        "id": 384,
+                        "name": "smoke"
+                    },
+                    {
+                        "count": 1,
+                        "id": 14,
+                        "name": "ash"
+                    }
+                ],
+                "stats": {
+                    "count": 17,
+                    "mentions_count": 22,
+                    "score": 2215
+                }
+            },
+            {
+                "group": "black_fruit",
+                "primary_keywords": [
+                    {
+                        "count": 5,
+                        "id": 49,
+                        "name": "blackberry"
+                    },
+                    {
+                        "count": 4,
+                        "id": 334,
+                        "name": "plum"
+                    },
+                    {
+                        "count": 3,
+                        "id": 135,
+                        "name": "dark fruit"
+                    },
+                    {
+                        "count": 2,
+                        "id": 38,
+                        "name": "black cherry"
+                    },
+                    {
+                        "count": 1,
+                        "id": 52,
+                        "name": "blackcurrant"
+                    },
+                    {
+                        "count": 1,
+                        "id": 55,
+                        "name": "blueberry"
+                    },
+                    {
+                        "count": 1,
+                        "id": 470,
+                        "name": "cassis"
+                    },
+                    {
+                        "count": 1,
+                        "id": 41,
+                        "name": "black olive"
+                    },
+                    {
+                        "count": 1,
+                        "id": 43,
+                        "name": "black plum"
+                    }
+                ],
+                "stats": {
+                    "count": 15,
+                    "mentions_count": 19,
+                    "score": 1874
+                }
+            },
+            {
+                "group": "earth",
+                "primary_keywords": [
+                    {
+                        "count": 4,
+                        "id": 242,
+                        "name": "leather"
+                    },
+                    {
+                        "count": 3,
+                        "id": 156,
+                        "name": "earthy"
+                    },
+                    {
+                        "count": 2,
+                        "id": 384,
+                        "name": "smoke"
+                    },
+                    {
+                        "count": 1,
+                        "id": 14,
+                        "name": "ash"
+                    },
+                    {
+                        "count": 1,
+                        "id": 383,
+                        "name": "slate"
+                    }
+                ],
+                "secondary_keywords": [
+                    {
+                        "count": 3,
+                        "id": 422,
+                        "name": "tobacco"
+                    },
+                    {
+                        "count": 1,
+                        "id": 134,
+                        "name": "dark chocolate"
+                    }
+                ],
+                "stats": {
+                    "count": 12,
+                    "mentions_count": 11,
+                    "score": 1056
+                }
+            },
+            {
+                "group": "spices",
+                "primary_keywords": [
+                    {
+                        "count": 4,
+                        "id": 105,
+                        "name": "cinnamon"
+                    },
+                    {
+                        "count": 3,
+                        "id": 320,
+                        "name": "pepper"
+                    },
+                    {
+                        "count": 2,
+                        "id": 161,
+                        "name": "fennel"
+                    },
+                    {
+                        "count": 1,
+                        "id": 373,
+                        "name": "rosemary"
+                    },
+                    {
+                        "count": 1,
+                        "id": 159,
+                        "name": "eucalyptus"
+                    }
+                ],
+                "secondary_keywords": [
+                    {
+                        "count": 2,
+                        "id": 112,
+                        "name": "clove"
+                    }
+                ],
+                "stats": {
+                    "count": 9,
+                    "mentions_count": 11,
+                    "score": 940
+                }
+            },
+            {
+                "group": "red_fruit",
+                "primary_keywords": [
+                    {
+                        "count": 3,
+                        "id": 348,
+                        "name": "raspberry"
+                    },
+                    {
+                        "count": 2,
+                        "id": 93,
+                        "name": "cherry"
+                    },
+                    {
+                        "count": 2,
+                        "id": 354,
+                        "name": "red fruit"
+                    },
+                    {
+                        "count": 1,
+                        "id": 400,
+                        "name": "strawberry"
+                    }
+                ],
+                "secondary_keywords": [
+                    {
+                        "count": 2,
+                        "id": 38,
+                        "name": "black cherry"
+                    }
+                ],
+                "stats": {
+                    "count": 9,
+                    "mentions_count": 8,
+                    "score": 826
+                }
+            },
+            {
+                "group": "dried_fruit",
+                "primary_keywords": [
+                    {
+                        "count": 1,
+                        "id": 347,
+                        "name": "raisin"
+                    }
+                ],
+                "stats": {
+                    "count": 1,
+                    "mentions_count": 1,
+                    "score": 100
+                }
+            },
+            {
+                "group": "microbio",
+                "primary_keywords": [
+                    {
+                        "count": 1,
+                        "id": 123,
+                        "name": "cream"
+                    }
+                ],
+                "stats": {
+                    "count": 1,
+                    "mentions_count": 1,
+                    "score": 100
+                }
+            },
+            {
+                "group": "non_oak",
+                "secondary_keywords": [
+                    {
+                        "count": 4,
+                        "id": 105,
+                        "name": "cinnamon"
+                    },
+                    {
+                        "count": 3,
+                        "id": 422,
+                        "name": "tobacco"
+                    },
+                    {
+                        "count": 3,
+                        "id": 83,
+                        "name": "cedar"
+                    },
+                    {
+                        "count": 2,
+                        "id": 384,
+                        "name": "smoke"
+                    },
+                    {
+                        "count": 2,
+                        "id": 112,
+                        "name": "clove"
+                    },
+                    {
+                        "count": 1,
+                        "id": 158,
+                        "name": "espresso"
+                    }
+                ],
+                "stats": {
+                    "count": 10,
+                    "mentions_count": 0,
+                    "score": 189
+                }
+            }
+        ],
+        "structure": {
+            "acidity": 3.6534598,
+            "calculated_structure_count": 35,
+            "fizziness": null,
+            "intensity": 4.6441135,
+            "sweetness": 1.6386287,
+            "tannin": 3.085232,
+            "user_structure_count": 19
+        }
+    },
+    "message": "Получена ссылка vivino"
+}

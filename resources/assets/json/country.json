@@ -1,0 +1,36 @@
+{
+    "code": "fr",
+    "name": "France",
+    "native_name": "France",
+    "seo_name": "france",
+    "regions_count": 1307,
+    "users_count": 6218418,
+    "wines_count": 427026,
+    "wineries_count": 67776,
+    "most_used_grapes": [
+        {
+            "id": 5,
+            "name": "Chardonnay",
+            "seo_name": "chardonnay",
+            "has_detailed_info": true,
+            "wines_count": 604208,
+            "parent_grape_id": null
+        },
+        {
+            "id": 10,
+            "name": "Merlot",
+            "seo_name": "merlot",
+            "has_detailed_info": true,
+            "wines_count": 566719,
+            "parent_grape_id": null
+        },
+        {
+            "id": 14,
+            "name": "Pinot Noir",
+            "seo_name": "pinot-noir",
+            "has_detailed_info": true,
+            "wines_count": 572334,
+            "parent_grape_id": null
+        }
+    ]
+}

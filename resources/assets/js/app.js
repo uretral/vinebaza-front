@@ -6,12 +6,7 @@ import './alpine-components/ranger.js'
 import './alpine-components/select-horizontal'
 import './alpine-components/is-visible'
 
-
-
 Livewire.start()
-
-// require('./bootstrap');
-
 
 import axios  from "axios";
 window.axios = axios

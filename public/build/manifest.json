@@ -1,7 +1,15 @@
 {
+  "_pusher-ff0a1511.js": {
+    "file": "assets/pusher-ff0a1511.js"
+  },
   "resources/assets/_sk/карточка-товара.jpg": {
     "file": "assets/карточка-товара-c8549ad3.jpg",
     "src": "resources/assets/_sk/карточка-товара.jpg"
+  },
+  "resources/assets/admin/css/app.less": {
+    "file": "assets/app-bd16ff5b.css",
+    "isEntry": true,
+    "src": "resources/assets/admin/css/app.less"
   },
   "resources/assets/fonts/CoreRhino85Black.ttf": {
     "file": "assets/CoreRhino85Black-9867cd7b.ttf",
@@ -381,7 +389,7 @@
   },
   "resources/assets/img/bottle-list.png": {
     "file": "assets/bottle-c506bb82.png",
-    "src": "resources/assets/img/bottle-list.png"
+    "src": "resources/assets/img/bottle.png"
   },
   "resources/assets/img/bottle-search-thumb.png": {
     "file": "assets/bottle-search-thumb-b56d7c68.png",
@@ -389,7 +397,7 @@
   },
   "resources/assets/img/bottle.png": {
     "file": "assets/bottle-c506bb82.png",
-    "src": "resources/assets/img/bottle-list.png"
+    "src": "resources/assets/img/bottle.png"
   },
   "resources/assets/img/brand-1.png": {
     "file": "assets/brand-1-25b60aa5.png",
@@ -815,15 +823,26 @@
     "file": "assets/dish_5-20773622.png",
     "src": "resources/assets/img/Слой_671.png"
   },
+  "resources/assets/js/app-admin.js": {
+    "file": "assets/app-admin-381c897d.js",
+    "imports": [
+      "_pusher-ff0a1511.js"
+    ],
+    "isEntry": true,
+    "src": "resources/assets/js/app-admin.js"
+  },
   "resources/assets/js/app.css": {
-    "file": "assets/app-2392d5c4.css",
+    "file": "assets/app-3412f0ee.css",
     "src": "resources/assets/js/app.css"
   },
   "resources/assets/js/app.js": {
     "css": [
-      "assets/app-2392d5c4.css"
+      "assets/app-3412f0ee.css"
     ],
-    "file": "assets/app-ab2ec486.js",
+    "file": "assets/app-2aee557c.js",
+    "imports": [
+      "_pusher-ff0a1511.js"
+    ],
     "isEntry": true,
     "src": "resources/assets/js/app.js"
   },

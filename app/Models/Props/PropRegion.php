@@ -40,6 +40,8 @@ use Illuminate\Database\Eloquent\Model;
  * @method static \Illuminate\Database\Eloquent\Builder|\App\Models\Props\PropRegion whereNativeName($value)
  * @method static \Illuminate\Database\Eloquent\Builder|\App\Models\Props\PropRegion whereSeoName($value)
  * @method static \Illuminate\Database\Eloquent\Builder|\App\Models\Props\PropRegion whereVivinoId($value)
+ * @property string|null $slug
+ * @method static \Illuminate\Database\Eloquent\Builder|PropRegion whereSlug($value)
  * @mixin \Eloquent
  */
 class PropRegion extends Model

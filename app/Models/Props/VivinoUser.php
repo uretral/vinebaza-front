@@ -26,6 +26,8 @@ use Illuminate\Database\Eloquent\Model;
  * @method static \Illuminate\Database\Eloquent\Builder|\App\Models\Props\VivinoUser whereUpdatedAt($value)
  * @method static \Illuminate\Database\Eloquent\Builder|\App\Models\Props\VivinoUser whereVivinoId($value)
  * @method static \Illuminate\Database\Eloquent\Builder|\App\Models\Props\VivinoUser whereAvatar($value)
+ * @property string|null $language
+ * @method static \Illuminate\Database\Eloquent\Builder|VivinoUser whereLanguage($value)
  * @mixin \Eloquent
  */
 class VivinoUser extends Model

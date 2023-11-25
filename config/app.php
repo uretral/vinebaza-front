@@ -159,7 +159,7 @@ return [
         /*
          * Package Service Providers...
          */
-
+        Intervention\Image\ImageServiceProvider::class,
         /*
          * Application Service Providers...
          */
@@ -182,7 +182,8 @@ return [
     */
 
     'aliases' => Facade::defaultAliases()->merge([
-        'vite' => \Illuminate\Support\Facades\Vite::class
+        'vite' => \Illuminate\Support\Facades\Vite::class,
+        'Image' => \Intervention\Image\Facades\Image::class
     ])->toArray(),
 
 ];

@@ -30,6 +30,8 @@ use Illuminate\Database\Eloquent\Model;
  * @method static \Illuminate\Database\Eloquent\Builder|\App\Models\Props\PropColor whereLogId($value)
  * @method static \Illuminate\Database\Eloquent\Builder|\App\Models\Props\PropColor wherePassed($value)
  * @method static \Illuminate\Database\Eloquent\Builder|\App\Models\Props\PropColor whereText($value)
+ * @property string|null $slug
+ * @method static \Illuminate\Database\Eloquent\Builder|PropColor whereSlug($value)
  * @mixin \Eloquent
  */
 class PropColor extends Model

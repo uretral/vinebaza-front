@@ -36,6 +36,8 @@ use Illuminate\Database\Eloquent\Model;
  * @method static \Illuminate\Database\Eloquent\Builder|\App\Models\Props\PropBrand whereSubRegionId($value)
  * @method static \Illuminate\Database\Eloquent\Builder|\App\Models\Props\PropBrand whereText($value)
  * @method static \Illuminate\Database\Eloquent\Builder|\App\Models\Props\PropBrand whereUrl($value)
+ * @property string|null $slug
+ * @method static \Illuminate\Database\Eloquent\Builder|PropBrand whereSlug($value)
  * @mixin \Eloquent
  */
 class PropBrand extends Model

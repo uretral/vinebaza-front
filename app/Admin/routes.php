@@ -19,6 +19,7 @@ Route::group([
     // ПАРСЕРЫ
     $router->resource('/parser/winestyle', \App\Admin\Controllers\Vue\ParserController::class);
     $router->resource('/parser/vivino', \App\Admin\Controllers\Vue\VivinoController::class);
+    $router->resource('/parser/v', \App\Admin\Controllers\Vue\VivinoVController::class);
     $router->resource('/parser/vivino_checker', \App\Admin\Controllers\Vue\VivinoCheckerController::class);
     $router->resource('/parser/json_parser', \App\Admin\Controllers\Vue\VivinoJsonController::class);
     // ДОНОРЫ

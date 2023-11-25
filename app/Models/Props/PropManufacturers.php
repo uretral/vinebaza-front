@@ -40,6 +40,8 @@ use Illuminate\Database\Eloquent\Model;
  * @method static \Illuminate\Database\Eloquent\Builder|\App\Models\Props\PropManufacturers whereUrl($value)
  * @property int|null $vivino_id
  * @method static \Illuminate\Database\Eloquent\Builder|\App\Models\Props\PropManufacturers whereVivinoId($value)
+ * @property string|null $slug
+ * @method static \Illuminate\Database\Eloquent\Builder|PropManufacturers whereSlug($value)
  * @mixin \Eloquent
  */
 class PropManufacturers extends Model

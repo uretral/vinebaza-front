@@ -54,6 +54,8 @@ use Illuminate\Database\Eloquent\Model;
  * @method static \Illuminate\Database\Eloquent\Builder|PropCountry whereActive($value)
  * @method static \Illuminate\Database\Eloquent\Builder|PropCountry whereNameFromEn($value)
  * @method static \Illuminate\Database\Eloquent\Builder|PropCountry whereNameFromRu($value)
+ * @property string|null $slug
+ * @method static \Illuminate\Database\Eloquent\Builder|PropCountry whereSlug($value)
  * @mixin \Eloquent
  */
 class PropCountry extends Model

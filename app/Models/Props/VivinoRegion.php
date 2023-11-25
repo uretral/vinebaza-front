@@ -28,6 +28,8 @@ use Illuminate\Database\Eloquent\Model;
  * @method static \Illuminate\Database\Eloquent\Builder|\App\Models\Props\VivinoRegion whereSeoName($value)
  * @method static \Illuminate\Database\Eloquent\Builder|\App\Models\Props\VivinoRegion whereUpdatedAt($value)
  * @method static \Illuminate\Database\Eloquent\Builder|\App\Models\Props\VivinoRegion whereVivinoId($value)
+ * @property string|null $slug
+ * @method static \Illuminate\Database\Eloquent\Builder|VivinoRegion whereSlug($value)
  * @mixin \Eloquent
  */
 class VivinoRegion extends Model

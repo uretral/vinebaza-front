@@ -1,0 +1,380 @@
+{
+    "id": 17,
+    "name": "Sauvignon Blanc",
+    "description": "Sauvignon Blanc or Fumé Blanc as it also called, is a white wine best known for its grassy, herbal flavors.\n\nSauvignon Blanc ranges in style and flavor, depending on the ripeness of the grapes when they are picked and where it is grown. Most famous are the those from France and New Zealand, but nice Sauvignon Blancs can also be found in the US, Italy and South Africa. \n\nIn France it is known for its pivotal role in the renowned Sancerre and Pouilly-Fume varietals.  \n\nSome of the best Sauvignon Blancs come from the cool region of Marlborough, New Zealand where the grapes thrive especially well. Here the crisp citrus and distinct herbaceous qualities of the grape really come forth. \n\nThe grape doesn’t take well to warm climates, where it can loose its zesty characteristics and top over on acidity. The wines are usually best drunk relatively young and are a popular choice for fish and shellfish. ",
+    "has_detailed_info": true,
+    "parent_grape_id": null,
+    "aliases": [
+        {
+            "id": 191,
+            "name": "Fumé Blanc",
+            "seo_name": "fume-blanc",
+            "has_detailed_info": false,
+            "wines_count": 1075,
+            "parent_grape_id": 17
+        }
+    ],
+    "originating_grapes": [],
+    "seo_name": "sauvignon-blanc",
+    "flavor_profile": "Green apples, white peach and passion fruit",
+    "color": 1,
+    "acidity": 3,
+    "body": 2,
+    "wines_count": 292440,
+    "acidity_description": "High",
+    "body_description": "Light-bodied",
+    "main_region": {
+        "id": 729,
+        "name": "Loire Valley",
+        "name_en": "Val de Loire",
+        "seo_name": "loire-valley",
+        "country": {
+            "code": "fr",
+            "name": "France",
+            "native_name": "France",
+            "seo_name": "france",
+            "currency": {
+                "code": "EUR",
+                "name": "Euros",
+                "prefix": "€",
+                "suffix": null
+            },
+            "regions_count": 1307,
+            "users_count": 6218418,
+            "wines_count": 427026,
+            "wineries_count": 67776,
+            "most_used_grapes": [
+                {
+                    "id": 14,
+                    "name": "Pinot Noir",
+                    "seo_name": "pinot-noir",
+                    "has_detailed_info": true,
+                    "wines_count": 572334,
+                    "parent_grape_id": null
+                },
+                {
+                    "id": 5,
+                    "name": "Chardonnay",
+                    "seo_name": "chardonnay",
+                    "has_detailed_info": true,
+                    "wines_count": 604208,
+                    "parent_grape_id": null
+                },
+                {
+                    "id": 10,
+                    "name": "Merlot",
+                    "seo_name": "merlot",
+                    "has_detailed_info": true,
+                    "wines_count": 566719,
+                    "parent_grape_id": null
+                }
+            ]
+        },
+        "parent_id": null,
+        "background_image": {
+            "location": "//images.vivino.com/regions/backgrounds/9lP_DxrNQnuADJ7Hv4SYuA.jpg",
+            "variations": {
+                "large": "//thumbs.vivino.com/region_backgrounds/9lP_DxrNQnuADJ7Hv4SYuA_1280x760.jpg",
+                "medium": "//thumbs.vivino.com/region_backgrounds/9lP_DxrNQnuADJ7Hv4SYuA_600x356.jpg"
+            }
+        },
+        "class": {
+            "typecast_map": {
+                "background_image": {},
+                "class": {}
+            }
+        },
+        "statistics": {
+            "wineries_count": 1986,
+            "wines_count": 7595,
+            "sub_regions_count": 11,
+            "parent_regions_count": 0
+        }
+    },
+    "country_code": "fr",
+    "top_types": [
+        {
+            "id": 1,
+            "name": "Red Wine",
+            "percent": 10
+        },
+        {
+            "id": 2,
+            "name": "White Wine",
+            "percent": 79
+        }
+    ],
+    "top_countries_of_use": [
+        {
+            "percent": 7,
+            "entity": {
+                "code": "au",
+                "name": "Australia",
+                "native_name": "Australia",
+                "seo_name": "australia",
+                "currency": {
+                    "code": "AUD",
+                    "name": "Australian Dollars",
+                    "prefix": "$",
+                    "suffix": null
+                },
+                "regions_count": 120,
+                "users_count": 1055436,
+                "wines_count": 92169,
+                "wineries_count": 14003,
+                "most_used_grapes": [
+                    {
+                        "id": 1,
+                        "name": "Shiraz/Syrah",
+                        "seo_name": "shiraz-syrah",
+                        "has_detailed_info": true,
+                        "wines_count": 551112,
+                        "parent_grape_id": null
+                    },
+                    {
+                        "id": 2,
+                        "name": "Cabernet Sauvignon",
+                        "seo_name": "cabernet-sauvignon",
+                        "has_detailed_info": true,
+                        "wines_count": 801751,
+                        "parent_grape_id": null
+                    },
+                    {
+                        "id": 5,
+                        "name": "Chardonnay",
+                        "seo_name": "chardonnay",
+                        "has_detailed_info": true,
+                        "wines_count": 604208,
+                        "parent_grape_id": null
+                    }
+                ]
+            }
+        },
+        {
+            "percent": 6,
+            "entity": {
+                "code": "cl",
+                "name": "Chile",
+                "native_name": "Chile",
+                "seo_name": "chile",
+                "currency": {
+                    "code": "CLP",
+                    "name": "Chiliean Peso",
+                    "prefix": "$",
+                    "suffix": null
+                },
+                "regions_count": 41,
+                "users_count": 337041,
+                "wines_count": 41922,
+                "wineries_count": 5836,
+                "most_used_grapes": [
+                    {
+                        "id": 2,
+                        "name": "Cabernet Sauvignon",
+                        "seo_name": "cabernet-sauvignon",
+                        "has_detailed_info": true,
+                        "wines_count": 801751,
+                        "parent_grape_id": null
+                    },
+                    {
+                        "id": 51,
+                        "name": "Carménère",
+                        "seo_name": "carmenere",
+                        "has_detailed_info": true,
+                        "wines_count": 50087,
+                        "parent_grape_id": null
+                    },
+                    {
+                        "id": 10,
+                        "name": "Merlot",
+                        "seo_name": "merlot",
+                        "has_detailed_info": true,
+                        "wines_count": 566719,
+                        "parent_grape_id": null
+                    }
+                ]
+            }
+        },
+        {
+            "percent": 31,
+            "entity": {
+                "code": "fr",
+                "name": "France",
+                "native_name": "France",
+                "seo_name": "france",
+                "currency": {
+                    "code": "EUR",
+                    "name": "Euros",
+                    "prefix": "€",
+                    "suffix": null
+                },
+                "regions_count": 1307,
+                "users_count": 6218418,
+                "wines_count": 427026,
+                "wineries_count": 67776,
+                "most_used_grapes": [
+                    {
+                        "id": 14,
+                        "name": "Pinot Noir",
+                        "seo_name": "pinot-noir",
+                        "has_detailed_info": true,
+                        "wines_count": 572334,
+                        "parent_grape_id": null
+                    },
+                    {
+                        "id": 5,
+                        "name": "Chardonnay",
+                        "seo_name": "chardonnay",
+                        "has_detailed_info": true,
+                        "wines_count": 604208,
+                        "parent_grape_id": null
+                    },
+                    {
+                        "id": 10,
+                        "name": "Merlot",
+                        "seo_name": "merlot",
+                        "has_detailed_info": true,
+                        "wines_count": 566719,
+                        "parent_grape_id": null
+                    }
+                ]
+            }
+        },
+        {
+            "percent": 6,
+            "entity": {
+                "code": "it",
+                "name": "Italy",
+                "native_name": "Italia",
+                "seo_name": "italy",
+                "currency": {
+                    "code": "EUR",
+                    "name": "Euros",
+                    "prefix": "€",
+                    "suffix": null
+                },
+                "regions_count": 563,
+                "users_count": 4360726,
+                "wines_count": 278292,
+                "wineries_count": 42616,
+                "most_used_grapes": [
+                    {
+                        "id": 16,
+                        "name": "Sangiovese",
+                        "seo_name": "sangiovese",
+                        "has_detailed_info": true,
+                        "wines_count": 125094,
+                        "parent_grape_id": null
+                    },
+                    {
+                        "id": 5,
+                        "name": "Chardonnay",
+                        "seo_name": "chardonnay",
+                        "has_detailed_info": true,
+                        "wines_count": 604208,
+                        "parent_grape_id": null
+                    },
+                    {
+                        "id": 10,
+                        "name": "Merlot",
+                        "seo_name": "merlot",
+                        "has_detailed_info": true,
+                        "wines_count": 566719,
+                        "parent_grape_id": null
+                    }
+                ]
+            }
+        },
+        {
+            "percent": 5,
+            "entity": {
+                "code": "nz",
+                "name": "New Zealand",
+                "native_name": "New Zealand",
+                "seo_name": "new-zealand",
+                "currency": {
+                    "code": "NZD",
+                    "name": "New Zealand Dollars",
+                    "prefix": "$",
+                    "suffix": null
+                },
+                "regions_count": 37,
+                "users_count": 103631,
+                "wines_count": 15943,
+                "wineries_count": 3019,
+                "most_used_grapes": [
+                    {
+                        "id": 14,
+                        "name": "Pinot Noir",
+                        "seo_name": "pinot-noir",
+                        "has_detailed_info": true,
+                        "wines_count": 572334,
+                        "parent_grape_id": null
+                    },
+                    {
+                        "id": 17,
+                        "name": "Sauvignon Blanc",
+                        "seo_name": "sauvignon-blanc",
+                        "has_detailed_info": true,
+                        "wines_count": 292440,
+                        "parent_grape_id": null
+                    },
+                    {
+                        "id": 5,
+                        "name": "Chardonnay",
+                        "seo_name": "chardonnay",
+                        "has_detailed_info": true,
+                        "wines_count": 604208,
+                        "parent_grape_id": null
+                    }
+                ]
+            }
+        },
+        {
+            "percent": 10,
+            "entity": {
+                "code": "us",
+                "name": "United States",
+                "native_name": "United States",
+                "seo_name": "united-states",
+                "currency": {
+                    "code": "USD",
+                    "name": "US Dollars",
+                    "prefix": "$",
+                    "suffix": null
+                },
+                "regions_count": 364,
+                "users_count": 12544097,
+                "wines_count": 207110,
+                "wineries_count": 28263,
+                "most_used_grapes": [
+                    {
+                        "id": 2,
+                        "name": "Cabernet Sauvignon",
+                        "seo_name": "cabernet-sauvignon",
+                        "has_detailed_info": true,
+                        "wines_count": 801751,
+                        "parent_grape_id": null
+                    },
+                    {
+                        "id": 14,
+                        "name": "Pinot Noir",
+                        "seo_name": "pinot-noir",
+                        "has_detailed_info": true,
+                        "wines_count": 572334,
+                        "parent_grape_id": null
+                    },
+                    {
+                        "id": 5,
+                        "name": "Chardonnay",
+                        "seo_name": "chardonnay",
+                        "has_detailed_info": true,
+                        "wines_count": 604208,
+                        "parent_grape_id": null
+                    }
+                ]
+            }
+        }
+    ],
+    "food": []
+}

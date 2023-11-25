@@ -55,4 +55,13 @@ Route::post('/parse/prodprodprod',function (){
 
 });
 
-Route::any('/vivino', '\App\Services\Vivino\VivinoVueController@async');
+Route::any('/vivino', '\App\Services\Vivino\VivinoService@async');
+
+
+Route::any('www', fn() => view('welcome'));
+
+/*Route::group(['prefix' => 'parse'], function () {
+    Route::any('par');
+});*/
+
+

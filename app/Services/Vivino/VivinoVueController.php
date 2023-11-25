@@ -33,8 +33,6 @@ class VivinoVueController extends Controller
         } else {
             return 'double';
         }
-
-
     }
 
     public function search($data)

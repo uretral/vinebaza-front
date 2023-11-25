@@ -163,7 +163,7 @@
             },
         },
         methods: {
-// id, search_name
+
             showAction(key) {
                 this.$set(this.$data, 'currentActionKey', key);
             },
@@ -182,7 +182,7 @@
             async startParse() {
 
                 // let id = this.vivinoPagesCount ? this.vivinoStart - 1 :
-                await this.tableData.unshift(this.prepareObj());
+                this.tableData.unshift(this.prepareObj());
                 this.currentAction = [];
                 try {
                     this.currentAction.push({text: 'Получение продукта', val: 'loading'});
@@ -192,7 +192,7 @@
                     });
                     if (response.data) {
                         if (response.data === 'double') {
-                            await this.currentAction.splice(this.currentAction.length - 1, 1, {
+                            this.currentAction.splice(this.currentAction.length - 1, 1, {
                                 text: 'Продукт спарсен',
                                 val: 'в базе'
                             });
@@ -206,7 +206,7 @@
                             this.tableData[0].p_id = await response.data.id;
                             this.tableData[0].p_code = await response.data.code;
                             this.tableData[0].p_s_name = await response.data.name;
-                            await this.currentAction.splice(this.currentAction.length - 1, 1, {
+                            this.currentAction.splice(this.currentAction.length - 1, 1, {
                                 text: 'Получен продукт',
                                 val: response.data.id
                             });
@@ -230,11 +230,11 @@
                     if (response.data === 'nothing') {
                         this.tableData[0].v_s_code = null;
                         this.tableData[0].step = await this.tableData[0].step + 1;
-                        await this.currentAction.splice(this.currentAction.length - 1, 1, {
+                        this.currentAction.splice(this.currentAction.length - 1, 1, {
                             text: 'НЕ найден продукт',
                             val: false
                         });
-                        await this.currentAction.splice(this.currentAction.length - 1, 1, {
+                        this.currentAction.splice(this.currentAction.length - 1, 1, {
                             text: 'Попытка #' + this.tableData[0].step,
                             val: false
                         });
@@ -244,15 +244,16 @@
                             await this.nextItem();
                         }
                     } else {
+                        console.log( this.tableData[0]);
                         this.tableData[0].v_s_code = Number(response.data.replace('/wines/', ''));
-                        await this.currentAction.splice(this.currentAction.length - 1, 1, {
+                        this.currentAction.splice(this.currentAction.length - 1, 1, {
                             text: 'Найден продукт',
                             val: this.tableData[0].v_s_code
                         });
                         await this.vivinoJson(this.tableData[0].v_s_code);
                     }
                 } catch (error) {
-                    await this.currentAction.splice(this.currentAction.length - 1, 1, {
+                    this.currentAction.splice(this.currentAction.length - 1, 1, {
                         text: 'НЕ найден продукт (error)',
                         val: false
                     });
@@ -268,7 +269,7 @@
                         link: link
                     });
                     if (await response.data) {
-                        await this.currentAction.splice(this.currentAction.length - 1, 1, {
+                        this.currentAction.splice(this.currentAction.length - 1, 1, {
                             text: 'Получен json',
                             val: 'ok'
                         });
@@ -291,7 +292,7 @@
 
                     } else {
 
-                        await this.currentAction.splice(this.currentAction.length - 1, 1, {
+                        this.currentAction.splice(this.currentAction.length - 1, 1, {
                             text: 'НЕ Получен json',
                             val: false
                         });
@@ -299,7 +300,7 @@
                     }
                 } catch (error) {
                     console.log(error);
-                    await this.currentAction.splice(this.currentAction.length - 1, 1, {
+                    this.currentAction.splice(this.currentAction.length - 1, 1, {
                         text: 'НЕ Получен json (error)',
                         val: false
                     });
@@ -313,7 +314,7 @@
                         row: this.tableData[0]
                     });
                     if (response.data) {
-                        await this.currentAction.splice(this.currentAction.length - 1, 1, {
+                        this.currentAction.splice(this.currentAction.length - 1, 1, {
                             text: 'Данные сохранены',
                             val: 'success'
                         });
@@ -322,7 +323,7 @@
 
                     }
                 } catch (error) {
-                    await this.currentAction.splice(this.currentAction.length - 1, 1, {
+                    this.currentAction.splice(this.currentAction.length - 1, 1, {
                         text: 'Данные не сохранены (error)',
                         val: false
                     });
@@ -340,7 +341,7 @@
                         case: 'highlights'
                     });
                     if (response.data) {
-                        await this.currentAction.splice(this.currentAction.length - 1, 1, {
+                        this.currentAction.splice(this.currentAction.length - 1, 1, {
                             text: 'highlights',
                             val: 'success'
                         });
@@ -349,7 +350,7 @@
                         await this.propsRecommended();
                     }
                 } catch (error) {
-                    await this.currentAction.splice(this.currentAction.length - 1, 1, {
+                    this.currentAction.splice(this.currentAction.length - 1, 1, {
                         text: 'highlights не сохранено (error)',
                         val: false
                     });
@@ -368,7 +369,7 @@
                         case: 'recommended'
                     });
                     if (response.data) {
-                        await this.currentAction.splice(this.currentAction.length - 1, 1, {
+                        this.currentAction.splice(this.currentAction.length - 1, 1, {
                             text: 'recommended',
                             val: 'success'
                         });
@@ -376,7 +377,7 @@
                         await this.propsReviews();
                     }
                 } catch (error) {
-                    await this.currentAction.splice(this.currentAction.length - 1, 1, {
+                    this.currentAction.splice(this.currentAction.length - 1, 1, {
                         text: 'recommended не сохранено (error)',
                         val: false
                     });
@@ -393,7 +394,7 @@
                         case: 'reviews'
                     });
                     if (response.data) {
-                        await this.currentAction.splice(this.currentAction.length - 1, 1, {
+                        this.currentAction.splice(this.currentAction.length - 1, 1, {
                             text: 'Reviews',
                             val: 'success'
                         });
@@ -403,7 +404,7 @@
 
                     }
                 } catch (error) {
-                    await this.currentAction.splice(this.currentAction.length - 1, 1, {
+                    this.currentAction.splice(this.currentAction.length - 1, 1, {
                         text: 'Reviews не сохранено (error)',
                         val: false
                     });
@@ -421,7 +422,7 @@
                         case: 'tastes'
                     });
                     if (response.data) {
-                        await this.currentAction.splice(this.currentAction.length - 1, 1, {
+                        this.currentAction.splice(this.currentAction.length - 1, 1, {
                             text: 'propsTastes',
                             val: 'success'
                         });
@@ -434,7 +435,7 @@
 
                     }
                 } catch (error) {
-                    await this.currentAction.splice(this.currentAction.length - 1, 1, {
+                    this.currentAction.splice(this.currentAction.length - 1, 1, {
                         text: 'propsTastes не сохранено (error)',
                         val: false
                     });
@@ -453,7 +454,7 @@
                         case: 'others'
                     });
                     if (response.data) {
-                        await this.currentAction.splice(this.currentAction.length - 1, 1, {
+                        this.currentAction.splice(this.currentAction.length - 1, 1, {
                             text: 'propsOthers',
                             val: 'success'
                         });
@@ -469,7 +470,7 @@
 
                     }
                 } catch (error) {
-                    await this.currentAction.splice(this.currentAction.length - 1, 1, {
+                    this.currentAction.splice(this.currentAction.length - 1, 1, {
                         text: 'propsOthers не сохранено (error)',
                         val: false
                     });
@@ -509,7 +510,7 @@
     }
 </script>
 
-<style scoped>
+<style>
     [type="text"] {
         width: 50px;
     }

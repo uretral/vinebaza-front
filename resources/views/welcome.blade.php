@@ -1,99 +1,76 @@
 <!DOCTYPE html>
 <html lang="{{ str_replace('_', '-', app()->getLocale()) }}">
-    <head>
-        <meta charset="utf-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
 
-        <title>Laravel</title>
+    <title>Getting RealTime Notification</title>
+    <meta name="csrf-token" content="{{ csrf_token() }}">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
 
-        <!-- Fonts -->
-        <link href="https://fonts.googleapis.com/css?family=Nunito:200,600" rel="stylesheet">
 
-        <!-- Styles -->
-        <style>
-            html, body {
-                background-color: #fff;
-                color: #636b6f;
-                font-family: 'Nunito', sans-serif;
-                font-weight: 200;
-                height: 100vh;
-                margin: 0;
-            }
+</head>
+<body class="antialiased">
 
-            .full-height {
-                height: 100vh;
-            }
+<div class="container">
+    <div style="display:none;" class="alert alert-success" id="notification_panel">kfdghfdkjgh</div>
 
-            .flex-center {
-                align-items: center;
-                display: flex;
-                justify-content: center;
-            }
 
-            .position-ref {
-                position: relative;
-            }
+    <div class="jumbotron" style="margin-top:15px;">
+        <h1 class="display-4">Realtime Notification</h1>
+        <p class="lead">When you fire an event from websockets dashboard, you will receive notification here on the top.</p>
+        </p>
+    </div>
 
-            .top-right {
-                position: absolute;
-                right: 10px;
-                top: 18px;
-            }
 
-            .content {
-                text-align: center;
-            }
+</div>
 
-            .title {
-                font-size: 84px;
-            }
+</body>
 
-            .links > a {
-                color: #636b6f;
-                padding: 0 25px;
-                font-size: 13px;
-                font-weight: 600;
-                letter-spacing: .1rem;
-                text-decoration: none;
-                text-transform: uppercase;
-            }
 
-            .m-b-md {
-                margin-bottom: 30px;
-            }
-        </style>
-    </head>
-    <body>
-        <div class="flex-center position-ref full-height">
-            @if (Route::has('login'))
-                <div class="top-right links">
-                    @auth
-                        <a href="{{ url('/home') }}">Home</a>
-                    @else
-                        <a href="{{ route('login') }}">Login</a>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.6.0/dist/umd/popper.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/js/bootstrap.min.js"></script>
 
-                        @if (Route::has('register'))
-                            <a href="{{ route('register') }}">Register</a>
-                        @endif
-                    @endauth
-                </div>
-            @endif
+<script src="https://js.pusher.com/6.0/pusher.min.js"></script>
+<script>
 
-            <div class="content">
-                <div class="title m-b-md">
-                    Laravel
-                </div>
+    let a_tok = document.querySelector('meta[name="csrf-token"]').content;
 
-                <div class="links">
-                    <a href="https://laravel.com/docs">Docs</a>
-                    <a href="https://laracasts.com">Laracasts</a>
-                    <a href="https://laravel-news.com">News</a>
-                    <a href="https://blog.laravel.com">Blog</a>
-                    <a href="https://nova.laravel.com">Nova</a>
-                    <a href="https://forge.laravel.com">Forge</a>
-                    <a href="https://github.com/laravel/laravel">GitHub</a>
-                </div>
-            </div>
-        </div>
-    </body>
+    //suscribing to pusher channel
+    Pusher.logToConsole = false;
+    var pusher = new Pusher('12345', {
+        cluster: 'mt1',
+        broadcaster: 'pusher',
+        //key: process.env.MIX_PUSHER_APP_KEY,
+        //cluster: process.env.MIX_PUSHER_APP_CLUSTER,
+        forceTLS: false,
+        wsHost: window.location.hostname,
+        wsPort: 6001,
+    });
+
+    var channel = pusher.subscribe('events');
+    channel.bind('App\\Events\\RealTimeMessage',(d) => {
+        if(d.message == null || d.message == ""){
+            $("#notification_panel").removeClass('alert alert-success');
+            $("#notification_panel").addClass('alert alert-danger');
+            $("#notification_panel").text('Notification was blank');
+            $("#notification_panel").fadeIn();
+            setTimeout(function(){
+                $("#notification_panel").fadeOut();
+            },2000);
+        }
+        else{
+            $("#notification_panel").removeClass('alert alert-danger');
+            $("#notification_panel").addClass('alert alert-success');
+            $("#notification_panel").text(d.message);
+            $("#notification_panel").fadeIn();
+            setTimeout(function(){
+                $("#notification_panel").fadeOut();
+            },2000);
+        }
+    });
+
+
+</script>
 </html>

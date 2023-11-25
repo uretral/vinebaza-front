@@ -34,6 +34,8 @@ use Illuminate\Database\Eloquent\Model;
  * @method static \Illuminate\Database\Eloquent\Builder|\App\Models\Props\PropSubRegion whereImg($value)
  * @method static \Illuminate\Database\Eloquent\Builder|\App\Models\Props\PropSubRegion whereLogId($value)
  * @method static \Illuminate\Database\Eloquent\Builder|\App\Models\Props\PropSubRegion wherePassed($value)
+ * @property string|null $slug
+ * @method static \Illuminate\Database\Eloquent\Builder|PropSubRegion whereSlug($value)
  * @mixin \Eloquent
  */
 class PropSubRegion extends Model
